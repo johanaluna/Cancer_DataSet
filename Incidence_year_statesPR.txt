@@ -1,0 +1,906 @@
+"Notes"	"Year"	"Year Code"	"States and Puerto Rico"	"States and Puerto Rico Code"	Count
+	"1999"	"1999"	"Alabama"	"01"	19891
+	"1999"	"1999"	"Alaska"	"02"	2043
+	"1999"	"1999"	"Arizona"	"04"	21878
+	"1999"	"1999"	"California"	"06"	140586
+	"1999"	"1999"	"Colorado"	"08"	16711
+	"1999"	"1999"	"Connecticut"	"09"	19445
+	"1999"	"1999"	"Delaware"	"10"	4128
+	"1999"	"1999"	"District of Columbia"	"11"	3075
+	"1999"	"1999"	"Florida"	"12"	102797
+	"1999"	"1999"	"Georgia"	"13"	31248
+	"1999"	"1999"	"Hawaii"	"15"	5600
+	"1999"	"1999"	"Idaho"	"16"	5371
+	"1999"	"1999"	"Illinois"	"17"	60589
+	"1999"	"1999"	"Indiana"	"18"	28236
+	"1999"	"1999"	"Iowa"	"19"	16243
+	"1999"	"1999"	"Kansas"	"20"	12995
+	"1999"	"1999"	"Kentucky"	"21"	21384
+	"1999"	"1999"	"Louisiana"	"22"	20928
+	"1999"	"1999"	"Maine"	"23"	7397
+	"1999"	"1999"	"Maryland"	"24"	25735
+	"1999"	"1999"	"Massachusetts"	"25"	35517
+	"1999"	"1999"	"Michigan"	"26"	52402
+	"1999"	"1999"	"Minnesota"	"27"	22629
+	"1999"	"1999"	"Missouri"	"29"	28368
+	"1999"	"1999"	"Montana"	"30"	4732
+	"1999"	"1999"	"Nebraska"	"31"	8757
+	"1999"	"1999"	"Nevada"	"32"	7714
+	"1999"	"1999"	"New Hampshire"	"33"	6092
+	"1999"	"1999"	"New Jersey"	"34"	46592
+	"1999"	"1999"	"New Mexico"	"35"	7511
+	"1999"	"1999"	"New York"	"36"	97678
+	"1999"	"1999"	"North Carolina"	"37"	35497
+	"1999"	"1999"	"North Dakota"	"38"	3267
+	"1999"	"1999"	"Ohio"	"39"	58840
+	"1999"	"1999"	"Oklahoma"	"40"	16504
+	"1999"	"1999"	"Oregon"	"41"	18174
+	"1999"	"1999"	"Pennsylvania"	"42"	73117
+	"1999"	"1999"	"Rhode Island"	"44"	6317
+	"1999"	"1999"	"South Carolina"	"45"	19387
+	"1999"	"1999"	"Tennessee"	"47"	22737
+	"1999"	"1999"	"Texas"	"48"	82763
+	"1999"	"1999"	"Utah"	"49"	6815
+	"1999"	"1999"	"Vermont"	"50"	3317
+	"1999"	"1999"	"Virginia"	"51"	29749
+	"1999"	"1999"	"Washington"	"53"	29111
+	"1999"	"1999"	"West Virginia"	"54"	10809
+	"1999"	"1999"	"Wisconsin"	"55"	27680
+	"1999"	"1999"	"Wyoming"	"56"	2266
+	"2000"	"2000"	"Alabama"	"01"	20460
+	"2000"	"2000"	"Alaska"	"02"	2128
+	"2000"	"2000"	"Arizona"	"04"	22713
+	"2000"	"2000"	"California"	"06"	141761
+	"2000"	"2000"	"Colorado"	"08"	17414
+	"2000"	"2000"	"Connecticut"	"09"	20064
+	"2000"	"2000"	"Delaware"	"10"	4290
+	"2000"	"2000"	"District of Columbia"	"11"	3060
+	"2000"	"2000"	"Florida"	"12"	106194
+	"2000"	"2000"	"Georgia"	"13"	34031
+	"2000"	"2000"	"Hawaii"	"15"	5470
+	"2000"	"2000"	"Idaho"	"16"	5822
+	"2000"	"2000"	"Illinois"	"17"	61131
+	"2000"	"2000"	"Indiana"	"18"	29418
+	"2000"	"2000"	"Iowa"	"19"	16177
+	"2000"	"2000"	"Kansas"	"20"	13072
+	"2000"	"2000"	"Kentucky"	"21"	21852
+	"2000"	"2000"	"Louisiana"	"22"	21183
+	"2000"	"2000"	"Maine"	"23"	7800
+	"2000"	"2000"	"Maryland"	"24"	26056
+	"2000"	"2000"	"Massachusetts"	"25"	36225
+	"2000"	"2000"	"Michigan"	"26"	53016
+	"2000"	"2000"	"Minnesota"	"27"	23544
+	"2000"	"2000"	"Missouri"	"29"	28281
+	"2000"	"2000"	"Montana"	"30"	4932
+	"2000"	"2000"	"Nebraska"	"31"	8862
+	"2000"	"2000"	"Nevada"	"32"	9862
+	"2000"	"2000"	"New Hampshire"	"33"	6450
+	"2000"	"2000"	"New Jersey"	"34"	47698
+	"2000"	"2000"	"New Mexico"	"35"	7468
+	"2000"	"2000"	"New York"	"36"	100603
+	"2000"	"2000"	"North Carolina"	"37"	37555
+	"2000"	"2000"	"North Dakota"	"38"	3269
+	"2000"	"2000"	"Ohio"	"39"	57565
+	"2000"	"2000"	"Oklahoma"	"40"	16765
+	"2000"	"2000"	"Oregon"	"41"	17990
+	"2000"	"2000"	"Pennsylvania"	"42"	73536
+	"2000"	"2000"	"Rhode Island"	"44"	6374
+	"2000"	"2000"	"South Carolina"	"45"	19547
+	"2000"	"2000"	"Tennessee"	"47"	23800
+	"2000"	"2000"	"Texas"	"48"	85504
+	"2000"	"2000"	"Utah"	"49"	6765
+	"2000"	"2000"	"Vermont"	"50"	3227
+	"2000"	"2000"	"Virginia"	"51"	30692
+	"2000"	"2000"	"Washington"	"53"	29060
+	"2000"	"2000"	"West Virginia"	"54"	10872
+	"2000"	"2000"	"Wisconsin"	"55"	27497
+	"2000"	"2000"	"Wyoming"	"56"	2289
+	"2001"	"2001"	"Alabama"	"01"	21731
+	"2001"	"2001"	"Alaska"	"02"	2269
+	"2001"	"2001"	"Arizona"	"04"	23969
+	"2001"	"2001"	"Arkansas"	"05"	13613
+	"2001"	"2001"	"California"	"06"	146920
+	"2001"	"2001"	"Colorado"	"08"	18441
+	"2001"	"2001"	"Connecticut"	"09"	20478
+	"2001"	"2001"	"Delaware"	"10"	4482
+	"2001"	"2001"	"District of Columbia"	"11"	3036
+	"2001"	"2001"	"Florida"	"12"	108117
+	"2001"	"2001"	"Georgia"	"13"	35658
+	"2001"	"2001"	"Hawaii"	"15"	5846
+	"2001"	"2001"	"Idaho"	"16"	5887
+	"2001"	"2001"	"Illinois"	"17"	62920
+	"2001"	"2001"	"Indiana"	"18"	30852
+	"2001"	"2001"	"Iowa"	"19"	16629
+	"2001"	"2001"	"Kansas"	"20"	13073
+	"2001"	"2001"	"Kentucky"	"21"	22433
+	"2001"	"2001"	"Louisiana"	"22"	21969
+	"2001"	"2001"	"Maine"	"23"	8130
+	"2001"	"2001"	"Maryland"	"24"	25520
+	"2001"	"2001"	"Massachusetts"	"25"	36916
+	"2001"	"2001"	"Michigan"	"26"	53736
+	"2001"	"2001"	"Minnesota"	"27"	24409
+	"2001"	"2001"	"Missouri"	"29"	29090
+	"2001"	"2001"	"Montana"	"30"	5174
+	"2001"	"2001"	"Nebraska"	"31"	8950
+	"2001"	"2001"	"Nevada"	"32"	10155
+	"2001"	"2001"	"New Hampshire"	"33"	6807
+	"2001"	"2001"	"New Jersey"	"34"	50034
+	"2001"	"2001"	"New Mexico"	"35"	7845
+	"2001"	"2001"	"New York"	"36"	101547
+	"2001"	"2001"	"North Carolina"	"37"	38530
+	"2001"	"2001"	"North Dakota"	"38"	3329
+	"2001"	"2001"	"Ohio"	"39"	59492
+	"2001"	"2001"	"Oklahoma"	"40"	17259
+	"2001"	"2001"	"Oregon"	"41"	18471
+	"2001"	"2001"	"Pennsylvania"	"42"	76866
+	"2001"	"2001"	"Rhode Island"	"44"	6363
+	"2001"	"2001"	"South Carolina"	"45"	20368
+	"2001"	"2001"	"South Dakota"	"46"	4025
+	"2001"	"2001"	"Tennessee"	"47"	24146
+	"2001"	"2001"	"Texas"	"48"	89960
+	"2001"	"2001"	"Utah"	"49"	7235
+	"2001"	"2001"	"Vermont"	"50"	3330
+	"2001"	"2001"	"Virginia"	"51"	30086
+	"2001"	"2001"	"Washington"	"53"	30400
+	"2001"	"2001"	"West Virginia"	"54"	11213
+	"2001"	"2001"	"Wisconsin"	"55"	28952
+	"2001"	"2001"	"Wyoming"	"56"	2273
+	"2002"	"2002"	"Alabama"	"01"	22122
+	"2002"	"2002"	"Alaska"	"02"	2343
+	"2002"	"2002"	"Arizona"	"04"	24109
+	"2002"	"2002"	"Arkansas"	"05"	13658
+	"2002"	"2002"	"California"	"06"	148651
+	"2002"	"2002"	"Colorado"	"08"	18676
+	"2002"	"2002"	"Connecticut"	"09"	20432
+	"2002"	"2002"	"Delaware"	"10"	4521
+	"2002"	"2002"	"District of Columbia"	"11"	3209
+	"2002"	"2002"	"Florida"	"12"	107201
+	"2002"	"2002"	"Georgia"	"13"	36771
+	"2002"	"2002"	"Hawaii"	"15"	5899
+	"2002"	"2002"	"Idaho"	"16"	6124
+	"2002"	"2002"	"Illinois"	"17"	64255
+	"2002"	"2002"	"Indiana"	"18"	31208
+	"2002"	"2002"	"Iowa"	"19"	16769
+	"2002"	"2002"	"Kansas"	"20"	13168
+	"2002"	"2002"	"Kentucky"	"21"	22425
+	"2002"	"2002"	"Louisiana"	"22"	22083
+	"2002"	"2002"	"Maine"	"23"	8188
+	"2002"	"2002"	"Maryland"	"24"	27325
+	"2002"	"2002"	"Massachusetts"	"25"	37638
+	"2002"	"2002"	"Michigan"	"26"	54749
+	"2002"	"2002"	"Minnesota"	"27"	24573
+	"2002"	"2002"	"Missouri"	"29"	29456
+	"2002"	"2002"	"Montana"	"30"	5158
+	"2002"	"2002"	"Nebraska"	"31"	9083
+	"2002"	"2002"	"Nevada"	"32"	10571
+	"2002"	"2002"	"New Hampshire"	"33"	7148
+	"2002"	"2002"	"New Jersey"	"34"	49737
+	"2002"	"2002"	"New Mexico"	"35"	8109
+	"2002"	"2002"	"New York"	"36"	102681
+	"2002"	"2002"	"North Carolina"	"37"	39181
+	"2002"	"2002"	"North Dakota"	"38"	3375
+	"2002"	"2002"	"Ohio"	"39"	59965
+	"2002"	"2002"	"Oklahoma"	"40"	17794
+	"2002"	"2002"	"Oregon"	"41"	18442
+	"2002"	"2002"	"Pennsylvania"	"42"	76430
+	"2002"	"2002"	"Rhode Island"	"44"	6429
+	"2002"	"2002"	"South Carolina"	"45"	21594
+	"2002"	"2002"	"South Dakota"	"46"	4427
+	"2002"	"2002"	"Tennessee"	"47"	25032
+	"2002"	"2002"	"Texas"	"48"	91232
+	"2002"	"2002"	"Utah"	"49"	7381
+	"2002"	"2002"	"Vermont"	"50"	3337
+	"2002"	"2002"	"Virginia"	"51"	31830
+	"2002"	"2002"	"Washington"	"53"	30719
+	"2002"	"2002"	"West Virginia"	"54"	11051
+	"2002"	"2002"	"Wisconsin"	"55"	28222
+	"2002"	"2002"	"Wyoming"	"56"	2298
+	"2003"	"2003"	"Alabama"	"01"	21464
+	"2003"	"2003"	"Alaska"	"02"	2358
+	"2003"	"2003"	"Arizona"	"04"	24517
+	"2003"	"2003"	"Arkansas"	"05"	14227
+	"2003"	"2003"	"California"	"06"	147147
+	"2003"	"2003"	"Colorado"	"08"	18755
+	"2003"	"2003"	"Connecticut"	"09"	20391
+	"2003"	"2003"	"Delaware"	"10"	4517
+	"2003"	"2003"	"District of Columbia"	"11"	3167
+	"2003"	"2003"	"Florida"	"12"	106262
+	"2003"	"2003"	"Georgia"	"13"	37046
+	"2003"	"2003"	"Hawaii"	"15"	5969
+	"2003"	"2003"	"Idaho"	"16"	6175
+	"2003"	"2003"	"Illinois"	"17"	62887
+	"2003"	"2003"	"Indiana"	"18"	31249
+	"2003"	"2003"	"Iowa"	"19"	16504
+	"2003"	"2003"	"Kansas"	"20"	13548
+	"2003"	"2003"	"Kentucky"	"21"	22539
+	"2003"	"2003"	"Louisiana"	"22"	22161
+	"2003"	"2003"	"Maine"	"23"	8223
+	"2003"	"2003"	"Maryland"	"24"	28175
+	"2003"	"2003"	"Massachusetts"	"25"	36836
+	"2003"	"2003"	"Michigan"	"26"	54972
+	"2003"	"2003"	"Minnesota"	"27"	24516
+	"2003"	"2003"	"Mississippi"	"28"	13573
+	"2003"	"2003"	"Missouri"	"29"	29697
+	"2003"	"2003"	"Montana"	"30"	5150
+	"2003"	"2003"	"Nebraska"	"31"	8897
+	"2003"	"2003"	"Nevada"	"32"	10536
+	"2003"	"2003"	"New Hampshire"	"33"	7065
+	"2003"	"2003"	"New Jersey"	"34"	48172
+	"2003"	"2003"	"New Mexico"	"35"	8044
+	"2003"	"2003"	"New York"	"36"	103167
+	"2003"	"2003"	"North Carolina"	"37"	40165
+	"2003"	"2003"	"North Dakota"	"38"	3366
+	"2003"	"2003"	"Ohio"	"39"	59024
+	"2003"	"2003"	"Oklahoma"	"40"	18466
+	"2003"	"2003"	"Oregon"	"41"	18136
+	"2003"	"2003"	"Pennsylvania"	"42"	75330
+	"2003"	"2003"	"Rhode Island"	"44"	6208
+	"2003"	"2003"	"South Carolina"	"45"	21286
+	"2003"	"2003"	"South Dakota"	"46"	4112
+	"2003"	"2003"	"Tennessee"	"47"	26771
+	"2003"	"2003"	"Texas"	"48"	92381
+	"2003"	"2003"	"Utah"	"49"	7709
+	"2003"	"2003"	"Vermont"	"50"	3485
+	"2003"	"2003"	"Virginia"	"51"	34154
+	"2003"	"2003"	"Washington"	"53"	30901
+	"2003"	"2003"	"West Virginia"	"54"	10812
+	"2003"	"2003"	"Wisconsin"	"55"	28360
+	"2003"	"2003"	"Wyoming"	"56"	2426
+	"2004"	"2004"	"Alabama"	"01"	22934
+	"2004"	"2004"	"Alaska"	"02"	2540
+	"2004"	"2004"	"Arizona"	"04"	25113
+	"2004"	"2004"	"Arkansas"	"05"	14288
+	"2004"	"2004"	"California"	"06"	151229
+	"2004"	"2004"	"Colorado"	"08"	19080
+	"2004"	"2004"	"Connecticut"	"09"	20377
+	"2004"	"2004"	"Delaware"	"10"	4694
+	"2004"	"2004"	"District of Columbia"	"11"	2856
+	"2004"	"2004"	"Florida"	"12"	106474
+	"2004"	"2004"	"Georgia"	"13"	38104
+	"2004"	"2004"	"Hawaii"	"15"	6287
+	"2004"	"2004"	"Idaho"	"16"	6373
+	"2004"	"2004"	"Illinois"	"17"	63661
+	"2004"	"2004"	"Indiana"	"18"	31076
+	"2004"	"2004"	"Iowa"	"19"	16742
+	"2004"	"2004"	"Kansas"	"20"	13761
+	"2004"	"2004"	"Kentucky"	"21"	23059
+	"2004"	"2004"	"Louisiana"	"22"	22679
+	"2004"	"2004"	"Maine"	"23"	8603
+	"2004"	"2004"	"Maryland"	"24"	26473
+	"2004"	"2004"	"Massachusetts"	"25"	37092
+	"2004"	"2004"	"Michigan"	"26"	53908
+	"2004"	"2004"	"Minnesota"	"27"	25327
+	"2004"	"2004"	"Mississippi"	"28"	13880
+	"2004"	"2004"	"Missouri"	"29"	29757
+	"2004"	"2004"	"Montana"	"30"	5100
+	"2004"	"2004"	"Nebraska"	"31"	9087
+	"2004"	"2004"	"Nevada"	"32"	11030
+	"2004"	"2004"	"New Hampshire"	"33"	7276
+	"2004"	"2004"	"New Jersey"	"34"	48482
+	"2004"	"2004"	"New Mexico"	"35"	8510
+	"2004"	"2004"	"New York"	"36"	104167
+	"2004"	"2004"	"North Carolina"	"37"	42890
+	"2004"	"2004"	"North Dakota"	"38"	3430
+	"2004"	"2004"	"Ohio"	"39"	60764
+	"2004"	"2004"	"Oklahoma"	"40"	18307
+	"2004"	"2004"	"Oregon"	"41"	19043
+	"2004"	"2004"	"Pennsylvania"	"42"	75489
+	"2004"	"2004"	"Rhode Island"	"44"	6546
+	"2004"	"2004"	"South Carolina"	"45"	21767
+	"2004"	"2004"	"South Dakota"	"46"	4128
+	"2004"	"2004"	"Tennessee"	"47"	28524
+	"2004"	"2004"	"Texas"	"48"	93195
+	"2004"	"2004"	"Utah"	"49"	8001
+	"2004"	"2004"	"Vermont"	"50"	3499
+	"2004"	"2004"	"Virginia"	"51"	34790
+	"2004"	"2004"	"Washington"	"53"	31834
+	"2004"	"2004"	"West Virginia"	"54"	11072
+	"2004"	"2004"	"Wisconsin"	"55"	28856
+	"2004"	"2004"	"Wyoming"	"56"	2433
+	"2005"	"2005"	"Alabama"	"01"	23334
+	"2005"	"2005"	"Alaska"	"02"	2463
+	"2005"	"2005"	"Arizona"	"04"	25896
+	"2005"	"2005"	"Arkansas"	"05"	14585
+	"2005"	"2005"	"California"	"06"	153366
+	"2005"	"2005"	"Colorado"	"08"	19585
+	"2005"	"2005"	"Connecticut"	"09"	20744
+	"2005"	"2005"	"Delaware"	"10"	4984
+	"2005"	"2005"	"District of Columbia"	"11"	2872
+	"2005"	"2005"	"Florida"	"12"	109954
+	"2005"	"2005"	"Georgia"	"13"	38724
+	"2005"	"2005"	"Hawaii"	"15"	6368
+	"2005"	"2005"	"Idaho"	"16"	6740
+	"2005"	"2005"	"Illinois"	"17"	64089
+	"2005"	"2005"	"Indiana"	"18"	31653
+	"2005"	"2005"	"Iowa"	"19"	16923
+	"2005"	"2005"	"Kansas"	"20"	13812
+	"2005"	"2005"	"Kentucky"	"21"	23315
+	"2005"	"2005"	"Louisiana"	"22"	21608
+	"2005"	"2005"	"Maine"	"23"	8625
+	"2005"	"2005"	"Maryland"	"24"	26856
+	"2005"	"2005"	"Massachusetts"	"25"	37605
+	"2005"	"2005"	"Michigan"	"26"	54673
+	"2005"	"2005"	"Minnesota"	"27"	25486
+	"2005"	"2005"	"Mississippi"	"28"	14012
+	"2005"	"2005"	"Missouri"	"29"	31500
+	"2005"	"2005"	"Montana"	"30"	5398
+	"2005"	"2005"	"Nebraska"	"31"	9300
+	"2005"	"2005"	"Nevada"	"32"	10901
+	"2005"	"2005"	"New Hampshire"	"33"	7521
+	"2005"	"2005"	"New Jersey"	"34"	48874
+	"2005"	"2005"	"New Mexico"	"35"	8479
+	"2005"	"2005"	"New York"	"36"	105791
+	"2005"	"2005"	"North Carolina"	"37"	45250
+	"2005"	"2005"	"North Dakota"	"38"	3560
+	"2005"	"2005"	"Ohio"	"39"	62003
+	"2005"	"2005"	"Oklahoma"	"40"	18364
+	"2005"	"2005"	"Oregon"	"41"	19299
+	"2005"	"2005"	"Pennsylvania"	"42"	76284
+	"2005"	"2005"	"Rhode Island"	"44"	6257
+	"2005"	"2005"	"South Carolina"	"45"	22654
+	"2005"	"2005"	"South Dakota"	"46"	4031
+	"2005"	"2005"	"Tennessee"	"47"	31126
+	"2005"	"2005"	"Texas"	"48"	95110
+	"2005"	"2005"	"Utah"	"49"	8147
+	"2005"	"2005"	"Vermont"	"50"	3581
+	"2005"	"2005"	"Virginia"	"51"	35926
+	"2005"	"2005"	"Washington"	"53"	32534
+	"2005"	"2005"	"West Virginia"	"54"	11393
+	"2005"	"2005"	"Wisconsin"	"55"	28815
+	"2005"	"2005"	"Wyoming"	"56"	2366
+	"2005"	"2005"	"Puerto Rico"	"72"	12758
+	"2006"	"2006"	"Alabama"	"01"	24102
+	"2006"	"2006"	"Alaska"	"02"	2601
+	"2006"	"2006"	"Arizona"	"04"	26999
+	"2006"	"2006"	"Arkansas"	"05"	14815
+	"2006"	"2006"	"California"	"06"	155002
+	"2006"	"2006"	"Colorado"	"08"	20001
+	"2006"	"2006"	"Connecticut"	"09"	21500
+	"2006"	"2006"	"Delaware"	"10"	5282
+	"2006"	"2006"	"District of Columbia"	"11"	2858
+	"2006"	"2006"	"Florida"	"12"	110967
+	"2006"	"2006"	"Georgia"	"13"	40667
+	"2006"	"2006"	"Hawaii"	"15"	6432
+	"2006"	"2006"	"Idaho"	"16"	6952
+	"2006"	"2006"	"Illinois"	"17"	66026
+	"2006"	"2006"	"Indiana"	"18"	32769
+	"2006"	"2006"	"Iowa"	"19"	17255
+	"2006"	"2006"	"Kansas"	"20"	14078
+	"2006"	"2006"	"Kentucky"	"21"	24544
+	"2006"	"2006"	"Louisiana"	"22"	22180
+	"2006"	"2006"	"Maine"	"23"	8960
+	"2006"	"2006"	"Maryland"	"24"	27028
+	"2006"	"2006"	"Massachusetts"	"25"	38806
+	"2006"	"2006"	"Michigan"	"26"	55579
+	"2006"	"2006"	"Minnesota"	"27"	26336
+	"2006"	"2006"	"Mississippi"	"28"	14586
+	"2006"	"2006"	"Missouri"	"29"	31773
+	"2006"	"2006"	"Montana"	"30"	5361
+	"2006"	"2006"	"Nebraska"	"31"	9458
+	"2006"	"2006"	"Nevada"	"32"	11596
+	"2006"	"2006"	"New Hampshire"	"33"	7619
+	"2006"	"2006"	"New Jersey"	"34"	50719
+	"2006"	"2006"	"New Mexico"	"35"	8697
+	"2006"	"2006"	"New York"	"36"	109046
+	"2006"	"2006"	"North Carolina"	"37"	46685
+	"2006"	"2006"	"North Dakota"	"38"	3580
+	"2006"	"2006"	"Ohio"	"39"	62700
+	"2006"	"2006"	"Oklahoma"	"40"	19469
+	"2006"	"2006"	"Oregon"	"41"	19825
+	"2006"	"2006"	"Pennsylvania"	"42"	78407
+	"2006"	"2006"	"Rhode Island"	"44"	6540
+	"2006"	"2006"	"South Carolina"	"45"	23270
+	"2006"	"2006"	"South Dakota"	"46"	3969
+	"2006"	"2006"	"Tennessee"	"47"	31928
+	"2006"	"2006"	"Texas"	"48"	97034
+	"2006"	"2006"	"Utah"	"49"	8551
+	"2006"	"2006"	"Vermont"	"50"	3869
+	"2006"	"2006"	"Virginia"	"51"	36721
+	"2006"	"2006"	"Washington"	"53"	32995
+	"2006"	"2006"	"West Virginia"	"54"	11552
+	"2006"	"2006"	"Wisconsin"	"55"	29801
+	"2006"	"2006"	"Wyoming"	"56"	2550
+	"2006"	"2006"	"Puerto Rico"	"72"	13120
+	"2007"	"2007"	"Alabama"	"01"	25070
+	"2007"	"2007"	"Alaska"	"02"	2645
+	"2007"	"2007"	"Arizona"	"04"	28217
+	"2007"	"2007"	"Arkansas"	"05"	15364
+	"2007"	"2007"	"California"	"06"	161721
+	"2007"	"2007"	"Colorado"	"08"	21496
+	"2007"	"2007"	"Connecticut"	"09"	21629
+	"2007"	"2007"	"Delaware"	"10"	5351
+	"2007"	"2007"	"District of Columbia"	"11"	3085
+	"2007"	"2007"	"Florida"	"12"	113682
+	"2007"	"2007"	"Georgia"	"13"	43699
+	"2007"	"2007"	"Hawaii"	"15"	6712
+	"2007"	"2007"	"Idaho"	"16"	7362
+	"2007"	"2007"	"Illinois"	"17"	67409
+	"2007"	"2007"	"Indiana"	"18"	33104
+	"2007"	"2007"	"Iowa"	"19"	17378
+	"2007"	"2007"	"Kansas"	"20"	14718
+	"2007"	"2007"	"Kentucky"	"21"	25186
+	"2007"	"2007"	"Louisiana"	"22"	23029
+	"2007"	"2007"	"Maine"	"23"	8857
+	"2007"	"2007"	"Maryland"	"24"	29029
+	"2007"	"2007"	"Massachusetts"	"25"	39041
+	"2007"	"2007"	"Michigan"	"26"	57850
+	"2007"	"2007"	"Minnesota"	"27"	27826
+	"2007"	"2007"	"Mississippi"	"28"	15433
+	"2007"	"2007"	"Missouri"	"29"	32126
+	"2007"	"2007"	"Montana"	"30"	5552
+	"2007"	"2007"	"Nebraska"	"31"	9776
+	"2007"	"2007"	"Nevada"	"32"	11541
+	"2007"	"2007"	"New Hampshire"	"33"	7765
+	"2007"	"2007"	"New Jersey"	"34"	51383
+	"2007"	"2007"	"New Mexico"	"35"	9029
+	"2007"	"2007"	"New York"	"36"	111202
+	"2007"	"2007"	"North Carolina"	"37"	48603
+	"2007"	"2007"	"North Dakota"	"38"	3693
+	"2007"	"2007"	"Ohio"	"39"	63609
+	"2007"	"2007"	"Oklahoma"	"40"	20255
+	"2007"	"2007"	"Oregon"	"41"	20093
+	"2007"	"2007"	"Pennsylvania"	"42"	79909
+	"2007"	"2007"	"Rhode Island"	"44"	6592
+	"2007"	"2007"	"South Carolina"	"45"	24304
+	"2007"	"2007"	"South Dakota"	"46"	4300
+	"2007"	"2007"	"Tennessee"	"47"	33145
+	"2007"	"2007"	"Texas"	"48"	101883
+	"2007"	"2007"	"Utah"	"49"	8769
+	"2007"	"2007"	"Vermont"	"50"	3784
+	"2007"	"2007"	"Virginia"	"51"	38819
+	"2007"	"2007"	"Washington"	"53"	32542
+	"2007"	"2007"	"West Virginia"	"54"	11830
+	"2007"	"2007"	"Wisconsin"	"55"	30646
+	"2007"	"2007"	"Wyoming"	"56"	2520
+	"2007"	"2007"	"Puerto Rico"	"72"	13357
+	"2008"	"2008"	"Alabama"	"01"	26071
+	"2008"	"2008"	"Alaska"	"02"	2787
+	"2008"	"2008"	"Arizona"	"04"	28239
+	"2008"	"2008"	"Arkansas"	"05"	15288
+	"2008"	"2008"	"California"	"06"	164457
+	"2008"	"2008"	"Colorado"	"08"	21788
+	"2008"	"2008"	"Connecticut"	"09"	21786
+	"2008"	"2008"	"Delaware"	"10"	5480
+	"2008"	"2008"	"District of Columbia"	"11"	2854
+	"2008"	"2008"	"Florida"	"12"	116042
+	"2008"	"2008"	"Georgia"	"13"	44654
+	"2008"	"2008"	"Hawaii"	"15"	6970
+	"2008"	"2008"	"Idaho"	"16"	7362
+	"2008"	"2008"	"Illinois"	"17"	68795
+	"2008"	"2008"	"Indiana"	"18"	33541
+	"2008"	"2008"	"Iowa"	"19"	17528
+	"2008"	"2008"	"Kansas"	"20"	14977
+	"2008"	"2008"	"Kentucky"	"21"	25374
+	"2008"	"2008"	"Louisiana"	"22"	23570
+	"2008"	"2008"	"Maine"	"23"	8808
+	"2008"	"2008"	"Maryland"	"24"	29726
+	"2008"	"2008"	"Massachusetts"	"25"	39625
+	"2008"	"2008"	"Michigan"	"26"	55681
+	"2008"	"2008"	"Minnesota"	"27"	28026
+	"2008"	"2008"	"Mississippi"	"28"	15696
+	"2008"	"2008"	"Missouri"	"29"	32152
+	"2008"	"2008"	"Montana"	"30"	5558
+	"2008"	"2008"	"Nebraska"	"31"	9741
+	"2008"	"2008"	"Nevada"	"32"	12267
+	"2008"	"2008"	"New Hampshire"	"33"	8042
+	"2008"	"2008"	"New Jersey"	"34"	51467
+	"2008"	"2008"	"New Mexico"	"35"	9241
+	"2008"	"2008"	"New York"	"36"	113262
+	"2008"	"2008"	"North Carolina"	"37"	49710
+	"2008"	"2008"	"North Dakota"	"38"	3630
+	"2008"	"2008"	"Ohio"	"39"	65302
+	"2008"	"2008"	"Oklahoma"	"40"	19432
+	"2008"	"2008"	"Oregon"	"41"	21165
+	"2008"	"2008"	"Pennsylvania"	"42"	80237
+	"2008"	"2008"	"Rhode Island"	"44"	6507
+	"2008"	"2008"	"South Carolina"	"45"	24402
+	"2008"	"2008"	"South Dakota"	"46"	4269
+	"2008"	"2008"	"Tennessee"	"47"	34035
+	"2008"	"2008"	"Texas"	"48"	102958
+	"2008"	"2008"	"Utah"	"49"	9151
+	"2008"	"2008"	"Vermont"	"50"	3705
+	"2008"	"2008"	"Virginia"	"51"	39004
+	"2008"	"2008"	"Washington"	"53"	34670
+	"2008"	"2008"	"West Virginia"	"54"	11622
+	"2008"	"2008"	"Wisconsin"	"55"	31236
+	"2008"	"2008"	"Wyoming"	"56"	2608
+	"2008"	"2008"	"Puerto Rico"	"72"	13726
+	"2009"	"2009"	"Alabama"	"01"	26111
+	"2009"	"2009"	"Alaska"	"02"	2795
+	"2009"	"2009"	"Arizona"	"04"	29696
+	"2009"	"2009"	"Arkansas"	"05"	15480
+	"2009"	"2009"	"California"	"06"	166708
+	"2009"	"2009"	"Colorado"	"08"	22528
+	"2009"	"2009"	"Connecticut"	"09"	22246
+	"2009"	"2009"	"Delaware"	"10"	5559
+	"2009"	"2009"	"District of Columbia"	"11"	2941
+	"2009"	"2009"	"Florida"	"12"	115886
+	"2009"	"2009"	"Georgia"	"13"	45507
+	"2009"	"2009"	"Hawaii"	"15"	7071
+	"2009"	"2009"	"Idaho"	"16"	7608
+	"2009"	"2009"	"Illinois"	"17"	69294
+	"2009"	"2009"	"Indiana"	"18"	33547
+	"2009"	"2009"	"Iowa"	"19"	18172
+	"2009"	"2009"	"Kansas"	"20"	14801
+	"2009"	"2009"	"Kentucky"	"21"	25577
+	"2009"	"2009"	"Louisiana"	"22"	24363
+	"2009"	"2009"	"Maine"	"23"	8699
+	"2009"	"2009"	"Maryland"	"24"	29774
+	"2009"	"2009"	"Massachusetts"	"25"	39450
+	"2009"	"2009"	"Michigan"	"26"	56284
+	"2009"	"2009"	"Minnesota"	"27"	27976
+	"2009"	"2009"	"Mississippi"	"28"	15487
+	"2009"	"2009"	"Missouri"	"29"	33248
+	"2009"	"2009"	"Montana"	"30"	5832
+	"2009"	"2009"	"Nebraska"	"31"	9373
+	"2009"	"2009"	"Nevada"	"32"	12691
+	"2009"	"2009"	"New Hampshire"	"33"	8001
+	"2009"	"2009"	"New Jersey"	"34"	51953
+	"2009"	"2009"	"New Mexico"	"35"	9311
+	"2009"	"2009"	"New York"	"36"	114150
+	"2009"	"2009"	"North Carolina"	"37"	51784
+	"2009"	"2009"	"North Dakota"	"38"	3602
+	"2009"	"2009"	"Ohio"	"39"	65971
+	"2009"	"2009"	"Oklahoma"	"40"	19522
+	"2009"	"2009"	"Oregon"	"41"	20687
+	"2009"	"2009"	"Pennsylvania"	"42"	80784
+	"2009"	"2009"	"Rhode Island"	"44"	6493
+	"2009"	"2009"	"South Carolina"	"45"	24877
+	"2009"	"2009"	"South Dakota"	"46"	4415
+	"2009"	"2009"	"Tennessee"	"47"	35183
+	"2009"	"2009"	"Texas"	"48"	104556
+	"2009"	"2009"	"Utah"	"49"	9411
+	"2009"	"2009"	"Vermont"	"50"	3899
+	"2009"	"2009"	"Virginia"	"51"	39630
+	"2009"	"2009"	"Washington"	"53"	35707
+	"2009"	"2009"	"West Virginia"	"54"	11707
+	"2009"	"2009"	"Wisconsin"	"55"	31442
+	"2009"	"2009"	"Wyoming"	"56"	2607
+	"2009"	"2009"	"Puerto Rico"	"72"	14207
+	"2010"	"2010"	"Alabama"	"01"	26133
+	"2010"	"2010"	"Alaska"	"02"	2903
+	"2010"	"2010"	"Arizona"	"04"	29283
+	"2010"	"2010"	"Arkansas"	"05"	15691
+	"2010"	"2010"	"California"	"06"	167469
+	"2010"	"2010"	"Colorado"	"08"	22278
+	"2010"	"2010"	"Connecticut"	"09"	21870
+	"2010"	"2010"	"Delaware"	"10"	5528
+	"2010"	"2010"	"District of Columbia"	"11"	3109
+	"2010"	"2010"	"Florida"	"12"	115214
+	"2010"	"2010"	"Georgia"	"13"	44847
+	"2010"	"2010"	"Hawaii"	"15"	7012
+	"2010"	"2010"	"Idaho"	"16"	7670
+	"2010"	"2010"	"Illinois"	"17"	67907
+	"2010"	"2010"	"Indiana"	"18"	33839
+	"2010"	"2010"	"Iowa"	"19"	18094
+	"2010"	"2010"	"Kansas"	"20"	14798
+	"2010"	"2010"	"Kentucky"	"21"	26181
+	"2010"	"2010"	"Louisiana"	"22"	24363
+	"2010"	"2010"	"Maine"	"23"	8693
+	"2010"	"2010"	"Maryland"	"24"	30141
+	"2010"	"2010"	"Massachusetts"	"25"	37460
+	"2010"	"2010"	"Michigan"	"26"	57297
+	"2010"	"2010"	"Minnesota"	"27"	28231
+	"2010"	"2010"	"Mississippi"	"28"	15942
+	"2010"	"2010"	"Missouri"	"29"	32477
+	"2010"	"2010"	"Montana"	"30"	5823
+	"2010"	"2010"	"Nebraska"	"31"	9641
+	"2010"	"2010"	"Nevada"	"32"	12209
+	"2010"	"2010"	"New Hampshire"	"33"	8058
+	"2010"	"2010"	"New Jersey"	"34"	51452
+	"2010"	"2010"	"New Mexico"	"35"	9304
+	"2010"	"2010"	"New York"	"36"	111723
+	"2010"	"2010"	"North Carolina"	"37"	51722
+	"2010"	"2010"	"North Dakota"	"38"	3732
+	"2010"	"2010"	"Ohio"	"39"	63783
+	"2010"	"2010"	"Oklahoma"	"40"	19183
+	"2010"	"2010"	"Oregon"	"41"	20509
+	"2010"	"2010"	"Pennsylvania"	"42"	81151
+	"2010"	"2010"	"Rhode Island"	"44"	6070
+	"2010"	"2010"	"South Carolina"	"45"	25693
+	"2010"	"2010"	"South Dakota"	"46"	4368
+	"2010"	"2010"	"Tennessee"	"47"	35059
+	"2010"	"2010"	"Texas"	"48"	103166
+	"2010"	"2010"	"Utah"	"49"	9805
+	"2010"	"2010"	"Vermont"	"50"	3826
+	"2010"	"2010"	"Virginia"	"51"	38099
+	"2010"	"2010"	"Washington"	"53"	35821
+	"2010"	"2010"	"West Virginia"	"54"	11567
+	"2010"	"2010"	"Wisconsin"	"55"	31783
+	"2010"	"2010"	"Wyoming"	"56"	2710
+	"2010"	"2010"	"Puerto Rico"	"72"	14905
+	"2011"	"2011"	"Alabama"	"01"	26026
+	"2011"	"2011"	"Alaska"	"02"	2840
+	"2011"	"2011"	"Arizona"	"04"	30152
+	"2011"	"2011"	"Arkansas"	"05"	15655
+	"2011"	"2011"	"California"	"06"	167813
+	"2011"	"2011"	"Colorado"	"08"	22672
+	"2011"	"2011"	"Connecticut"	"09"	21760
+	"2011"	"2011"	"Delaware"	"10"	5742
+	"2011"	"2011"	"District of Columbia"	"11"	3326
+	"2011"	"2011"	"Florida"	"12"	116540
+	"2011"	"2011"	"Georgia"	"13"	46866
+	"2011"	"2011"	"Hawaii"	"15"	7084
+	"2011"	"2011"	"Idaho"	"16"	7811
+	"2011"	"2011"	"Illinois"	"17"	69330
+	"2011"	"2011"	"Indiana"	"18"	34077
+	"2011"	"2011"	"Iowa"	"19"	18137
+	"2011"	"2011"	"Kansas"	"20"	15509
+	"2011"	"2011"	"Kentucky"	"21"	26421
+	"2011"	"2011"	"Louisiana"	"22"	24944
+	"2011"	"2011"	"Maine"	"23"	8633
+	"2011"	"2011"	"Maryland"	"24"	30213
+	"2011"	"2011"	"Massachusetts"	"25"	38879
+	"2011"	"2011"	"Michigan"	"26"	58036
+	"2011"	"2011"	"Minnesota"	"27"	29049
+	"2011"	"2011"	"Mississippi"	"28"	15840
+	"2011"	"2011"	"Missouri"	"29"	33560
+	"2011"	"2011"	"Montana"	"30"	5918
+	"2011"	"2011"	"Nebraska"	"31"	9693
+	"2011"	"2011"	"Nevada"	"32"	12568
+	"2011"	"2011"	"New Hampshire"	"33"	8365
+	"2011"	"2011"	"New Jersey"	"34"	52327
+	"2011"	"2011"	"New Mexico"	"35"	9171
+	"2011"	"2011"	"New York"	"36"	115875
+	"2011"	"2011"	"North Carolina"	"37"	52767
+	"2011"	"2011"	"North Dakota"	"38"	3850
+	"2011"	"2011"	"Ohio"	"39"	65542
+	"2011"	"2011"	"Oklahoma"	"40"	19493
+	"2011"	"2011"	"Oregon"	"41"	21445
+	"2011"	"2011"	"Pennsylvania"	"42"	82803
+	"2011"	"2011"	"Rhode Island"	"44"	6180
+	"2011"	"2011"	"South Carolina"	"45"	25896
+	"2011"	"2011"	"South Dakota"	"46"	4678
+	"2011"	"2011"	"Tennessee"	"47"	35624
+	"2011"	"2011"	"Texas"	"48"	104377
+	"2011"	"2011"	"Utah"	"49"	10038
+	"2011"	"2011"	"Vermont"	"50"	3791
+	"2011"	"2011"	"Virginia"	"51"	39247
+	"2011"	"2011"	"Washington"	"53"	36495
+	"2011"	"2011"	"West Virginia"	"54"	11976
+	"2011"	"2011"	"Wisconsin"	"55"	32808
+	"2011"	"2011"	"Wyoming"	"56"	2761
+	"2011"	"2011"	"Puerto Rico"	"72"	15661
+	"2012"	"2012"	"Alabama"	"01"	26292
+	"2012"	"2012"	"Alaska"	"02"	2761
+	"2012"	"2012"	"Arizona"	"04"	29911
+	"2012"	"2012"	"Arkansas"	"05"	16106
+	"2012"	"2012"	"California"	"06"	167999
+	"2012"	"2012"	"Colorado"	"08"	22881
+	"2012"	"2012"	"Connecticut"	"09"	21744
+	"2012"	"2012"	"Delaware"	"10"	5793
+	"2012"	"2012"	"District of Columbia"	"11"	3219
+	"2012"	"2012"	"Florida"	"12"	116426
+	"2012"	"2012"	"Georgia"	"13"	48196
+	"2012"	"2012"	"Hawaii"	"15"	7144
+	"2012"	"2012"	"Idaho"	"16"	7778
+	"2012"	"2012"	"Illinois"	"17"	68317
+	"2012"	"2012"	"Indiana"	"18"	34007
+	"2012"	"2012"	"Iowa"	"19"	17761
+	"2012"	"2012"	"Kansas"	"20"	15427
+	"2012"	"2012"	"Kentucky"	"21"	27047
+	"2012"	"2012"	"Louisiana"	"22"	25003
+	"2012"	"2012"	"Maine"	"23"	8821
+	"2012"	"2012"	"Maryland"	"24"	30277
+	"2012"	"2012"	"Massachusetts"	"25"	38263
+	"2012"	"2012"	"Michigan"	"26"	56078
+	"2012"	"2012"	"Minnesota"	"27"	28932
+	"2012"	"2012"	"Mississippi"	"28"	15881
+	"2012"	"2012"	"Missouri"	"29"	33697
+	"2012"	"2012"	"Montana"	"30"	5729
+	"2012"	"2012"	"Nebraska"	"31"	9558
+	"2012"	"2012"	"Nevada"	"32"	12316
+	"2012"	"2012"	"New Hampshire"	"33"	8177
+	"2012"	"2012"	"New Jersey"	"34"	51933
+	"2012"	"2012"	"New Mexico"	"35"	9147
+	"2012"	"2012"	"New York"	"36"	112732
+	"2012"	"2012"	"North Carolina"	"37"	52174
+	"2012"	"2012"	"North Dakota"	"38"	3867
+	"2012"	"2012"	"Ohio"	"39"	64114
+	"2012"	"2012"	"Oklahoma"	"40"	19676
+	"2012"	"2012"	"Oregon"	"41"	21049
+	"2012"	"2012"	"Pennsylvania"	"42"	80313
+	"2012"	"2012"	"Rhode Island"	"44"	6489
+	"2012"	"2012"	"South Carolina"	"45"	26673
+	"2012"	"2012"	"South Dakota"	"46"	4476
+	"2012"	"2012"	"Tennessee"	"47"	35818
+	"2012"	"2012"	"Texas"	"48"	106059
+	"2012"	"2012"	"Utah"	"49"	10058
+	"2012"	"2012"	"Vermont"	"50"	3770
+	"2012"	"2012"	"Virginia"	"51"	38873
+	"2012"	"2012"	"Washington"	"53"	36383
+	"2012"	"2012"	"West Virginia"	"54"	11766
+	"2012"	"2012"	"Wisconsin"	"55"	32277
+	"2012"	"2012"	"Wyoming"	"56"	2611
+	"2012"	"2012"	"Puerto Rico"	"72"	15976
+	"2013"	"2013"	"Alabama"	"01"	26413
+	"2013"	"2013"	"Alaska"	"02"	2816
+	"2013"	"2013"	"Arizona"	"04"	30342
+	"2013"	"2013"	"Arkansas"	"05"	16663
+	"2013"	"2013"	"California"	"06"	169449
+	"2013"	"2013"	"Colorado"	"08"	23159
+	"2013"	"2013"	"Connecticut"	"09"	21757
+	"2013"	"2013"	"Delaware"	"10"	6007
+	"2013"	"2013"	"District of Columbia"	"11"	2998
+	"2013"	"2013"	"Florida"	"12"	116406
+	"2013"	"2013"	"Georgia"	"13"	48702
+	"2013"	"2013"	"Hawaii"	"15"	7360
+	"2013"	"2013"	"Idaho"	"16"	7675
+	"2013"	"2013"	"Illinois"	"17"	68811
+	"2013"	"2013"	"Indiana"	"18"	34417
+	"2013"	"2013"	"Iowa"	"19"	17751
+	"2013"	"2013"	"Kansas"	"20"	15344
+	"2013"	"2013"	"Kentucky"	"21"	27204
+	"2013"	"2013"	"Louisiana"	"22"	25031
+	"2013"	"2013"	"Maine"	"23"	8744
+	"2013"	"2013"	"Maryland"	"24"	31704
+	"2013"	"2013"	"Massachusetts"	"25"	37974
+	"2013"	"2013"	"Michigan"	"26"	55742
+	"2013"	"2013"	"Minnesota"	"27"	28986
+	"2013"	"2013"	"Mississippi"	"28"	16173
+	"2013"	"2013"	"Missouri"	"29"	33232
+	"2013"	"2013"	"Montana"	"30"	5878
+	"2013"	"2013"	"Nebraska"	"31"	9794
+	"2013"	"2013"	"Nevada"	"32"	12585
+	"2013"	"2013"	"New Hampshire"	"33"	8409
+	"2013"	"2013"	"New Jersey"	"34"	52918
+	"2013"	"2013"	"New Mexico"	"35"	9262
+	"2013"	"2013"	"New York"	"36"	116391
+	"2013"	"2013"	"North Carolina"	"37"	54124
+	"2013"	"2013"	"North Dakota"	"38"	3707
+	"2013"	"2013"	"Ohio"	"39"	65897
+	"2013"	"2013"	"Oklahoma"	"40"	19843
+	"2013"	"2013"	"Oregon"	"41"	21730
+	"2013"	"2013"	"Pennsylvania"	"42"	81897
+	"2013"	"2013"	"Rhode Island"	"44"	6479
+	"2013"	"2013"	"South Carolina"	"45"	26808
+	"2013"	"2013"	"South Dakota"	"46"	4690
+	"2013"	"2013"	"Tennessee"	"47"	35972
+	"2013"	"2013"	"Texas"	"48"	108212
+	"2013"	"2013"	"Utah"	"49"	10090
+	"2013"	"2013"	"Vermont"	"50"	3708
+	"2013"	"2013"	"Virginia"	"51"	40592
+	"2013"	"2013"	"Washington"	"53"	36628
+	"2013"	"2013"	"West Virginia"	"54"	11914
+	"2013"	"2013"	"Wisconsin"	"55"	32775
+	"2013"	"2013"	"Wyoming"	"56"	2605
+	"2013"	"2013"	"Puerto Rico"	"72"	16326
+	"2014"	"2014"	"Alabama"	"01"	26279
+	"2014"	"2014"	"Alaska"	"02"	2822
+	"2014"	"2014"	"Arizona"	"04"	31644
+	"2014"	"2014"	"Arkansas"	"05"	16951
+	"2014"	"2014"	"California"	"06"	171495
+	"2014"	"2014"	"Colorado"	"08"	23538
+	"2014"	"2014"	"Connecticut"	"09"	21531
+	"2014"	"2014"	"Delaware"	"10"	5945
+	"2014"	"2014"	"District of Columbia"	"11"	3013
+	"2014"	"2014"	"Florida"	"12"	116930
+	"2014"	"2014"	"Georgia"	"13"	50397
+	"2014"	"2014"	"Hawaii"	"15"	7300
+	"2014"	"2014"	"Idaho"	"16"	8117
+	"2014"	"2014"	"Illinois"	"17"	70118
+	"2014"	"2014"	"Indiana"	"18"	34949
+	"2014"	"2014"	"Iowa"	"19"	18450
+	"2014"	"2014"	"Kansas"	"20"	15200
+	"2014"	"2014"	"Kentucky"	"21"	27762
+	"2014"	"2014"	"Louisiana"	"22"	25515
+	"2014"	"2014"	"Maine"	"23"	9013
+	"2014"	"2014"	"Maryland"	"24"	31528
+	"2014"	"2014"	"Massachusetts"	"25"	38359
+	"2014"	"2014"	"Michigan"	"26"	55773
+	"2014"	"2014"	"Minnesota"	"27"	29546
+	"2014"	"2014"	"Mississippi"	"28"	16426
+	"2014"	"2014"	"Missouri"	"29"	34001
+	"2014"	"2014"	"Montana"	"30"	5880
+	"2014"	"2014"	"Nebraska"	"31"	9831
+	"2014"	"2014"	"Nevada"	"32"	12402
+	"2014"	"2014"	"New Hampshire"	"33"	8380
+	"2014"	"2014"	"New Jersey"	"34"	52495
+	"2014"	"2014"	"New Mexico"	"35"	9421
+	"2014"	"2014"	"New York"	"36"	115533
+	"2014"	"2014"	"North Carolina"	"37"	55113
+	"2014"	"2014"	"North Dakota"	"38"	3774
+	"2014"	"2014"	"Ohio"	"39"	66724
+	"2014"	"2014"	"Oklahoma"	"40"	20213
+	"2014"	"2014"	"Oregon"	"41"	21412
+	"2014"	"2014"	"Pennsylvania"	"42"	80898
+	"2014"	"2014"	"Rhode Island"	"44"	6445
+	"2014"	"2014"	"South Carolina"	"45"	27336
+	"2014"	"2014"	"South Dakota"	"46"	4704
+	"2014"	"2014"	"Tennessee"	"47"	35930
+	"2014"	"2014"	"Texas"	"48"	110426
+	"2014"	"2014"	"Utah"	"49"	10408
+	"2014"	"2014"	"Vermont"	"50"	3899
+	"2014"	"2014"	"Virginia"	"51"	41084
+	"2014"	"2014"	"Washington"	"53"	36746
+	"2014"	"2014"	"West Virginia"	"54"	11734
+	"2014"	"2014"	"Wisconsin"	"55"	33368
+	"2014"	"2014"	"Wyoming"	"56"	2724
+	"2014"	"2014"	"Puerto Rico"	"72"	16188
+	"2015"	"2015"	"Alabama"	"01"	27254
+	"2015"	"2015"	"Alaska"	"02"	2846
+	"2015"	"2015"	"Arizona"	"04"	31827
+	"2015"	"2015"	"Arkansas"	"05"	17396
+	"2015"	"2015"	"California"	"06"	172776
+	"2015"	"2015"	"Colorado"	"08"	23335
+	"2015"	"2015"	"Connecticut"	"09"	21762
+	"2015"	"2015"	"Delaware"	"10"	6098
+	"2015"	"2015"	"District of Columbia"	"11"	2619
+	"2015"	"2015"	"Florida"	"12"	115570
+	"2015"	"2015"	"Georgia"	"13"	51242
+	"2015"	"2015"	"Hawaii"	"15"	7435
+	"2015"	"2015"	"Idaho"	"16"	8349
+	"2015"	"2015"	"Illinois"	"17"	71012
+	"2015"	"2015"	"Indiana"	"18"	35070
+	"2015"	"2015"	"Iowa"	"19"	18406
+	"2015"	"2015"	"Kansas"	"20"	15435
+	"2015"	"2015"	"Kentucky"	"21"	27643
+	"2015"	"2015"	"Louisiana"	"22"	25899
+	"2015"	"2015"	"Maine"	"23"	8970
+	"2015"	"2015"	"Maryland"	"24"	32063
+	"2015"	"2015"	"Massachusetts"	"25"	38562
+	"2015"	"2015"	"Michigan"	"26"	55058
+	"2015"	"2015"	"Minnesota"	"27"	31223
+	"2015"	"2015"	"Mississippi"	"28"	16254
+	"2015"	"2015"	"Missouri"	"29"	33958
+	"2015"	"2015"	"Montana"	"30"	6087
+	"2015"	"2015"	"Nebraska"	"31"	10161
+	"2015"	"2015"	"Nevada"	"32"	11774
+	"2015"	"2015"	"New Hampshire"	"33"	8278
+	"2015"	"2015"	"New Jersey"	"34"	53317
+	"2015"	"2015"	"New Mexico"	"35"	9341
+	"2015"	"2015"	"New York"	"36"	116939
+	"2015"	"2015"	"North Carolina"	"37"	56189
+	"2015"	"2015"	"North Dakota"	"38"	3849
+	"2015"	"2015"	"Ohio"	"39"	67610
+	"2015"	"2015"	"Oklahoma"	"40"	20306
+	"2015"	"2015"	"Oregon"	"41"	20467
+	"2015"	"2015"	"Pennsylvania"	"42"	82025
+	"2015"	"2015"	"Rhode Island"	"44"	6170
+	"2015"	"2015"	"South Carolina"	"45"	28206
+	"2015"	"2015"	"South Dakota"	"46"	4535
+	"2015"	"2015"	"Tennessee"	"47"	37277
+	"2015"	"2015"	"Texas"	"48"	110700
+	"2015"	"2015"	"Utah"	"49"	10694
+	"2015"	"2015"	"Vermont"	"50"	3746
+	"2015"	"2015"	"Virginia"	"51"	40044
+	"2015"	"2015"	"Washington"	"53"	36767
+	"2015"	"2015"	"West Virginia"	"54"	11826
+	"2015"	"2015"	"Wisconsin"	"55"	33240
+	"2015"	"2015"	"Wyoming"	"56"	2690
+	"2015"	"2015"	"Puerto Rico"	"72"	16835
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2015 Incidence"
+"Query Parameters:"
+"Group By: Year; States and Puerto Rico"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2015.html for more information."
+"---"
+"Query Date: Aug 28, 2019 11:26:49 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2015 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2018. Accessed at"
+"http://wonder.cdc.gov/cancer-v2015.html on Aug 28, 2019 11:26:49 PM"
+"---"
+Messages:
+"1. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"2. These states are missing data for the indicated year: Arkansas 1999-2000; Mississippi 1999-2002; South Dakota 1999-2000;"
+"Puerto Rico 1999-2004."
+"3. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"4. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

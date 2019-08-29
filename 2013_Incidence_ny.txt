@@ -1,0 +1,1369 @@
+"Notes"	"Year"	"Year Code"	"Cancer Sites"	"Cancer Sites Code"	"Sex"	"Sex Code"	"Age Groups"	"Age Groups Code"	Count
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"< 1 year"	"1"	40
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"1-4 years"	"1-4"	98
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"5-9 years"	"5-9"	82
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"10-14 years"	"10-14"	89
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"15-19 years"	"15-19"	205
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"20-24 years"	"20-24"	360
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"25-29 years"	"25-29"	604
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"30-34 years"	"30-34"	943
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"35-39 years"	"35-39"	1341
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"40-44 years"	"40-44"	2237
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"45-49 years"	"45-49"	3552
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"50-54 years"	"50-54"	5029
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"55-59 years"	"55-59"	5980
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"60-64 years "	"60-64"	6500
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"65-69 years"	"65-69"	7053
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"70-74 years"	"70-74"	6333
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"75-79 years"	"75-79"	5601
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"80-84 years"	"80-84"	4785
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"85+ years"	"85+"	5628
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"< 1 year"	"1"	38
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"1-4 years"	"1-4"	123
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"5-9 years"	"5-9"	89
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"10-14 years"	"10-14"	118
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"15-19 years"	"15-19"	165
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"20-24 years"	"20-24"	277
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"25-29 years"	"25-29"	409
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"30-34 years"	"30-34"	522
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"35-39 years"	"35-39"	608
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"40-44 years"	"40-44"	1147
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"45-49 years"	"45-49"	2048
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"50-54 years"	"50-54"	4092
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"55-59 years"	"55-59"	6123
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"60-64 years "	"60-64"	7836
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"65-69 years"	"65-69"	8374
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"70-74 years"	"70-74"	7579
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"75-79 years"	"75-79"	6233
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"80-84 years"	"80-84"	4763
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"85+ years"	"85+"	4348
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"45-49 years"	"45-49"	50
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"50-54 years"	"50-54"	67
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"55-59 years"	"55-59"	94
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"60-64 years "	"60-64"	96
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"65-69 years"	"65-69"	75
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"70-74 years"	"70-74"	91
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"75-79 years"	"75-79"	70
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"80-84 years"	"80-84"	60
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"85+ years"	"85+"	82
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"35-39 years"	"35-39"	20
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"40-44 years"	"40-44"	66
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"45-49 years"	"45-49"	120
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"50-54 years"	"50-54"	187
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"55-59 years"	"55-59"	306
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"60-64 years "	"60-64"	260
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"65-69 years"	"65-69"	226
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"70-74 years"	"70-74"	178
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"75-79 years"	"75-79"	151
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"80-84 years"	"80-84"	96
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"85+ years"	"85+"	64
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"45-49 years"	"45-49"	19
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"50-54 years"	"50-54"	19
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"55-59 years"	"55-59"	36
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"60-64 years "	"60-64"	38
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"65-69 years"	"65-69"	19
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"70-74 years"	"70-74"	26
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"75-79 years"	"75-79"	18
+	"2013"	"2013"	"Tongue"	"20020"	"Female"	"F"	"85+ years"	"85+"	16
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"40-44 years"	"40-44"	21
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"45-49 years"	"45-49"	38
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"50-54 years"	"50-54"	53
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"55-59 years"	"55-59"	94
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"60-64 years "	"60-64"	90
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"65-69 years"	"65-69"	72
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"70-74 years"	"70-74"	63
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"75-79 years"	"75-79"	47
+	"2013"	"2013"	"Tongue"	"20020"	"Male"	"M"	"80-84 years"	"80-84"	38
+	"2013"	"2013"	"Salivary Gland"	"20030"	"Male"	"M"	"55-59 years"	"55-59"	17
+	"2013"	"2013"	"Salivary Gland"	"20030"	"Male"	"M"	"60-64 years "	"60-64"	20
+	"2013"	"2013"	"Salivary Gland"	"20030"	"Male"	"M"	"65-69 years"	"65-69"	26
+	"2013"	"2013"	"Salivary Gland"	"20030"	"Male"	"M"	"70-74 years"	"70-74"	22
+	"2013"	"2013"	"Salivary Gland"	"20030"	"Male"	"M"	"75-79 years"	"75-79"	16
+	"2013"	"2013"	"Salivary Gland"	"20030"	"Male"	"M"	"80-84 years"	"80-84"	16
+	"2013"	"2013"	"Salivary Gland"	"20030"	"Male"	"M"	"85+ years"	"85+"	17
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"65-69 years"	"65-69"	16
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"70-74 years"	"70-74"	28
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"85+ years"	"85+"	35
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"50-54 years"	"50-54"	20
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"55-59 years"	"55-59"	38
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"60-64 years "	"60-64"	25
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"65-69 years"	"65-69"	27
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"70-74 years"	"70-74"	17
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"75-79 years"	"75-79"	23
+	"2013"	"2013"	"Nasopharynx"	"20060"	"Male"	"M"	"55-59 years"	"55-59"	24
+	"2013"	"2013"	"Nasopharynx"	"20060"	"Male"	"M"	"60-64 years "	"60-64"	22
+	"2013"	"2013"	"Tonsil"	"20070"	"Male"	"M"	"40-44 years"	"40-44"	17
+	"2013"	"2013"	"Tonsil"	"20070"	"Male"	"M"	"45-49 years"	"45-49"	35
+	"2013"	"2013"	"Tonsil"	"20070"	"Male"	"M"	"50-54 years"	"50-54"	50
+	"2013"	"2013"	"Tonsil"	"20070"	"Male"	"M"	"55-59 years"	"55-59"	76
+	"2013"	"2013"	"Tonsil"	"20070"	"Male"	"M"	"60-64 years "	"60-64"	51
+	"2013"	"2013"	"Tonsil"	"20070"	"Male"	"M"	"65-69 years"	"65-69"	39
+	"2013"	"2013"	"Tonsil"	"20070"	"Male"	"M"	"70-74 years"	"70-74"	25
+	"2013"	"2013"	"Oropharynx"	"20080"	"Male"	"M"	"60-64 years "	"60-64"	18
+	"2013"	"2013"	"Hypopharynx"	"20090"	"Male"	"M"	"55-59 years"	"55-59"	23
+	"2013"	"2013"	"Hypopharynx"	"20090"	"Male"	"M"	"65-69 years"	"65-69"	22
+	"2013"	"2013"	"Hypopharynx"	"20090"	"Male"	"M"	"75-79 years"	"75-79"	21
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"20-24 years"	"20-24"	30
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"25-29 years"	"25-29"	23
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"30-34 years"	"30-34"	56
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"35-39 years"	"35-39"	109
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"40-44 years"	"40-44"	196
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"45-49 years"	"45-49"	358
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"50-54 years"	"50-54"	677
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"55-59 years"	"55-59"	858
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"60-64 years "	"60-64"	953
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"65-69 years"	"65-69"	1055
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"70-74 years"	"70-74"	1033
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"75-79 years"	"75-79"	1066
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"80-84 years"	"80-84"	1049
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Female"	"F"	"85+ years"	"85+"	1512
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"20-24 years"	"20-24"	19
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"25-29 years"	"25-29"	32
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"30-34 years"	"30-34"	68
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"35-39 years"	"35-39"	125
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"40-44 years"	"40-44"	256
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"45-49 years"	"45-49"	487
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"50-54 years"	"50-54"	927
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"55-59 years"	"55-59"	1171
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"60-64 years "	"60-64"	1574
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"65-69 years"	"65-69"	1438
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"70-74 years"	"70-74"	1409
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"75-79 years"	"75-79"	1209
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"80-84 years"	"80-84"	1023
+	"2013"	"2013"	"Digestive System"	"21010-21130"	"Male"	"M"	"85+ years"	"85+"	991
+	"2013"	"2013"	"Esophagus"	"21010"	"Female"	"F"	"55-59 years"	"55-59"	32
+	"2013"	"2013"	"Esophagus"	"21010"	"Female"	"F"	"60-64 years "	"60-64"	26
+	"2013"	"2013"	"Esophagus"	"21010"	"Female"	"F"	"65-69 years"	"65-69"	44
+	"2013"	"2013"	"Esophagus"	"21010"	"Female"	"F"	"70-74 years"	"70-74"	37
+	"2013"	"2013"	"Esophagus"	"21010"	"Female"	"F"	"75-79 years"	"75-79"	24
+	"2013"	"2013"	"Esophagus"	"21010"	"Female"	"F"	"80-84 years"	"80-84"	24
+	"2013"	"2013"	"Esophagus"	"21010"	"Female"	"F"	"85+ years"	"85+"	47
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"45-49 years"	"45-49"	44
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"50-54 years"	"50-54"	55
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"55-59 years"	"55-59"	90
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"60-64 years "	"60-64"	137
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"65-69 years"	"65-69"	123
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"70-74 years"	"70-74"	128
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"75-79 years"	"75-79"	88
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"80-84 years"	"80-84"	77
+	"2013"	"2013"	"Esophagus"	"21010"	"Male"	"M"	"85+ years"	"85+"	55
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"40-44 years"	"40-44"	22
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"45-49 years"	"45-49"	35
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"50-54 years"	"50-54"	62
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"55-59 years"	"55-59"	74
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"60-64 years "	"60-64"	84
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"65-69 years"	"65-69"	86
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"70-74 years"	"70-74"	85
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"75-79 years"	"75-79"	109
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"80-84 years"	"80-84"	98
+	"2013"	"2013"	"Stomach"	"21020"	"Female"	"F"	"85+ years"	"85+"	140
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"40-44 years"	"40-44"	36
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"45-49 years"	"45-49"	59
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"50-54 years"	"50-54"	111
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"55-59 years"	"55-59"	119
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"60-64 years "	"60-64"	171
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"65-69 years"	"65-69"	146
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"70-74 years"	"70-74"	165
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"75-79 years"	"75-79"	162
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"80-84 years"	"80-84"	126
+	"2013"	"2013"	"Stomach"	"21020"	"Male"	"M"	"85+ years"	"85+"	135
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"50-54 years"	"50-54"	26
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"55-59 years"	"55-59"	29
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"60-64 years "	"60-64"	29
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"65-69 years"	"65-69"	32
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"70-74 years"	"70-74"	27
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"75-79 years"	"75-79"	28
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"80-84 years"	"80-84"	22
+	"2013"	"2013"	"Small Intestine"	"21030"	"Female"	"F"	"85+ years"	"85+"	19
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"50-54 years"	"50-54"	24
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"55-59 years"	"55-59"	39
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"60-64 years "	"60-64"	34
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"65-69 years"	"65-69"	38
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"70-74 years"	"70-74"	53
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"75-79 years"	"75-79"	30
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"80-84 years"	"80-84"	29
+	"2013"	"2013"	"Small Intestine"	"21030"	"Male"	"M"	"85+ years"	"85+"	22
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"20-24 years"	"20-24"	18
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"30-34 years"	"30-34"	32
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"35-39 years"	"35-39"	67
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"40-44 years"	"40-44"	117
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"45-49 years"	"45-49"	199
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"50-54 years"	"50-54"	392
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"55-59 years"	"55-59"	388
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"60-64 years "	"60-64"	443
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"65-69 years"	"65-69"	474
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"70-74 years"	"70-74"	498
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"75-79 years"	"75-79"	503
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"80-84 years"	"80-84"	524
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"85+ years"	"85+"	775
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"25-29 years"	"25-29"	21
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"30-34 years"	"30-34"	40
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"35-39 years"	"35-39"	64
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"40-44 years"	"40-44"	129
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"45-49 years"	"45-49"	239
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"50-54 years"	"50-54"	446
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"55-59 years"	"55-59"	456
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"60-64 years "	"60-64"	580
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"65-69 years"	"65-69"	579
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"70-74 years"	"70-74"	586
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"75-79 years"	"75-79"	527
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"80-84 years"	"80-84"	465
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"85+ years"	"85+"	460
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"30-34 years"	"30-34"	23
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"35-39 years"	"35-39"	38
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"40-44 years"	"40-44"	70
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"45-49 years"	"45-49"	123
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"50-54 years"	"50-54"	241
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"55-59 years"	"55-59"	250
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"60-64 years "	"60-64"	311
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"65-69 years"	"65-69"	339
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"70-74 years"	"70-74"	387
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"75-79 years"	"75-79"	393
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"80-84 years"	"80-84"	418
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"85+ years"	"85+"	647
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"30-34 years"	"30-34"	28
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"35-39 years"	"35-39"	35
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"40-44 years"	"40-44"	69
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"45-49 years"	"45-49"	136
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"50-54 years"	"50-54"	252
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"55-59 years"	"55-59"	277
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"60-64 years "	"60-64"	371
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"65-69 years"	"65-69"	396
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"70-74 years"	"70-74"	413
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"75-79 years"	"75-79"	389
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"80-84 years"	"80-84"	360
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"85+ years"	"85+"	360
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"50-54 years"	"50-54"	39
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"55-59 years"	"55-59"	40
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"60-64 years "	"60-64"	76
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"65-69 years"	"65-69"	85
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"70-74 years"	"70-74"	107
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"75-79 years"	"75-79"	107
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"80-84 years"	"80-84"	108
+	"2013"	"2013"	"Cecum"	"21041"	"Female"	"F"	"85+ years"	"85+"	179
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"45-49 years"	"45-49"	19
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"50-54 years"	"50-54"	46
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"55-59 years"	"55-59"	46
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"60-64 years "	"60-64"	61
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"65-69 years"	"65-69"	70
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"70-74 years"	"70-74"	83
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"75-79 years"	"75-79"	76
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"80-84 years"	"80-84"	69
+	"2013"	"2013"	"Cecum"	"21041"	"Male"	"M"	"85+ years"	"85+"	70
+	"2013"	"2013"	"Appendix"	"21042"	"Female"	"F"	"45-49 years"	"45-49"	16
+	"2013"	"2013"	"Appendix"	"21042"	"Female"	"F"	"50-54 years"	"50-54"	16
+	"2013"	"2013"	"Appendix"	"21042"	"Female"	"F"	"60-64 years "	"60-64"	17
+	"2013"	"2013"	"Appendix"	"21042"	"Female"	"F"	"65-69 years"	"65-69"	26
+	"2013"	"2013"	"Appendix"	"21042"	"Male"	"M"	"55-59 years"	"55-59"	16
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"45-49 years"	"45-49"	16
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"50-54 years"	"50-54"	35
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"55-59 years"	"55-59"	46
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"60-64 years "	"60-64"	60
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"65-69 years"	"65-69"	66
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"70-74 years"	"70-74"	75
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"75-79 years"	"75-79"	107
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"80-84 years"	"80-84"	117
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Female"	"F"	"85+ years"	"85+"	137
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"50-54 years"	"50-54"	37
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"55-59 years"	"55-59"	42
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"60-64 years "	"60-64"	59
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"65-69 years"	"65-69"	76
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"70-74 years"	"70-74"	85
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"75-79 years"	"75-79"	89
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"80-84 years"	"80-84"	66
+	"2013"	"2013"	"Ascending Colon"	"21043"	"Male"	"M"	"85+ years"	"85+"	80
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Female"	"F"	"65-69 years"	"65-69"	21
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Female"	"F"	"75-79 years"	"75-79"	26
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Female"	"F"	"80-84 years"	"80-84"	25
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Female"	"F"	"85+ years"	"85+"	33
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Male"	"M"	"65-69 years"	"65-69"	26
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Male"	"M"	"70-74 years"	"70-74"	20
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Male"	"M"	"75-79 years"	"75-79"	26
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Male"	"M"	"80-84 years"	"80-84"	25
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	"Male"	"M"	"85+ years"	"85+"	17
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"50-54 years"	"50-54"	20
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"55-59 years"	"55-59"	18
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"60-64 years "	"60-64"	23
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"65-69 years"	"65-69"	34
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"70-74 years"	"70-74"	29
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"75-79 years"	"75-79"	32
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"80-84 years"	"80-84"	43
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Female"	"F"	"85+ years"	"85+"	69
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"50-54 years"	"50-54"	25
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"55-59 years"	"55-59"	31
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"60-64 years "	"60-64"	39
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"65-69 years"	"65-69"	28
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"70-74 years"	"70-74"	44
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"75-79 years"	"75-79"	46
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"80-84 years"	"80-84"	39
+	"2013"	"2013"	"Transverse Colon"	"21045"	"Male"	"M"	"85+ years"	"85+"	36
+	"2013"	"2013"	"Splenic Flexure"	"21046"	"Male"	"M"	"65-69 years"	"65-69"	18
+	"2013"	"2013"	"Splenic Flexure"	"21046"	"Male"	"M"	"85+ years"	"85+"	21
+	"2013"	"2013"	"Descending Colon"	"21047"	"Female"	"F"	"50-54 years"	"50-54"	18
+	"2013"	"2013"	"Descending Colon"	"21047"	"Female"	"F"	"55-59 years"	"55-59"	19
+	"2013"	"2013"	"Descending Colon"	"21047"	"Female"	"F"	"60-64 years "	"60-64"	18
+	"2013"	"2013"	"Descending Colon"	"21047"	"Female"	"F"	"70-74 years"	"70-74"	34
+	"2013"	"2013"	"Descending Colon"	"21047"	"Female"	"F"	"75-79 years"	"75-79"	27
+	"2013"	"2013"	"Descending Colon"	"21047"	"Female"	"F"	"85+ years"	"85+"	40
+	"2013"	"2013"	"Descending Colon"	"21047"	"Male"	"M"	"50-54 years"	"50-54"	21
+	"2013"	"2013"	"Descending Colon"	"21047"	"Male"	"M"	"55-59 years"	"55-59"	19
+	"2013"	"2013"	"Descending Colon"	"21047"	"Male"	"M"	"60-64 years "	"60-64"	29
+	"2013"	"2013"	"Descending Colon"	"21047"	"Male"	"M"	"65-69 years"	"65-69"	33
+	"2013"	"2013"	"Descending Colon"	"21047"	"Male"	"M"	"70-74 years"	"70-74"	24
+	"2013"	"2013"	"Descending Colon"	"21047"	"Male"	"M"	"75-79 years"	"75-79"	28
+	"2013"	"2013"	"Descending Colon"	"21047"	"Male"	"M"	"80-84 years"	"80-84"	21
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"40-44 years"	"40-44"	31
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"45-49 years"	"45-49"	52
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"50-54 years"	"50-54"	89
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"55-59 years"	"55-59"	81
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"60-64 years "	"60-64"	76
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"65-69 years"	"65-69"	68
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"70-74 years"	"70-74"	75
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"75-79 years"	"75-79"	53
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"80-84 years"	"80-84"	64
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Female"	"F"	"85+ years"	"85+"	93
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"40-44 years"	"40-44"	18
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"45-49 years"	"45-49"	58
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"50-54 years"	"50-54"	81
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"55-59 years"	"55-59"	93
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"60-64 years "	"60-64"	123
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"65-69 years"	"65-69"	117
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"70-74 years"	"70-74"	114
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"75-79 years"	"75-79"	80
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"80-84 years"	"80-84"	95
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	"Male"	"M"	"85+ years"	"85+"	75
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"60-64 years "	"60-64"	21
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"65-69 years"	"65-69"	19
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"70-74 years"	"70-74"	32
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"75-79 years"	"75-79"	26
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"80-84 years"	"80-84"	33
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"85+ years"	"85+"	78
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"60-64 years "	"60-64"	23
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"65-69 years"	"65-69"	24
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"70-74 years"	"70-74"	22
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"75-79 years"	"75-79"	28
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"80-84 years"	"80-84"	30
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"85+ years"	"85+"	45
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"35-39 years"	"35-39"	29
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"40-44 years"	"40-44"	47
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"45-49 years"	"45-49"	76
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"50-54 years"	"50-54"	151
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"55-59 years"	"55-59"	138
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"60-64 years "	"60-64"	132
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"65-69 years"	"65-69"	135
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"70-74 years"	"70-74"	111
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"75-79 years"	"75-79"	110
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"80-84 years"	"80-84"	106
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"85+ years"	"85+"	128
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"35-39 years"	"35-39"	29
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"40-44 years"	"40-44"	60
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"45-49 years"	"45-49"	103
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"50-54 years"	"50-54"	194
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"55-59 years"	"55-59"	179
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"60-64 years "	"60-64"	209
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"65-69 years"	"65-69"	183
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"70-74 years"	"70-74"	173
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"75-79 years"	"75-79"	138
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"80-84 years"	"80-84"	105
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"85+ years"	"85+"	100
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"50-54 years"	"50-54"	44
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"55-59 years"	"55-59"	38
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"60-64 years "	"60-64"	35
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"65-69 years"	"65-69"	44
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"70-74 years"	"70-74"	36
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"75-79 years"	"75-79"	26
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"80-84 years"	"80-84"	39
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"85+ years"	"85+"	35
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"40-44 years"	"40-44"	17
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"45-49 years"	"45-49"	22
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"50-54 years"	"50-54"	40
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"55-59 years"	"55-59"	51
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"60-64 years "	"60-64"	55
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"65-69 years"	"65-69"	64
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"70-74 years"	"70-74"	53
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"75-79 years"	"75-79"	44
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"80-84 years"	"80-84"	25
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"85+ years"	"85+"	17
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"35-39 years"	"35-39"	21
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"40-44 years"	"40-44"	34
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"45-49 years"	"45-49"	62
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"50-54 years"	"50-54"	107
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"55-59 years"	"55-59"	100
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"60-64 years "	"60-64"	97
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"65-69 years"	"65-69"	91
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"70-74 years"	"70-74"	75
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"75-79 years"	"75-79"	84
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"80-84 years"	"80-84"	67
+	"2013"	"2013"	"Rectum"	"21052"	"Female"	"F"	"85+ years"	"85+"	93
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"35-39 years"	"35-39"	20
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"40-44 years"	"40-44"	43
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"45-49 years"	"45-49"	81
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"50-54 years"	"50-54"	154
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"55-59 years"	"55-59"	128
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"60-64 years "	"60-64"	154
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"65-69 years"	"65-69"	119
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"70-74 years"	"70-74"	120
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"75-79 years"	"75-79"	94
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"80-84 years"	"80-84"	80
+	"2013"	"2013"	"Rectum"	"21052"	"Male"	"M"	"85+ years"	"85+"	83
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"45-49 years"	"45-49"	25
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"50-54 years"	"50-54"	38
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"55-59 years"	"55-59"	53
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"60-64 years "	"60-64"	49
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"65-69 years"	"65-69"	30
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"70-74 years"	"70-74"	26
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"75-79 years"	"75-79"	25
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"85+ years"	"85+"	23
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"45-49 years"	"45-49"	25
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"50-54 years"	"50-54"	28
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"55-59 years"	"55-59"	26
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"60-64 years "	"60-64"	23
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"65-69 years"	"65-69"	27
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"70-74 years"	"70-74"	19
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"75-79 years"	"75-79"	16
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"45-49 years"	"45-49"	19
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"50-54 years"	"50-54"	36
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"55-59 years"	"55-59"	82
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"60-64 years "	"60-64"	82
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"65-69 years"	"65-69"	92
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"70-74 years"	"70-74"	76
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"75-79 years"	"75-79"	78
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"80-84 years"	"80-84"	60
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"85+ years"	"85+"	82
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"40-44 years"	"40-44"	20
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"45-49 years"	"45-49"	47
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"50-54 years"	"50-54"	117
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"55-59 years"	"55-59"	237
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"60-64 years "	"60-64"	341
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"65-69 years"	"65-69"	234
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"70-74 years"	"70-74"	178
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"75-79 years"	"75-79"	131
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"80-84 years"	"80-84"	81
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"85+ years"	"85+"	73
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"50-54 years"	"50-54"	25
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"55-59 years"	"55-59"	63
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"60-64 years "	"60-64"	73
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"65-69 years"	"65-69"	76
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"70-74 years"	"70-74"	63
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"75-79 years"	"75-79"	53
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"80-84 years"	"80-84"	44
+	"2013"	"2013"	"Liver"	"21071"	"Female"	"F"	"85+ years"	"85+"	60
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"40-44 years"	"40-44"	20
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"45-49 years"	"45-49"	41
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"50-54 years"	"50-54"	106
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"55-59 years"	"55-59"	223
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"60-64 years "	"60-64"	314
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"65-69 years"	"65-69"	213
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"70-74 years"	"70-74"	159
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"75-79 years"	"75-79"	117
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"80-84 years"	"80-84"	71
+	"2013"	"2013"	"Liver"	"21071"	"Male"	"M"	"85+ years"	"85+"	60
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Female"	"F"	"55-59 years"	"55-59"	19
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Female"	"F"	"65-69 years"	"65-69"	16
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Female"	"F"	"75-79 years"	"75-79"	25
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Female"	"F"	"80-84 years"	"80-84"	16
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Female"	"F"	"85+ years"	"85+"	22
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Male"	"M"	"60-64 years "	"60-64"	27
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Male"	"M"	"65-69 years"	"65-69"	21
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	"Male"	"M"	"70-74 years"	"70-74"	19
+	"2013"	"2013"	"Gallbladder"	"21080"	"Female"	"F"	"55-59 years"	"55-59"	30
+	"2013"	"2013"	"Gallbladder"	"21080"	"Female"	"F"	"60-64 years "	"60-64"	27
+	"2013"	"2013"	"Gallbladder"	"21080"	"Female"	"F"	"65-69 years"	"65-69"	36
+	"2013"	"2013"	"Gallbladder"	"21080"	"Female"	"F"	"70-74 years"	"70-74"	22
+	"2013"	"2013"	"Gallbladder"	"21080"	"Female"	"F"	"75-79 years"	"75-79"	35
+	"2013"	"2013"	"Gallbladder"	"21080"	"Female"	"F"	"80-84 years"	"80-84"	23
+	"2013"	"2013"	"Gallbladder"	"21080"	"Female"	"F"	"85+ years"	"85+"	27
+	"2013"	"2013"	"Gallbladder"	"21080"	"Male"	"M"	"75-79 years"	"75-79"	23
+	"2013"	"2013"	"Gallbladder"	"21080"	"Male"	"M"	"80-84 years"	"80-84"	20
+	"2013"	"2013"	"Other Biliary"	"21090"	"Female"	"F"	"60-64 years "	"60-64"	23
+	"2013"	"2013"	"Other Biliary"	"21090"	"Female"	"F"	"65-69 years"	"65-69"	26
+	"2013"	"2013"	"Other Biliary"	"21090"	"Female"	"F"	"70-74 years"	"70-74"	35
+	"2013"	"2013"	"Other Biliary"	"21090"	"Female"	"F"	"75-79 years"	"75-79"	29
+	"2013"	"2013"	"Other Biliary"	"21090"	"Female"	"F"	"80-84 years"	"80-84"	26
+	"2013"	"2013"	"Other Biliary"	"21090"	"Female"	"F"	"85+ years"	"85+"	52
+	"2013"	"2013"	"Other Biliary"	"21090"	"Male"	"M"	"60-64 years "	"60-64"	30
+	"2013"	"2013"	"Other Biliary"	"21090"	"Male"	"M"	"65-69 years"	"65-69"	36
+	"2013"	"2013"	"Other Biliary"	"21090"	"Male"	"M"	"70-74 years"	"70-74"	37
+	"2013"	"2013"	"Other Biliary"	"21090"	"Male"	"M"	"75-79 years"	"75-79"	28
+	"2013"	"2013"	"Other Biliary"	"21090"	"Male"	"M"	"80-84 years"	"80-84"	31
+	"2013"	"2013"	"Other Biliary"	"21090"	"Male"	"M"	"85+ years"	"85+"	41
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"45-49 years"	"45-49"	35
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"50-54 years"	"50-54"	84
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"55-59 years"	"55-59"	131
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"60-64 years "	"60-64"	177
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"65-69 years"	"65-69"	204
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"70-74 years"	"70-74"	198
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"75-79 years"	"75-79"	210
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"80-84 years"	"80-84"	238
+	"2013"	"2013"	"Pancreas"	"21100"	"Female"	"F"	"85+ years"	"85+"	320
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"40-44 years"	"40-44"	29
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"45-49 years"	"45-49"	41
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"50-54 years"	"50-54"	120
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"55-59 years"	"55-59"	171
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"60-64 years "	"60-64"	230
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"65-69 years"	"65-69"	228
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"70-74 years"	"70-74"	213
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"75-79 years"	"75-79"	189
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"80-84 years"	"80-84"	170
+	"2013"	"2013"	"Pancreas"	"21100"	"Male"	"M"	"85+ years"	"85+"	175
+	"2013"	"2013"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	"55-59 years"	"55-59"	16
+	"2013"	"2013"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	"65-69 years"	"65-69"	21
+	"2013"	"2013"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	"70-74 years"	"70-74"	19
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"35-39 years"	"35-39"	30
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"40-44 years"	"40-44"	69
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"45-49 years"	"45-49"	175
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"50-54 years"	"50-54"	428
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"55-59 years"	"55-59"	633
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"60-64 years "	"60-64"	811
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"65-69 years"	"65-69"	1119
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"70-74 years"	"70-74"	1142
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"75-79 years"	"75-79"	1103
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"80-84 years"	"80-84"	858
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Female"	"F"	"85+ years"	"85+"	774
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"25-29 years"	"25-29"	17
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"35-39 years"	"35-39"	29
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"40-44 years"	"40-44"	63
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"45-49 years"	"45-49"	150
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"50-54 years"	"50-54"	454
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"55-59 years"	"55-59"	743
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"60-64 years "	"60-64"	988
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"65-69 years"	"65-69"	1214
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"70-74 years"	"70-74"	1267
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"75-79 years"	"75-79"	1083
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"80-84 years"	"80-84"	871
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	"Male"	"M"	"85+ years"	"85+"	654
+	"2013"	"2013"	"Larynx"	"22020"	"Female"	"F"	"55-59 years"	"55-59"	26
+	"2013"	"2013"	"Larynx"	"22020"	"Female"	"F"	"60-64 years "	"60-64"	22
+	"2013"	"2013"	"Larynx"	"22020"	"Female"	"F"	"65-69 years"	"65-69"	34
+	"2013"	"2013"	"Larynx"	"22020"	"Female"	"F"	"70-74 years"	"70-74"	24
+	"2013"	"2013"	"Larynx"	"22020"	"Female"	"F"	"75-79 years"	"75-79"	16
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"45-49 years"	"45-49"	18
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"50-54 years"	"50-54"	58
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"55-59 years"	"55-59"	101
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"60-64 years "	"60-64"	106
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"65-69 years"	"65-69"	96
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"70-74 years"	"70-74"	88
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"75-79 years"	"75-79"	65
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"80-84 years"	"80-84"	56
+	"2013"	"2013"	"Larynx"	"22020"	"Male"	"M"	"85+ years"	"85+"	43
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"35-39 years"	"35-39"	26
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"40-44 years"	"40-44"	66
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"45-49 years"	"45-49"	164
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"50-54 years"	"50-54"	412
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"55-59 years"	"55-59"	599
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"60-64 years "	"60-64"	781
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"65-69 years"	"65-69"	1075
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"70-74 years"	"70-74"	1108
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"75-79 years"	"75-79"	1082
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"80-84 years"	"80-84"	843
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Female"	"F"	"85+ years"	"85+"	762
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"35-39 years"	"35-39"	23
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"40-44 years"	"40-44"	50
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"45-49 years"	"45-49"	129
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"50-54 years"	"50-54"	384
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"55-59 years"	"55-59"	633
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"60-64 years "	"60-64"	871
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"65-69 years"	"65-69"	1104
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"70-74 years"	"70-74"	1167
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"75-79 years"	"75-79"	1009
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"80-84 years"	"80-84"	807
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	"Male"	"M"	"85+ years"	"85+"	600
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"40-44 years"	"40-44"	17
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"45-49 years"	"45-49"	21
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"50-54 years"	"50-54"	29
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"55-59 years"	"55-59"	30
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"60-64 years "	"60-64"	24
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"65-69 years"	"65-69"	29
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"70-74 years"	"70-74"	19
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"75-79 years"	"75-79"	39
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"80-84 years"	"80-84"	30
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"85+ years"	"85+"	26
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"30-34 years"	"30-34"	20
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"35-39 years"	"35-39"	23
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"40-44 years"	"40-44"	17
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"45-49 years"	"45-49"	21
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"50-54 years"	"50-54"	40
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"55-59 years"	"55-59"	47
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"60-64 years "	"60-64"	43
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"65-69 years"	"65-69"	35
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"70-74 years"	"70-74"	48
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"75-79 years"	"75-79"	33
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"80-84 years"	"80-84"	30
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"85+ years"	"85+"	35
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"20-24 years"	"20-24"	25
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"25-29 years"	"25-29"	76
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"30-34 years"	"30-34"	76
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"35-39 years"	"35-39"	83
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"40-44 years"	"40-44"	125
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"45-49 years"	"45-49"	122
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"50-54 years"	"50-54"	177
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"55-59 years"	"55-59"	190
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"60-64 years "	"60-64"	193
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"65-69 years"	"65-69"	210
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"70-74 years"	"70-74"	216
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"75-79 years"	"75-79"	170
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"80-84 years"	"80-84"	157
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"85+ years"	"85+"	187
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"25-29 years"	"25-29"	22
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"30-34 years"	"30-34"	45
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"35-39 years"	"35-39"	49
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"40-44 years"	"40-44"	77
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"45-49 years"	"45-49"	138
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"50-54 years"	"50-54"	212
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"55-59 years"	"55-59"	274
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"60-64 years "	"60-64"	303
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"65-69 years"	"65-69"	367
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"70-74 years"	"70-74"	319
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"75-79 years"	"75-79"	297
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"80-84 years"	"80-84"	275
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"85+ years"	"85+"	269
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"20-24 years"	"20-24"	22
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"25-29 years"	"25-29"	66
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"30-34 years"	"30-34"	68
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"35-39 years"	"35-39"	72
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"40-44 years"	"40-44"	120
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"45-49 years"	"45-49"	111
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"50-54 years"	"50-54"	168
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"55-59 years"	"55-59"	179
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"60-64 years "	"60-64"	184
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"65-69 years"	"65-69"	191
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"70-74 years"	"70-74"	196
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"75-79 years"	"75-79"	144
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"80-84 years"	"80-84"	138
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"85+ years"	"85+"	155
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"25-29 years"	"25-29"	19
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"30-34 years"	"30-34"	40
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"35-39 years"	"35-39"	44
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"40-44 years"	"40-44"	71
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"45-49 years"	"45-49"	132
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"50-54 years"	"50-54"	200
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"55-59 years"	"55-59"	260
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"60-64 years "	"60-64"	285
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"65-69 years"	"65-69"	336
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"70-74 years"	"70-74"	276
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"75-79 years"	"75-79"	261
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"80-84 years"	"80-84"	243
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"85+ years"	"85+"	237
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	"65-69 years"	"65-69"	19
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	"70-74 years"	"70-74"	20
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	"75-79 years"	"75-79"	26
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	"80-84 years"	"80-84"	19
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	"85+ years"	"85+"	32
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"60-64 years "	"60-64"	18
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"65-69 years"	"65-69"	31
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"70-74 years"	"70-74"	43
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"75-79 years"	"75-79"	36
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"80-84 years"	"80-84"	32
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"85+ years"	"85+"	32
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"25-29 years"	"25-29"	79
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"30-34 years"	"30-34"	210
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"35-39 years"	"35-39"	433
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"40-44 years"	"40-44"	919
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"45-49 years"	"45-49"	1534
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"50-54 years"	"50-54"	1827
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"55-59 years"	"55-59"	1917
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"60-64 years "	"60-64"	1990
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"65-69 years"	"65-69"	2045
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"70-74 years"	"70-74"	1650
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"75-79 years"	"75-79"	1261
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"80-84 years"	"80-84"	966
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Female"	"F"	"85+ years"	"85+"	960
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Male"	"M"	"55-59 years"	"55-59"	24
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Male"	"M"	"65-69 years"	"65-69"	28
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Male"	"M"	"70-74 years"	"70-74"	16
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Male"	"M"	"75-79 years"	"75-79"	23
+	"2013"	"2013"	"Male and Female Breast"	"26000"	"Male"	"M"	"80-84 years"	"80-84"	16
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"25-29 years"	"25-29"	79
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"30-34 years"	"30-34"	210
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"35-39 years"	"35-39"	433
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"40-44 years"	"40-44"	919
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"45-49 years"	"45-49"	1534
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"50-54 years"	"50-54"	1827
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"55-59 years"	"55-59"	1917
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"60-64 years "	"60-64"	1990
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"65-69 years"	"65-69"	2045
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"70-74 years"	"70-74"	1650
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"75-79 years"	"75-79"	1261
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"80-84 years"	"80-84"	966
+	"2013"	"2013"	"Female Breast"	"26000-Female"	"Female"	"F"	"85+ years"	"85+"	960
+	"2013"	"2013"	"Male Breast"	"26000-Male"	"Male"	"M"	"55-59 years"	"55-59"	24
+	"2013"	"2013"	"Male Breast"	"26000-Male"	"Male"	"M"	"65-69 years"	"65-69"	28
+	"2013"	"2013"	"Male Breast"	"26000-Male"	"Male"	"M"	"70-74 years"	"70-74"	16
+	"2013"	"2013"	"Male Breast"	"26000-Male"	"Male"	"M"	"75-79 years"	"75-79"	23
+	"2013"	"2013"	"Male Breast"	"26000-Male"	"Male"	"M"	"80-84 years"	"80-84"	16
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"20-24 years"	"20-24"	32
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"25-29 years"	"25-29"	84
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"30-34 years"	"30-34"	144
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"35-39 years"	"35-39"	190
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"40-44 years"	"40-44"	297
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"45-49 years"	"45-49"	423
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"50-54 years"	"50-54"	741
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"55-59 years"	"55-59"	1038
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"60-64 years "	"60-64"	1051
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"65-69 years"	"65-69"	1002
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"70-74 years"	"70-74"	739
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"75-79 years"	"75-79"	547
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"80-84 years"	"80-84"	418
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	"Female"	"F"	"85+ years"	"85+"	437
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"25-29 years"	"25-29"	42
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"30-34 years"	"30-34"	65
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"35-39 years"	"35-39"	84
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"40-44 years"	"40-44"	100
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"45-49 years"	"45-49"	83
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"50-54 years"	"50-54"	90
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"55-59 years"	"55-59"	100
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"60-64 years "	"60-64"	87
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"65-69 years"	"65-69"	67
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"70-74 years"	"70-74"	46
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"75-79 years"	"75-79"	41
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"80-84 years"	"80-84"	32
+	"2013"	"2013"	"Cervix Uteri"	"27010"	"Female"	"F"	"85+ years"	"85+"	40
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"25-29 years"	"25-29"	16
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"30-34 years"	"30-34"	40
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"35-39 years"	"35-39"	56
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"40-44 years"	"40-44"	100
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"45-49 years"	"45-49"	190
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"50-54 years"	"50-54"	404
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"55-59 years"	"55-59"	668
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"60-64 years "	"60-64"	719
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"65-69 years"	"65-69"	662
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"70-74 years"	"70-74"	471
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"75-79 years"	"75-79"	304
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"80-84 years"	"80-84"	191
+	"2013"	"2013"	"Corpus Uteri"	"27020"	"Female"	"F"	"85+ years"	"85+"	153
+	"2013"	"2013"	"Uterus, NOS"	"27030"	"Female"	"F"	"85+ years"	"85+"	20
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"20-24 years"	"20-24"	18
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"25-29 years"	"25-29"	21
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"30-34 years"	"30-34"	34
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"35-39 years"	"35-39"	34
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"40-44 years"	"40-44"	75
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"45-49 years"	"45-49"	116
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"50-54 years"	"50-54"	182
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"55-59 years"	"55-59"	187
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"60-64 years "	"60-64"	171
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"65-69 years"	"65-69"	181
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"70-74 years"	"70-74"	130
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"75-79 years"	"75-79"	136
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"80-84 years"	"80-84"	107
+	"2013"	"2013"	"Ovary"	"27040"	"Female"	"F"	"85+ years"	"85+"	149
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"50-54 years"	"50-54"	31
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"55-59 years"	"55-59"	39
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"60-64 years "	"60-64"	29
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"65-69 years"	"65-69"	35
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"70-74 years"	"70-74"	34
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"75-79 years"	"75-79"	36
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"80-84 years"	"80-84"	45
+	"2013"	"2013"	"Vulva"	"27060"	"Female"	"F"	"85+ years"	"85+"	48
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"50-54 years"	"50-54"	27
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"55-59 years"	"55-59"	24
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"60-64 years "	"60-64"	22
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"65-69 years"	"65-69"	33
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"70-74 years"	"70-74"	35
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"80-84 years"	"80-84"	27
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"85+ years"	"85+"	19
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"15-19 years"	"15-19"	21
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"20-24 years"	"20-24"	67
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"25-29 years"	"25-29"	110
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"30-34 years"	"30-34"	104
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"35-39 years"	"35-39"	77
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"40-44 years"	"40-44"	134
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"45-49 years"	"45-49"	330
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"50-54 years"	"50-54"	1074
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"55-59 years"	"55-59"	1943
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"60-64 years "	"60-64"	2706
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"65-69 years"	"65-69"	2898
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"70-74 years"	"70-74"	2232
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"75-79 years"	"75-79"	1403
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"80-84 years"	"80-84"	703
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	"Male"	"M"	"85+ years"	"85+"	559
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"40-44 years"	"40-44"	72
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"45-49 years"	"45-49"	291
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"50-54 years"	"50-54"	1034
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"55-59 years"	"55-59"	1913
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"60-64 years "	"60-64"	2680
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"65-69 years"	"65-69"	2880
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"70-74 years"	"70-74"	2212
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"75-79 years"	"75-79"	1388
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"80-84 years"	"80-84"	688
+	"2013"	"2013"	"Prostate"	"28010"	"Male"	"M"	"85+ years"	"85+"	543
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"15-19 years"	"15-19"	20
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"20-24 years"	"20-24"	65
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"25-29 years"	"25-29"	107
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"30-34 years"	"30-34"	101
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"35-39 years"	"35-39"	72
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"40-44 years"	"40-44"	60
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"45-49 years"	"45-49"	35
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"50-54 years"	"50-54"	35
+	"2013"	"2013"	"Testis"	"28020"	"Male"	"M"	"55-59 years"	"55-59"	20
+	"2013"	"2013"	"Penis"	"28030"	"Male"	"M"	"70-74 years"	"70-74"	16
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"30-34 years"	"30-34"	27
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"35-39 years"	"35-39"	34
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"40-44 years"	"40-44"	59
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"45-49 years"	"45-49"	102
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"50-54 years"	"50-54"	186
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"55-59 years"	"55-59"	257
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"60-64 years "	"60-64"	307
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"65-69 years"	"65-69"	370
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"70-74 years"	"70-74"	416
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"75-79 years"	"75-79"	346
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"80-84 years"	"80-84"	313
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Female"	"F"	"85+ years"	"85+"	374
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"25-29 years"	"25-29"	18
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"30-34 years"	"30-34"	33
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"35-39 years"	"35-39"	48
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"40-44 years"	"40-44"	140
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"45-49 years"	"45-49"	241
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"50-54 years"	"50-54"	400
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"55-59 years"	"55-59"	594
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"60-64 years "	"60-64"	794
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"65-69 years"	"65-69"	955
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"70-74 years"	"70-74"	938
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"75-79 years"	"75-79"	923
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"80-84 years"	"80-84"	721
+	"2013"	"2013"	"Urinary System"	"29010-29040"	"Male"	"M"	"85+ years"	"85+"	716
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"40-44 years"	"40-44"	16
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"45-49 years"	"45-49"	23
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"50-54 years"	"50-54"	78
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"55-59 years"	"55-59"	116
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"60-64 years "	"60-64"	135
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"65-69 years"	"65-69"	189
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"70-74 years"	"70-74"	212
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"75-79 years"	"75-79"	200
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"80-84 years"	"80-84"	181
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"85+ years"	"85+"	250
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"40-44 years"	"40-44"	35
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"45-49 years"	"45-49"	88
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"50-54 years"	"50-54"	166
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"55-59 years"	"55-59"	284
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"60-64 years "	"60-64"	418
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"65-69 years"	"65-69"	551
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"70-74 years"	"70-74"	630
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"75-79 years"	"75-79"	681
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"80-84 years"	"80-84"	536
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"85+ years"	"85+"	590
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"30-34 years"	"30-34"	23
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"35-39 years"	"35-39"	30
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"40-44 years"	"40-44"	42
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"45-49 years"	"45-49"	78
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"50-54 years"	"50-54"	105
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"55-59 years"	"55-59"	139
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"60-64 years "	"60-64"	168
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"65-69 years"	"65-69"	173
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"70-74 years"	"70-74"	190
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"75-79 years"	"75-79"	135
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"80-84 years"	"80-84"	117
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"85+ years"	"85+"	106
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"30-34 years"	"30-34"	25
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"35-39 years"	"35-39"	34
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"40-44 years"	"40-44"	104
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"45-49 years"	"45-49"	152
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"50-54 years"	"50-54"	231
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"55-59 years"	"55-59"	300
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"60-64 years "	"60-64"	362
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"65-69 years"	"65-69"	387
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"70-74 years"	"70-74"	289
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"75-79 years"	"75-79"	220
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"80-84 years"	"80-84"	148
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"85+ years"	"85+"	108
+	"2013"	"2013"	"Ureter"	"29030"	"Male"	"M"	"80-84 years"	"80-84"	26
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"1-4 years"	"1-4"	19
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"5-9 years"	"5-9"	21
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"10-14 years"	"10-14"	19
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"15-19 years"	"15-19"	16
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"20-24 years"	"20-24"	16
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"25-29 years"	"25-29"	19
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"30-34 years"	"30-34"	17
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"35-39 years"	"35-39"	25
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"40-44 years"	"40-44"	22
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"45-49 years"	"45-49"	39
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"50-54 years"	"50-54"	44
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"55-59 years"	"55-59"	52
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"60-64 years "	"60-64"	54
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"65-69 years"	"65-69"	62
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"70-74 years"	"70-74"	50
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"75-79 years"	"75-79"	45
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"80-84 years"	"80-84"	52
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"85+ years"	"85+"	41
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"1-4 years"	"1-4"	31
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"5-9 years"	"5-9"	25
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"10-14 years"	"10-14"	24
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"15-19 years"	"15-19"	23
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"20-24 years"	"20-24"	21
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"25-29 years"	"25-29"	30
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"30-34 years"	"30-34"	27
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"35-39 years"	"35-39"	21
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"40-44 years"	"40-44"	37
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"45-49 years"	"45-49"	43
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"50-54 years"	"50-54"	55
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"55-59 years"	"55-59"	102
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"60-64 years "	"60-64"	81
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"65-69 years"	"65-69"	83
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"70-74 years"	"70-74"	56
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"75-79 years"	"75-79"	50
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"80-84 years"	"80-84"	38
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"85+ years"	"85+"	21
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"5-9 years"	"5-9"	20
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"10-14 years"	"10-14"	19
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"25-29 years"	"25-29"	18
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"35-39 years"	"35-39"	24
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"40-44 years"	"40-44"	21
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"45-49 years"	"45-49"	37
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"50-54 years"	"50-54"	41
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"55-59 years"	"55-59"	48
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"60-64 years "	"60-64"	51
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"65-69 years"	"65-69"	60
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"70-74 years"	"70-74"	44
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"75-79 years"	"75-79"	45
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"80-84 years"	"80-84"	52
+	"2013"	"2013"	"Brain"	"31010"	"Female"	"F"	"85+ years"	"85+"	39
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"1-4 years"	"1-4"	23
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"5-9 years"	"5-9"	20
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"10-14 years"	"10-14"	22
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"15-19 years"	"15-19"	21
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"20-24 years"	"20-24"	19
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"25-29 years"	"25-29"	30
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"30-34 years"	"30-34"	25
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"35-39 years"	"35-39"	21
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"40-44 years"	"40-44"	33
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"45-49 years"	"45-49"	42
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"50-54 years"	"50-54"	50
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"55-59 years"	"55-59"	97
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"60-64 years "	"60-64"	80
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"65-69 years"	"65-69"	82
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"70-74 years"	"70-74"	52
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"75-79 years"	"75-79"	49
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"80-84 years"	"80-84"	36
+	"2013"	"2013"	"Brain"	"31010"	"Male"	"M"	"85+ years"	"85+"	20
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"15-19 years"	"15-19"	46
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"20-24 years"	"20-24"	114
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"25-29 years"	"25-29"	180
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"30-34 years"	"30-34"	275
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"35-39 years"	"35-39"	278
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"40-44 years"	"40-44"	334
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"45-49 years"	"45-49"	415
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"50-54 years"	"50-54"	422
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"55-59 years"	"55-59"	375
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"60-64 years "	"60-64"	278
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"65-69 years"	"65-69"	236
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"70-74 years"	"70-74"	147
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"75-79 years"	"75-79"	100
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"80-84 years"	"80-84"	68
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Female"	"F"	"85+ years"	"85+"	41
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"20-24 years"	"20-24"	23
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"25-29 years"	"25-29"	55
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"30-34 years"	"30-34"	56
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"35-39 years"	"35-39"	68
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"40-44 years"	"40-44"	94
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"45-49 years"	"45-49"	124
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"50-54 years"	"50-54"	119
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"55-59 years"	"55-59"	159
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"60-64 years "	"60-64"	124
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"65-69 years"	"65-69"	120
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"70-74 years"	"70-74"	84
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"75-79 years"	"75-79"	73
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"80-84 years"	"80-84"	26
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	"Male"	"M"	"85+ years"	"85+"	22
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"15-19 years"	"15-19"	44
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"20-24 years"	"20-24"	114
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"25-29 years"	"25-29"	174
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"30-34 years"	"30-34"	271
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"35-39 years"	"35-39"	273
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"40-44 years"	"40-44"	328
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"45-49 years"	"45-49"	404
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"50-54 years"	"50-54"	407
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"55-59 years"	"55-59"	368
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"60-64 years "	"60-64"	258
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"65-69 years"	"65-69"	230
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"70-74 years"	"70-74"	144
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"75-79 years"	"75-79"	91
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"80-84 years"	"80-84"	65
+	"2013"	"2013"	"Thyroid"	"32010"	"Female"	"F"	"85+ years"	"85+"	39
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"20-24 years"	"20-24"	23
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"25-29 years"	"25-29"	51
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"30-34 years"	"30-34"	55
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"35-39 years"	"35-39"	65
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"40-44 years"	"40-44"	91
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"45-49 years"	"45-49"	120
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"50-54 years"	"50-54"	109
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"55-59 years"	"55-59"	147
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"60-64 years "	"60-64"	115
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"65-69 years"	"65-69"	111
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"70-74 years"	"70-74"	76
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"75-79 years"	"75-79"	64
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"80-84 years"	"80-84"	23
+	"2013"	"2013"	"Thyroid"	"32010"	"Male"	"M"	"85+ years"	"85+"	20
+	"2013"	"2013"	"Other Endocrine including Thymus"	"32020"	"Female"	"F"	"60-64 years "	"60-64"	20
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"15-19 years"	"15-19"	45
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"20-24 years"	"20-24"	68
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"25-29 years"	"25-29"	58
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"30-34 years"	"30-34"	54
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"35-39 years"	"35-39"	61
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"40-44 years"	"40-44"	85
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"45-49 years"	"45-49"	129
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"50-54 years"	"50-54"	192
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"55-59 years"	"55-59"	201
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"60-64 years "	"60-64"	276
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"65-69 years"	"65-69"	306
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"70-74 years"	"70-74"	275
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"75-79 years"	"75-79"	255
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"80-84 years"	"80-84"	238
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Female"	"F"	"85+ years"	"85+"	283
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"10-14 years"	"10-14"	21
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"15-19 years"	"15-19"	46
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"20-24 years"	"20-24"	71
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"25-29 years"	"25-29"	66
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"30-34 years"	"30-34"	82
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"35-39 years"	"35-39"	79
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"40-44 years"	"40-44"	130
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"45-49 years"	"45-49"	160
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"50-54 years"	"50-54"	242
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"55-59 years"	"55-59"	293
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"60-64 years "	"60-64"	308
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"65-69 years"	"65-69"	324
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"70-74 years"	"70-74"	324
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"75-79 years"	"75-79"	297
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"80-84 years"	"80-84"	267
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	"Male"	"M"	"85+ years"	"85+"	211
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"15-19 years"	"15-19"	31
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"20-24 years"	"20-24"	46
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"25-29 years"	"25-29"	37
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"30-34 years"	"30-34"	23
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"35-39 years"	"35-39"	21
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"40-44 years"	"40-44"	25
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"45-49 years"	"45-49"	18
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"50-54 years"	"50-54"	22
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"65-69 years"	"65-69"	18
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"70-74 years"	"70-74"	18
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"15-19 years"	"15-19"	25
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"20-24 years"	"20-24"	39
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"25-29 years"	"25-29"	28
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"30-34 years"	"30-34"	32
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"35-39 years"	"35-39"	21
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"40-44 years"	"40-44"	28
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"45-49 years"	"45-49"	25
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"50-54 years"	"50-54"	34
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"55-59 years"	"55-59"	23
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"15-19 years"	"15-19"	31
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"20-24 years"	"20-24"	46
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"25-29 years"	"25-29"	37
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"30-34 years"	"30-34"	23
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"35-39 years"	"35-39"	21
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"40-44 years"	"40-44"	25
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"45-49 years"	"45-49"	18
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"50-54 years"	"50-54"	22
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"65-69 years"	"65-69"	18
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"70-74 years"	"70-74"	18
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"15-19 years"	"15-19"	25
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"20-24 years"	"20-24"	39
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"25-29 years"	"25-29"	28
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"30-34 years"	"30-34"	31
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"35-39 years"	"35-39"	21
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"40-44 years"	"40-44"	27
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"45-49 years"	"45-49"	24
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"50-54 years"	"50-54"	33
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"55-59 years"	"55-59"	23
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"20-24 years"	"20-24"	22
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"25-29 years"	"25-29"	21
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"30-34 years"	"30-34"	31
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"35-39 years"	"35-39"	40
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"40-44 years"	"40-44"	60
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"45-49 years"	"45-49"	111
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"50-54 years"	"50-54"	170
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"55-59 years"	"55-59"	191
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"60-64 years "	"60-64"	263
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"65-69 years"	"65-69"	288
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"70-74 years"	"70-74"	257
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"75-79 years"	"75-79"	244
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"80-84 years"	"80-84"	227
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"85+ years"	"85+"	277
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"15-19 years"	"15-19"	21
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"20-24 years"	"20-24"	32
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"25-29 years"	"25-29"	38
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"30-34 years"	"30-34"	50
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"35-39 years"	"35-39"	58
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"40-44 years"	"40-44"	102
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"45-49 years"	"45-49"	135
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"50-54 years"	"50-54"	208
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"55-59 years"	"55-59"	270
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"60-64 years "	"60-64"	295
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"65-69 years"	"65-69"	309
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"70-74 years"	"70-74"	311
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"75-79 years"	"75-79"	286
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"80-84 years"	"80-84"	262
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"85+ years"	"85+"	205
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"35-39 years"	"35-39"	22
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"40-44 years"	"40-44"	39
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"45-49 years"	"45-49"	69
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"50-54 years"	"50-54"	100
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"55-59 years"	"55-59"	110
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"60-64 years "	"60-64"	164
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"65-69 years"	"65-69"	200
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"70-74 years"	"70-74"	179
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"75-79 years"	"75-79"	160
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"80-84 years"	"80-84"	147
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Female"	"F"	"85+ years"	"85+"	171
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"20-24 years"	"20-24"	18
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"25-29 years"	"25-29"	22
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"30-34 years"	"30-34"	35
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"35-39 years"	"35-39"	34
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"40-44 years"	"40-44"	59
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"45-49 years"	"45-49"	78
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"50-54 years"	"50-54"	128
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"55-59 years"	"55-59"	178
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"60-64 years "	"60-64"	203
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"65-69 years"	"65-69"	213
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"70-74 years"	"70-74"	198
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"75-79 years"	"75-79"	192
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"80-84 years"	"80-84"	170
+	"2013"	"2013"	"NHL - Nodal"	"33041"	"Male"	"M"	"85+ years"	"85+"	144
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"30-34 years"	"30-34"	17
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"35-39 years"	"35-39"	18
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"40-44 years"	"40-44"	21
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"45-49 years"	"45-49"	42
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"50-54 years"	"50-54"	70
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"55-59 years"	"55-59"	81
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"60-64 years "	"60-64"	99
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"65-69 years"	"65-69"	88
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"70-74 years"	"70-74"	78
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"75-79 years"	"75-79"	84
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"80-84 years"	"80-84"	80
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Female"	"F"	"85+ years"	"85+"	106
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"25-29 years"	"25-29"	16
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"35-39 years"	"35-39"	24
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"40-44 years"	"40-44"	43
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"45-49 years"	"45-49"	57
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"50-54 years"	"50-54"	80
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"55-59 years"	"55-59"	92
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"60-64 years "	"60-64"	92
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"65-69 years"	"65-69"	96
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"70-74 years"	"70-74"	113
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"75-79 years"	"75-79"	94
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"80-84 years"	"80-84"	92
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	"Male"	"M"	"85+ years"	"85+"	61
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"45-49 years"	"45-49"	33
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"50-54 years"	"50-54"	49
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"55-59 years"	"55-59"	85
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"60-64 years "	"60-64"	117
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"65-69 years"	"65-69"	115
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"70-74 years"	"70-74"	122
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"75-79 years"	"75-79"	118
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"80-84 years"	"80-84"	82
+	"2013"	"2013"	"Myeloma"	"34000"	"Female"	"F"	"85+ years"	"85+"	111
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"45-49 years"	"45-49"	43
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"50-54 years"	"50-54"	68
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"55-59 years"	"55-59"	97
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"60-64 years "	"60-64"	157
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"65-69 years"	"65-69"	147
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"70-74 years"	"70-74"	146
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"75-79 years"	"75-79"	120
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"80-84 years"	"80-84"	108
+	"2013"	"2013"	"Myeloma"	"34000"	"Male"	"M"	"85+ years"	"85+"	95
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"1-4 years"	"1-4"	29
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"5-9 years"	"5-9"	25
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"15-19 years"	"15-19"	19
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"20-24 years"	"20-24"	20
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"25-29 years"	"25-29"	23
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"30-34 years"	"30-34"	24
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"35-39 years"	"35-39"	37
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"40-44 years"	"40-44"	45
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"45-49 years"	"45-49"	75
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"50-54 years"	"50-54"	84
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"55-59 years"	"55-59"	112
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"60-64 years "	"60-64"	142
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"65-69 years"	"65-69"	189
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"70-74 years"	"70-74"	180
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"75-79 years"	"75-79"	162
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"80-84 years"	"80-84"	156
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Female"	"F"	"85+ years"	"85+"	235
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"1-4 years"	"1-4"	44
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"5-9 years"	"5-9"	32
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"10-14 years"	"10-14"	25
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"15-19 years"	"15-19"	24
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"20-24 years"	"20-24"	20
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"25-29 years"	"25-29"	17
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"30-34 years"	"30-34"	34
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"35-39 years"	"35-39"	32
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"40-44 years"	"40-44"	51
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"45-49 years"	"45-49"	86
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"50-54 years"	"50-54"	153
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"55-59 years"	"55-59"	168
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"60-64 years "	"60-64"	228
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"65-69 years"	"65-69"	250
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"70-74 years"	"70-74"	249
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"75-79 years"	"75-79"	236
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"80-84 years"	"80-84"	222
+	"2013"	"2013"	"Leukemias"	"35011-35043"	"Male"	"M"	"85+ years"	"85+"	227
+	"2013"	"2013"	"Acute Lymphocytic Leukemia"	"35011"	"Female"	"F"	"1-4 years"	"1-4"	23
+	"2013"	"2013"	"Acute Lymphocytic Leukemia"	"35011"	"Female"	"F"	"5-9 years"	"5-9"	18
+	"2013"	"2013"	"Acute Lymphocytic Leukemia"	"35011"	"Male"	"M"	"1-4 years"	"1-4"	39
+	"2013"	"2013"	"Acute Lymphocytic Leukemia"	"35011"	"Male"	"M"	"5-9 years"	"5-9"	26
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"45-49 years"	"45-49"	20
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"50-54 years"	"50-54"	36
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"55-59 years"	"55-59"	46
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"60-64 years "	"60-64"	61
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"65-69 years"	"65-69"	94
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"70-74 years"	"70-74"	79
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"75-79 years"	"75-79"	74
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"80-84 years"	"80-84"	66
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"85+ years"	"85+"	115
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"45-49 years"	"45-49"	21
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"50-54 years"	"50-54"	67
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"55-59 years"	"55-59"	87
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"60-64 years "	"60-64"	106
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"65-69 years"	"65-69"	134
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"70-74 years"	"70-74"	116
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"75-79 years"	"75-79"	124
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"80-84 years"	"80-84"	97
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"85+ years"	"85+"	100
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"40-44 years"	"40-44"	16
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"45-49 years"	"45-49"	30
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"50-54 years"	"50-54"	20
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"55-59 years"	"55-59"	28
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"60-64 years "	"60-64"	47
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"65-69 years"	"65-69"	50
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"70-74 years"	"70-74"	55
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"75-79 years"	"75-79"	55
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"80-84 years"	"80-84"	49
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"85+ years"	"85+"	56
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"40-44 years"	"40-44"	16
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"45-49 years"	"45-49"	25
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"50-54 years"	"50-54"	30
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"55-59 years"	"55-59"	46
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"60-64 years "	"60-64"	60
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"65-69 years"	"65-69"	60
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"70-74 years"	"70-74"	78
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"75-79 years"	"75-79"	55
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"80-84 years"	"80-84"	74
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"85+ years"	"85+"	60
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"55-59 years"	"55-59"	16
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"65-69 years"	"65-69"	24
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"70-74 years"	"70-74"	25
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"80-84 years"	"80-84"	21
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"85+ years"	"85+"	24
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"45-49 years"	"45-49"	18
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"50-54 years"	"50-54"	32
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"55-59 years"	"55-59"	20
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"60-64 years "	"60-64"	31
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"65-69 years"	"65-69"	30
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"70-74 years"	"70-74"	26
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"75-79 years"	"75-79"	34
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"80-84 years"	"80-84"	31
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"85+ years"	"85+"	24
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Female"	"F"	"55-59 years"	"55-59"	19
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Female"	"F"	"65-69 years"	"65-69"	16
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Female"	"F"	"70-74 years"	"70-74"	17
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Female"	"F"	"80-84 years"	"80-84"	17
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Female"	"F"	"85+ years"	"85+"	37
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"45-49 years"	"45-49"	18
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"60-64 years "	"60-64"	23
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"65-69 years"	"65-69"	23
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"70-74 years"	"70-74"	23
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"75-79 years"	"75-79"	19
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"85+ years"	"85+"	41
+	"2013"	"2013"	"Aleukemic, Subleukemic and NOS"	"35043"	"Female"	"F"	"85+ years"	"85+"	18
+	"2013"	"2013"	"Mesothelioma"	"36010"	"Male"	"M"	"65-69 years"	"65-69"	17
+	"2013"	"2013"	"Mesothelioma"	"36010"	"Male"	"M"	"70-74 years"	"70-74"	29
+	"2013"	"2013"	"Mesothelioma"	"36010"	"Male"	"M"	"75-79 years"	"75-79"	30
+	"2013"	"2013"	"Mesothelioma"	"36010"	"Male"	"M"	"80-84 years"	"80-84"	25
+	"2013"	"2013"	"Mesothelioma"	"36010"	"Male"	"M"	"85+ years"	"85+"	26
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"25-29 years"	"25-29"	21
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"35-39 years"	"35-39"	22
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"40-44 years"	"40-44"	28
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"45-49 years"	"45-49"	64
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"50-54 years"	"50-54"	92
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"55-59 years"	"55-59"	118
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"60-64 years "	"60-64"	183
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"65-69 years"	"65-69"	223
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"70-74 years"	"70-74"	237
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"75-79 years"	"75-79"	288
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"80-84 years"	"80-84"	319
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Female"	"F"	"85+ years"	"85+"	547
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"30-34 years"	"30-34"	17
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"40-44 years"	"40-44"	47
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"45-49 years"	"45-49"	69
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"50-54 years"	"50-54"	116
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"55-59 years"	"55-59"	163
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"60-64 years "	"60-64"	223
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"65-69 years"	"65-69"	251
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"70-74 years"	"70-74"	264
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"75-79 years"	"75-79"	285
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"80-84 years"	"80-84"	324
+	"2013"	"2013"	"Miscellaneous"	"37000"	"Male"	"M"	"85+ years"	"85+"	421
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"30-34 years"	"30-34"	35
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"35-39 years"	"35-39"	103
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"40-44 years"	"40-44"	448
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"45-49 years"	"45-49"	715
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"50-54 years"	"50-54"	848
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"55-59 years"	"55-59"	650
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"60-64 years "	"60-64"	630
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"65-69 years"	"65-69"	622
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"70-74 years"	"70-74"	413
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"75-79 years"	"75-79"	310
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"80-84 years"	"80-84"	178
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"85+ years"	"85+"	68
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"30-34 years"	"30-34"	35
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"35-39 years"	"35-39"	103
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"40-44 years"	"40-44"	448
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"45-49 years"	"45-49"	715
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"50-54 years"	"50-54"	848
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"55-59 years"	"55-59"	650
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"60-64 years "	"60-64"	630
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"65-69 years"	"65-69"	622
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"70-74 years"	"70-74"	413
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"75-79 years"	"75-79"	310
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"80-84 years"	"80-84"	178
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"85+ years"	"85+"	68
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2015 Incidence"
+"Query Parameters:"
+"States and Puerto Rico: New York (36)"
+"Year: 2013"
+"Group By: Year; Cancer Sites; Sex; Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2015.html for more information."
+"---"
+"Query Date: Aug 28, 2019 11:55:42 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2015 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2018. Accessed at"
+"http://wonder.cdc.gov/cancer-v2015.html on Aug 28, 2019 11:55:42 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Illinois, Kansas,"
+"Kentucky, New Jersey, and New York; 2) Asian or Pacific Islander data are suppressed at the state level for Delaware, Kansas,"
+"and Kentucky; 3) Hispanic data are supressed at the state level for Delaware, Kentucky, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

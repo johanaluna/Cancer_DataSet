@@ -1,0 +1,1319 @@
+"Notes"	"Year"	"Year Code"	"Cancer Sites"	"Cancer Sites Code"	"Sex"	"Sex Code"	"Age Groups"	"Age Groups Code"	Count
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"< 1 year"	"1"	31
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"1-4 years"	"1-4"	91
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"5-9 years"	"5-9"	60
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"10-14 years"	"10-14"	97
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"15-19 years"	"15-19"	168
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"20-24 years"	"20-24"	268
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"25-29 years"	"25-29"	463
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"30-34 years"	"30-34"	725
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"35-39 years"	"35-39"	1331
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"40-44 years"	"40-44"	2346
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"45-49 years"	"45-49"	3593
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"50-54 years"	"50-54"	4268
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"55-59 years"	"55-59"	5280
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"60-64 years "	"60-64"	5431
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"65-69 years"	"65-69"	5446
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"70-74 years"	"70-74"	5493
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"75-79 years"	"75-79"	5851
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"80-84 years"	"80-84"	5148
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	"85+ years"	"85+"	5298
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"< 1 year"	"1"	42
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"1-4 years"	"1-4"	118
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"5-9 years"	"5-9"	81
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"10-14 years"	"10-14"	97
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"15-19 years"	"15-19"	175
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"20-24 years"	"20-24"	248
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"25-29 years"	"25-29"	350
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"30-34 years"	"30-34"	481
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"35-39 years"	"35-39"	711
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"40-44 years"	"40-44"	1262
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"45-49 years"	"45-49"	2230
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"50-54 years"	"50-54"	3839
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"55-59 years"	"55-59"	5970
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"60-64 years "	"60-64"	6985
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"65-69 years"	"65-69"	7580
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"70-74 years"	"70-74"	7379
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"75-79 years"	"75-79"	7115
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"80-84 years"	"80-84"	5132
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	"85+ years"	"85+"	3623
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"35-39 years"	"35-39"	17
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"40-44 years"	"40-44"	30
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"45-49 years"	"45-49"	41
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"50-54 years"	"50-54"	66
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"55-59 years"	"55-59"	76
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"60-64 years "	"60-64"	80
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"65-69 years"	"65-69"	63
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"70-74 years"	"70-74"	62
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"75-79 years"	"75-79"	71
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"80-84 years"	"80-84"	52
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	"85+ years"	"85+"	71
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"35-39 years"	"35-39"	24
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"40-44 years"	"40-44"	54
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"45-49 years"	"45-49"	129
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"50-54 years"	"50-54"	182
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"55-59 years"	"55-59"	225
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"60-64 years "	"60-64"	208
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"65-69 years"	"65-69"	155
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"70-74 years"	"70-74"	142
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"75-79 years"	"75-79"	125
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"80-84 years"	"80-84"	77
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	"85+ years"	"85+"	58
+	"2006"	"2006"	"Tongue"	"20020"	"Female"	"F"	"50-54 years"	"50-54"	18
+	"2006"	"2006"	"Tongue"	"20020"	"Female"	"F"	"55-59 years"	"55-59"	24
+	"2006"	"2006"	"Tongue"	"20020"	"Female"	"F"	"60-64 years "	"60-64"	24
+	"2006"	"2006"	"Tongue"	"20020"	"Female"	"F"	"75-79 years"	"75-79"	19
+	"2006"	"2006"	"Tongue"	"20020"	"Female"	"F"	"85+ years"	"85+"	19
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"45-49 years"	"45-49"	33
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"50-54 years"	"50-54"	60
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"55-59 years"	"55-59"	64
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"60-64 years "	"60-64"	62
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"65-69 years"	"65-69"	55
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"70-74 years"	"70-74"	46
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"75-79 years"	"75-79"	32
+	"2006"	"2006"	"Tongue"	"20020"	"Male"	"M"	"80-84 years"	"80-84"	18
+	"2006"	"2006"	"Salivary Gland"	"20030"	"Male"	"M"	"70-74 years"	"70-74"	20
+	"2006"	"2006"	"Salivary Gland"	"20030"	"Male"	"M"	"75-79 years"	"75-79"	18
+	"2006"	"2006"	"Salivary Gland"	"20030"	"Male"	"M"	"85+ years"	"85+"	21
+	"2006"	"2006"	"Floor of Mouth"	"20040"	"Male"	"M"	"55-59 years"	"55-59"	18
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"60-64 years "	"60-64"	22
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"70-74 years"	"70-74"	16
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"75-79 years"	"75-79"	17
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"80-84 years"	"80-84"	17
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Female"	"F"	"85+ years"	"85+"	26
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"50-54 years"	"50-54"	25
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"55-59 years"	"55-59"	22
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"60-64 years "	"60-64"	29
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"65-69 years"	"65-69"	20
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"70-74 years"	"70-74"	19
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	"Male"	"M"	"75-79 years"	"75-79"	27
+	"2006"	"2006"	"Nasopharynx"	"20060"	"Male"	"M"	"60-64 years "	"60-64"	16
+	"2006"	"2006"	"Tonsil"	"20070"	"Male"	"M"	"45-49 years"	"45-49"	35
+	"2006"	"2006"	"Tonsil"	"20070"	"Male"	"M"	"50-54 years"	"50-54"	42
+	"2006"	"2006"	"Tonsil"	"20070"	"Male"	"M"	"55-59 years"	"55-59"	66
+	"2006"	"2006"	"Tonsil"	"20070"	"Male"	"M"	"60-64 years "	"60-64"	38
+	"2006"	"2006"	"Tonsil"	"20070"	"Male"	"M"	"65-69 years"	"65-69"	20
+	"2006"	"2006"	"Hypopharynx"	"20090"	"Male"	"M"	"60-64 years "	"60-64"	17
+	"2006"	"2006"	"Hypopharynx"	"20090"	"Male"	"M"	"75-79 years"	"75-79"	17
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"20-24 years"	"20-24"	16
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"25-29 years"	"25-29"	27
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"30-34 years"	"30-34"	57
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"35-39 years"	"35-39"	95
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"40-44 years"	"40-44"	226
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"45-49 years"	"45-49"	382
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"50-54 years"	"50-54"	555
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"55-59 years"	"55-59"	765
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"60-64 years "	"60-64"	818
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"65-69 years"	"65-69"	876
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"70-74 years"	"70-74"	1092
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"75-79 years"	"75-79"	1341
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"80-84 years"	"80-84"	1326
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Female"	"F"	"85+ years"	"85+"	1575
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"25-29 years"	"25-29"	27
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"30-34 years"	"30-34"	64
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"35-39 years"	"35-39"	117
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"40-44 years"	"40-44"	258
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"45-49 years"	"45-49"	450
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"50-54 years"	"50-54"	838
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"55-59 years"	"55-59"	1156
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"60-64 years "	"60-64"	1162
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"65-69 years"	"65-69"	1270
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"70-74 years"	"70-74"	1305
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"75-79 years"	"75-79"	1378
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"80-84 years"	"80-84"	1099
+	"2006"	"2006"	"Digestive System"	"21010-21130"	"Male"	"M"	"85+ years"	"85+"	891
+	"2006"	"2006"	"Esophagus"	"21010"	"Female"	"F"	"55-59 years"	"55-59"	23
+	"2006"	"2006"	"Esophagus"	"21010"	"Female"	"F"	"60-64 years "	"60-64"	27
+	"2006"	"2006"	"Esophagus"	"21010"	"Female"	"F"	"65-69 years"	"65-69"	39
+	"2006"	"2006"	"Esophagus"	"21010"	"Female"	"F"	"70-74 years"	"70-74"	31
+	"2006"	"2006"	"Esophagus"	"21010"	"Female"	"F"	"75-79 years"	"75-79"	51
+	"2006"	"2006"	"Esophagus"	"21010"	"Female"	"F"	"80-84 years"	"80-84"	35
+	"2006"	"2006"	"Esophagus"	"21010"	"Female"	"F"	"85+ years"	"85+"	32
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"40-44 years"	"40-44"	18
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"45-49 years"	"45-49"	39
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"50-54 years"	"50-54"	46
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"55-59 years"	"55-59"	100
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"60-64 years "	"60-64"	118
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"65-69 years"	"65-69"	119
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"70-74 years"	"70-74"	129
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"75-79 years"	"75-79"	98
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"80-84 years"	"80-84"	91
+	"2006"	"2006"	"Esophagus"	"21010"	"Male"	"M"	"85+ years"	"85+"	66
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"40-44 years"	"40-44"	20
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"45-49 years"	"45-49"	40
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"50-54 years"	"50-54"	34
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"55-59 years"	"55-59"	62
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"60-64 years "	"60-64"	62
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"65-69 years"	"65-69"	89
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"70-74 years"	"70-74"	75
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"75-79 years"	"75-79"	123
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"80-84 years"	"80-84"	109
+	"2006"	"2006"	"Stomach"	"21020"	"Female"	"F"	"85+ years"	"85+"	126
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"40-44 years"	"40-44"	25
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"45-49 years"	"45-49"	45
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"50-54 years"	"50-54"	83
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"55-59 years"	"55-59"	107
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"60-64 years "	"60-64"	125
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"65-69 years"	"65-69"	152
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"70-74 years"	"70-74"	166
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"75-79 years"	"75-79"	153
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"80-84 years"	"80-84"	116
+	"2006"	"2006"	"Stomach"	"21020"	"Male"	"M"	"85+ years"	"85+"	96
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"50-54 years"	"50-54"	27
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"55-59 years"	"55-59"	20
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"60-64 years "	"60-64"	23
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"65-69 years"	"65-69"	20
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"70-74 years"	"70-74"	25
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"75-79 years"	"75-79"	26
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"80-84 years"	"80-84"	21
+	"2006"	"2006"	"Small Intestine"	"21030"	"Female"	"F"	"85+ years"	"85+"	25
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"45-49 years"	"45-49"	20
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"50-54 years"	"50-54"	31
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"55-59 years"	"55-59"	45
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"60-64 years "	"60-64"	31
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"65-69 years"	"65-69"	28
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"70-74 years"	"70-74"	31
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"75-79 years"	"75-79"	24
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"80-84 years"	"80-84"	18
+	"2006"	"2006"	"Small Intestine"	"21030"	"Male"	"M"	"85+ years"	"85+"	16
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"25-29 years"	"25-29"	17
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"30-34 years"	"30-34"	28
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"35-39 years"	"35-39"	53
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"40-44 years"	"40-44"	138
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"45-49 years"	"45-49"	236
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"50-54 years"	"50-54"	321
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"55-59 years"	"55-59"	424
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"60-64 years "	"60-64"	423
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"65-69 years"	"65-69"	459
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"70-74 years"	"70-74"	625
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"75-79 years"	"75-79"	716
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"80-84 years"	"80-84"	781
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	"85+ years"	"85+"	935
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"25-29 years"	"25-29"	16
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"30-34 years"	"30-34"	38
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"35-39 years"	"35-39"	62
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"40-44 years"	"40-44"	128
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"45-49 years"	"45-49"	219
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"50-54 years"	"50-54"	385
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"55-59 years"	"55-59"	482
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"60-64 years "	"60-64"	523
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"65-69 years"	"65-69"	595
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"70-74 years"	"70-74"	623
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"75-79 years"	"75-79"	737
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"80-84 years"	"80-84"	585
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	"85+ years"	"85+"	493
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"30-34 years"	"30-34"	21
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"35-39 years"	"35-39"	29
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"40-44 years"	"40-44"	82
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"45-49 years"	"45-49"	155
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"50-54 years"	"50-54"	209
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"55-59 years"	"55-59"	273
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"60-64 years "	"60-64"	300
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"65-69 years"	"65-69"	336
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"70-74 years"	"70-74"	484
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"75-79 years"	"75-79"	569
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"80-84 years"	"80-84"	631
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	"85+ years"	"85+"	771
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"30-34 years"	"30-34"	24
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"35-39 years"	"35-39"	33
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"40-44 years"	"40-44"	88
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"45-49 years"	"45-49"	135
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"50-54 years"	"50-54"	224
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"55-59 years"	"55-59"	302
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"60-64 years "	"60-64"	349
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"65-69 years"	"65-69"	417
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"70-74 years"	"70-74"	445
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"75-79 years"	"75-79"	532
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"80-84 years"	"80-84"	467
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	"85+ years"	"85+"	401
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"45-49 years"	"45-49"	23
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"50-54 years"	"50-54"	42
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"55-59 years"	"55-59"	51
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"60-64 years "	"60-64"	56
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"65-69 years"	"65-69"	79
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"70-74 years"	"70-74"	131
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"75-79 years"	"75-79"	153
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"80-84 years"	"80-84"	169
+	"2006"	"2006"	"Cecum"	"21041"	"Female"	"F"	"85+ years"	"85+"	174
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"40-44 years"	"40-44"	17
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"45-49 years"	"45-49"	27
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"50-54 years"	"50-54"	40
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"55-59 years"	"55-59"	57
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"60-64 years "	"60-64"	59
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"65-69 years"	"65-69"	68
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"70-74 years"	"70-74"	80
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"75-79 years"	"75-79"	105
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"80-84 years"	"80-84"	117
+	"2006"	"2006"	"Cecum"	"21041"	"Male"	"M"	"85+ years"	"85+"	98
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"50-54 years"	"50-54"	27
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"55-59 years"	"55-59"	47
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"60-64 years "	"60-64"	44
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"65-69 years"	"65-69"	64
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"70-74 years"	"70-74"	108
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"75-79 years"	"75-79"	129
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"80-84 years"	"80-84"	134
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Female"	"F"	"85+ years"	"85+"	176
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"45-49 years"	"45-49"	22
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"50-54 years"	"50-54"	31
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"55-59 years"	"55-59"	47
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"60-64 years "	"60-64"	56
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"65-69 years"	"65-69"	75
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"70-74 years"	"70-74"	90
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"75-79 years"	"75-79"	103
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"80-84 years"	"80-84"	96
+	"2006"	"2006"	"Ascending Colon"	"21043"	"Male"	"M"	"85+ years"	"85+"	85
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Female"	"F"	"60-64 years "	"60-64"	17
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Female"	"F"	"70-74 years"	"70-74"	30
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Female"	"F"	"75-79 years"	"75-79"	29
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Female"	"F"	"80-84 years"	"80-84"	32
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Female"	"F"	"85+ years"	"85+"	46
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Male"	"M"	"65-69 years"	"65-69"	21
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Male"	"M"	"70-74 years"	"70-74"	25
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Male"	"M"	"75-79 years"	"75-79"	24
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Male"	"M"	"80-84 years"	"80-84"	20
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	"Male"	"M"	"85+ years"	"85+"	20
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Female"	"F"	"55-59 years"	"55-59"	18
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Female"	"F"	"60-64 years "	"60-64"	35
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Female"	"F"	"65-69 years"	"65-69"	48
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Female"	"F"	"70-74 years"	"70-74"	47
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Female"	"F"	"75-79 years"	"75-79"	53
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Female"	"F"	"80-84 years"	"80-84"	61
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Female"	"F"	"85+ years"	"85+"	89
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"50-54 years"	"50-54"	18
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"55-59 years"	"55-59"	22
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"60-64 years "	"60-64"	27
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"65-69 years"	"65-69"	39
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"70-74 years"	"70-74"	36
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"75-79 years"	"75-79"	39
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"80-84 years"	"80-84"	47
+	"2006"	"2006"	"Transverse Colon"	"21045"	"Male"	"M"	"85+ years"	"85+"	28
+	"2006"	"2006"	"Splenic Flexure"	"21046"	"Female"	"F"	"75-79 years"	"75-79"	22
+	"2006"	"2006"	"Splenic Flexure"	"21046"	"Female"	"F"	"85+ years"	"85+"	23
+	"2006"	"2006"	"Descending Colon"	"21047"	"Female"	"F"	"55-59 years"	"55-59"	24
+	"2006"	"2006"	"Descending Colon"	"21047"	"Female"	"F"	"60-64 years "	"60-64"	19
+	"2006"	"2006"	"Descending Colon"	"21047"	"Female"	"F"	"70-74 years"	"70-74"	26
+	"2006"	"2006"	"Descending Colon"	"21047"	"Female"	"F"	"75-79 years"	"75-79"	29
+	"2006"	"2006"	"Descending Colon"	"21047"	"Female"	"F"	"80-84 years"	"80-84"	25
+	"2006"	"2006"	"Descending Colon"	"21047"	"Female"	"F"	"85+ years"	"85+"	34
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"50-54 years"	"50-54"	16
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"55-59 years"	"55-59"	18
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"60-64 years "	"60-64"	24
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"65-69 years"	"65-69"	37
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"70-74 years"	"70-74"	31
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"75-79 years"	"75-79"	35
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"80-84 years"	"80-84"	30
+	"2006"	"2006"	"Descending Colon"	"21047"	"Male"	"M"	"85+ years"	"85+"	24
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"40-44 years"	"40-44"	31
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"45-49 years"	"45-49"	62
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"50-54 years"	"50-54"	79
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"55-59 years"	"55-59"	88
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"60-64 years "	"60-64"	92
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"65-69 years"	"65-69"	75
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"70-74 years"	"70-74"	94
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"75-79 years"	"75-79"	109
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"80-84 years"	"80-84"	131
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Female"	"F"	"85+ years"	"85+"	115
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"40-44 years"	"40-44"	25
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"45-49 years"	"45-49"	43
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"50-54 years"	"50-54"	89
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"55-59 years"	"55-59"	113
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"60-64 years "	"60-64"	123
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"65-69 years"	"65-69"	138
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"70-74 years"	"70-74"	135
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"75-79 years"	"75-79"	170
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"80-84 years"	"80-84"	100
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	"Male"	"M"	"85+ years"	"85+"	82
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"60-64 years "	"60-64"	17
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"65-69 years"	"65-69"	23
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"70-74 years"	"70-74"	23
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"75-79 years"	"75-79"	37
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"80-84 years"	"80-84"	60
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Female"	"F"	"85+ years"	"85+"	108
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"45-49 years"	"45-49"	16
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"55-59 years"	"55-59"	21
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"60-64 years "	"60-64"	17
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"65-69 years"	"65-69"	23
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"70-74 years"	"70-74"	32
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"75-79 years"	"75-79"	38
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"80-84 years"	"80-84"	41
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	"Male"	"M"	"85+ years"	"85+"	49
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"35-39 years"	"35-39"	24
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"40-44 years"	"40-44"	56
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"45-49 years"	"45-49"	81
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"50-54 years"	"50-54"	112
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"55-59 years"	"55-59"	151
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"60-64 years "	"60-64"	123
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"65-69 years"	"65-69"	123
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"70-74 years"	"70-74"	141
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"75-79 years"	"75-79"	147
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"80-84 years"	"80-84"	150
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	"85+ years"	"85+"	164
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"35-39 years"	"35-39"	29
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"40-44 years"	"40-44"	40
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"45-49 years"	"45-49"	84
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"50-54 years"	"50-54"	161
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"55-59 years"	"55-59"	180
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"60-64 years "	"60-64"	174
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"65-69 years"	"65-69"	178
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"70-74 years"	"70-74"	178
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"75-79 years"	"75-79"	205
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"80-84 years"	"80-84"	118
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	"85+ years"	"85+"	92
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"40-44 years"	"40-44"	21
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"45-49 years"	"45-49"	26
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"50-54 years"	"50-54"	20
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"55-59 years"	"55-59"	35
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"60-64 years "	"60-64"	32
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"65-69 years"	"65-69"	42
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"70-74 years"	"70-74"	45
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"75-79 years"	"75-79"	56
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"80-84 years"	"80-84"	50
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	"85+ years"	"85+"	42
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"45-49 years"	"45-49"	24
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"50-54 years"	"50-54"	41
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"55-59 years"	"55-59"	38
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"60-64 years "	"60-64"	56
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"65-69 years"	"65-69"	51
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"70-74 years"	"70-74"	52
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"75-79 years"	"75-79"	65
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"80-84 years"	"80-84"	37
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	"85+ years"	"85+"	30
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"35-39 years"	"35-39"	21
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"40-44 years"	"40-44"	35
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"45-49 years"	"45-49"	55
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"50-54 years"	"50-54"	92
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"55-59 years"	"55-59"	116
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"60-64 years "	"60-64"	91
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"65-69 years"	"65-69"	81
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"70-74 years"	"70-74"	96
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"75-79 years"	"75-79"	91
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"80-84 years"	"80-84"	100
+	"2006"	"2006"	"Rectum"	"21052"	"Female"	"F"	"85+ years"	"85+"	122
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"35-39 years"	"35-39"	21
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"40-44 years"	"40-44"	32
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"45-49 years"	"45-49"	60
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"50-54 years"	"50-54"	120
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"55-59 years"	"55-59"	142
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"60-64 years "	"60-64"	118
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"65-69 years"	"65-69"	127
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"70-74 years"	"70-74"	126
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"75-79 years"	"75-79"	140
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"80-84 years"	"80-84"	81
+	"2006"	"2006"	"Rectum"	"21052"	"Male"	"M"	"85+ years"	"85+"	62
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"45-49 years"	"45-49"	17
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"50-54 years"	"50-54"	28
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"55-59 years"	"55-59"	19
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"60-64 years "	"60-64"	29
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"65-69 years"	"65-69"	23
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"70-74 years"	"70-74"	20
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"75-79 years"	"75-79"	25
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	"80-84 years"	"80-84"	19
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"40-44 years"	"40-44"	16
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"45-49 years"	"45-49"	18
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"50-54 years"	"50-54"	22
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"55-59 years"	"55-59"	20
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	"60-64 years "	"60-64"	17
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"45-49 years"	"45-49"	17
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"50-54 years"	"50-54"	39
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"55-59 years"	"55-59"	52
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"60-64 years "	"60-64"	55
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"65-69 years"	"65-69"	41
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"70-74 years"	"70-74"	53
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"75-79 years"	"75-79"	59
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"80-84 years"	"80-84"	53
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	"85+ years"	"85+"	50
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"40-44 years"	"40-44"	33
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"45-49 years"	"45-49"	58
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"50-54 years"	"50-54"	149
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"55-59 years"	"55-59"	214
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"60-64 years "	"60-64"	153
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"65-69 years"	"65-69"	151
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"70-74 years"	"70-74"	123
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"75-79 years"	"75-79"	108
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"80-84 years"	"80-84"	69
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	"85+ years"	"85+"	43
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"50-54 years"	"50-54"	36
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"55-59 years"	"55-59"	46
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"60-64 years "	"60-64"	45
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"65-69 years"	"65-69"	38
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"70-74 years"	"70-74"	50
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"75-79 years"	"75-79"	48
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"80-84 years"	"80-84"	45
+	"2006"	"2006"	"Liver"	"21071"	"Female"	"F"	"85+ years"	"85+"	41
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"40-44 years"	"40-44"	33
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"45-49 years"	"45-49"	55
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"50-54 years"	"50-54"	145
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"55-59 years"	"55-59"	204
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"60-64 years "	"60-64"	145
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"65-69 years"	"65-69"	145
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"70-74 years"	"70-74"	117
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"75-79 years"	"75-79"	101
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"80-84 years"	"80-84"	63
+	"2006"	"2006"	"Liver"	"21071"	"Male"	"M"	"85+ years"	"85+"	37
+	"2006"	"2006"	"Gallbladder"	"21080"	"Female"	"F"	"60-64 years "	"60-64"	21
+	"2006"	"2006"	"Gallbladder"	"21080"	"Female"	"F"	"65-69 years"	"65-69"	20
+	"2006"	"2006"	"Gallbladder"	"21080"	"Female"	"F"	"70-74 years"	"70-74"	30
+	"2006"	"2006"	"Gallbladder"	"21080"	"Female"	"F"	"75-79 years"	"75-79"	45
+	"2006"	"2006"	"Gallbladder"	"21080"	"Female"	"F"	"80-84 years"	"80-84"	37
+	"2006"	"2006"	"Gallbladder"	"21080"	"Female"	"F"	"85+ years"	"85+"	45
+	"2006"	"2006"	"Gallbladder"	"21080"	"Male"	"M"	"70-74 years"	"70-74"	16
+	"2006"	"2006"	"Gallbladder"	"21080"	"Male"	"M"	"75-79 years"	"75-79"	18
+	"2006"	"2006"	"Other Biliary"	"21090"	"Female"	"F"	"65-69 years"	"65-69"	16
+	"2006"	"2006"	"Other Biliary"	"21090"	"Female"	"F"	"70-74 years"	"70-74"	26
+	"2006"	"2006"	"Other Biliary"	"21090"	"Female"	"F"	"75-79 years"	"75-79"	30
+	"2006"	"2006"	"Other Biliary"	"21090"	"Female"	"F"	"80-84 years"	"80-84"	34
+	"2006"	"2006"	"Other Biliary"	"21090"	"Female"	"F"	"85+ years"	"85+"	39
+	"2006"	"2006"	"Other Biliary"	"21090"	"Male"	"M"	"55-59 years"	"55-59"	18
+	"2006"	"2006"	"Other Biliary"	"21090"	"Male"	"M"	"60-64 years "	"60-64"	16
+	"2006"	"2006"	"Other Biliary"	"21090"	"Male"	"M"	"65-69 years"	"65-69"	27
+	"2006"	"2006"	"Other Biliary"	"21090"	"Male"	"M"	"70-74 years"	"70-74"	19
+	"2006"	"2006"	"Other Biliary"	"21090"	"Male"	"M"	"75-79 years"	"75-79"	37
+	"2006"	"2006"	"Other Biliary"	"21090"	"Male"	"M"	"80-84 years"	"80-84"	31
+	"2006"	"2006"	"Other Biliary"	"21090"	"Male"	"M"	"85+ years"	"85+"	24
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"40-44 years"	"40-44"	21
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"45-49 years"	"45-49"	41
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"50-54 years"	"50-54"	68
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"55-59 years"	"55-59"	109
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"60-64 years "	"60-64"	139
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"65-69 years"	"65-69"	147
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"70-74 years"	"70-74"	171
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"75-79 years"	"75-79"	233
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"80-84 years"	"80-84"	212
+	"2006"	"2006"	"Pancreas"	"21100"	"Female"	"F"	"85+ years"	"85+"	296
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"40-44 years"	"40-44"	18
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"45-49 years"	"45-49"	40
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"50-54 years"	"50-54"	96
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"55-59 years"	"55-59"	146
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"60-64 years "	"60-64"	160
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"65-69 years"	"65-69"	160
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"70-74 years"	"70-74"	179
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"75-79 years"	"75-79"	185
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"80-84 years"	"80-84"	148
+	"2006"	"2006"	"Pancreas"	"21100"	"Male"	"M"	"85+ years"	"85+"	131
+	"2006"	"2006"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	"55-59 years"	"55-59"	17
+	"2006"	"2006"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	"60-64 years "	"60-64"	16
+	"2006"	"2006"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	"70-74 years"	"70-74"	19
+	"2006"	"2006"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	"75-79 years"	"75-79"	20
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"35-39 years"	"35-39"	34
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"40-44 years"	"40-44"	112
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"45-49 years"	"45-49"	244
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"50-54 years"	"50-54"	411
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"55-59 years"	"55-59"	598
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"60-64 years "	"60-64"	834
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"65-69 years"	"65-69"	1050
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"70-74 years"	"70-74"	1049
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"75-79 years"	"75-79"	1085
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"80-84 years"	"80-84"	792
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Female"	"F"	"85+ years"	"85+"	667
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"35-39 years"	"35-39"	25
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"40-44 years"	"40-44"	106
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"45-49 years"	"45-49"	269
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"50-54 years"	"50-54"	466
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"55-59 years"	"55-59"	712
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"60-64 years "	"60-64"	1006
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"65-69 years"	"65-69"	1102
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"70-74 years"	"70-74"	1170
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"75-79 years"	"75-79"	1206
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"80-84 years"	"80-84"	855
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	"Male"	"M"	"85+ years"	"85+"	505
+	"2006"	"2006"	"Larynx"	"22020"	"Female"	"F"	"50-54 years"	"50-54"	18
+	"2006"	"2006"	"Larynx"	"22020"	"Female"	"F"	"55-59 years"	"55-59"	22
+	"2006"	"2006"	"Larynx"	"22020"	"Female"	"F"	"60-64 years "	"60-64"	38
+	"2006"	"2006"	"Larynx"	"22020"	"Female"	"F"	"65-69 years"	"65-69"	24
+	"2006"	"2006"	"Larynx"	"22020"	"Female"	"F"	"70-74 years"	"70-74"	24
+	"2006"	"2006"	"Larynx"	"22020"	"Female"	"F"	"75-79 years"	"75-79"	17
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"40-44 years"	"40-44"	18
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"45-49 years"	"45-49"	37
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"50-54 years"	"50-54"	72
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"55-59 years"	"55-59"	76
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"60-64 years "	"60-64"	99
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"65-69 years"	"65-69"	96
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"70-74 years"	"70-74"	90
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"75-79 years"	"75-79"	65
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"80-84 years"	"80-84"	49
+	"2006"	"2006"	"Larynx"	"22020"	"Male"	"M"	"85+ years"	"85+"	29
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"35-39 years"	"35-39"	32
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"40-44 years"	"40-44"	97
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"45-49 years"	"45-49"	233
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"50-54 years"	"50-54"	390
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"55-59 years"	"55-59"	570
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"60-64 years "	"60-64"	787
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"65-69 years"	"65-69"	1017
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"70-74 years"	"70-74"	1012
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"75-79 years"	"75-79"	1060
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"80-84 years"	"80-84"	772
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Female"	"F"	"85+ years"	"85+"	643
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"35-39 years"	"35-39"	22
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"40-44 years"	"40-44"	82
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"45-49 years"	"45-49"	219
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"50-54 years"	"50-54"	388
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"55-59 years"	"55-59"	623
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"60-64 years "	"60-64"	897
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"65-69 years"	"65-69"	992
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"70-74 years"	"70-74"	1074
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"75-79 years"	"75-79"	1132
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"80-84 years"	"80-84"	797
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	"Male"	"M"	"85+ years"	"85+"	475
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"35-39 years"	"35-39"	21
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"40-44 years"	"40-44"	16
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"45-49 years"	"45-49"	22
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"50-54 years"	"50-54"	23
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"55-59 years"	"55-59"	28
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"60-64 years "	"60-64"	19
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"65-69 years"	"65-69"	28
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"75-79 years"	"75-79"	23
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"80-84 years"	"80-84"	19
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	"85+ years"	"85+"	25
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"40-44 years"	"40-44"	31
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"45-49 years"	"45-49"	29
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"50-54 years"	"50-54"	29
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"55-59 years"	"55-59"	22
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"60-64 years "	"60-64"	29
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"65-69 years"	"65-69"	33
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"70-74 years"	"70-74"	26
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"75-79 years"	"75-79"	27
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"80-84 years"	"80-84"	31
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	"85+ years"	"85+"	25
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"20-24 years"	"20-24"	30
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"25-29 years"	"25-29"	51
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"30-34 years"	"30-34"	80
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"35-39 years"	"35-39"	101
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"40-44 years"	"40-44"	135
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"45-49 years"	"45-49"	176
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"50-54 years"	"50-54"	158
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"55-59 years"	"55-59"	139
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"60-64 years "	"60-64"	151
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"65-69 years"	"65-69"	120
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"70-74 years"	"70-74"	112
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"75-79 years"	"75-79"	160
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"80-84 years"	"80-84"	126
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	"85+ years"	"85+"	154
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"20-24 years"	"20-24"	18
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"25-29 years"	"25-29"	41
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"30-34 years"	"30-34"	56
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"35-39 years"	"35-39"	74
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"40-44 years"	"40-44"	108
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"45-49 years"	"45-49"	121
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"50-54 years"	"50-54"	203
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"55-59 years"	"55-59"	231
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"60-64 years "	"60-64"	237
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"65-69 years"	"65-69"	261
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"70-74 years"	"70-74"	229
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"75-79 years"	"75-79"	271
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"80-84 years"	"80-84"	193
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	"85+ years"	"85+"	140
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"20-24 years"	"20-24"	29
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"25-29 years"	"25-29"	50
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"30-34 years"	"30-34"	74
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"35-39 years"	"35-39"	93
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"40-44 years"	"40-44"	127
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"45-49 years"	"45-49"	165
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"50-54 years"	"50-54"	149
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"55-59 years"	"55-59"	134
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"60-64 years "	"60-64"	140
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"65-69 years"	"65-69"	105
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"70-74 years"	"70-74"	105
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"75-79 years"	"75-79"	139
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"80-84 years"	"80-84"	112
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Female"	"F"	"85+ years"	"85+"	130
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"20-24 years"	"20-24"	17
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"25-29 years"	"25-29"	39
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"30-34 years"	"30-34"	52
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"35-39 years"	"35-39"	69
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"40-44 years"	"40-44"	102
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"45-49 years"	"45-49"	116
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"50-54 years"	"50-54"	196
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"55-59 years"	"55-59"	216
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"60-64 years "	"60-64"	220
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"65-69 years"	"65-69"	245
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"70-74 years"	"70-74"	209
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"75-79 years"	"75-79"	242
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"80-84 years"	"80-84"	175
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	"Male"	"M"	"85+ years"	"85+"	124
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	"75-79 years"	"75-79"	21
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	"85+ years"	"85+"	24
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"60-64 years "	"60-64"	17
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"65-69 years"	"65-69"	16
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"70-74 years"	"70-74"	20
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"75-79 years"	"75-79"	29
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"80-84 years"	"80-84"	18
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	"85+ years"	"85+"	16
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"25-29 years"	"25-29"	79
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"30-34 years"	"30-34"	187
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"35-39 years"	"35-39"	478
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"40-44 years"	"40-44"	1005
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"45-49 years"	"45-49"	1564
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"50-54 years"	"50-54"	1582
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"55-59 years"	"55-59"	1755
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"60-64 years "	"60-64"	1658
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"65-69 years"	"65-69"	1494
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"70-74 years"	"70-74"	1357
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"75-79 years"	"75-79"	1237
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"80-84 years"	"80-84"	1012
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Female"	"F"	"85+ years"	"85+"	850
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Male"	"M"	"65-69 years"	"65-69"	20
+	"2006"	"2006"	"Male and Female Breast"	"26000"	"Male"	"M"	"70-74 years"	"70-74"	19
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"25-29 years"	"25-29"	79
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"30-34 years"	"30-34"	187
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"35-39 years"	"35-39"	478
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"40-44 years"	"40-44"	1005
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"45-49 years"	"45-49"	1564
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"50-54 years"	"50-54"	1582
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"55-59 years"	"55-59"	1755
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"60-64 years "	"60-64"	1658
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"65-69 years"	"65-69"	1494
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"70-74 years"	"70-74"	1357
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"75-79 years"	"75-79"	1237
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"80-84 years"	"80-84"	1012
+	"2006"	"2006"	"Female Breast"	"26000-Female"	"Female"	"F"	"85+ years"	"85+"	850
+	"2006"	"2006"	"Male Breast"	"26000-Male"	"Male"	"M"	"65-69 years"	"65-69"	20
+	"2006"	"2006"	"Male Breast"	"26000-Male"	"Male"	"M"	"70-74 years"	"70-74"	19
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"15-19 years"	"15-19"	17
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"20-24 years"	"20-24"	31
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"25-29 years"	"25-29"	52
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"30-34 years"	"30-34"	98
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"35-39 years"	"35-39"	191
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"40-44 years"	"40-44"	315
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"45-49 years"	"45-49"	460
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"50-54 years"	"50-54"	633
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"55-59 years"	"55-59"	915
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"60-64 years "	"60-64"	818
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"65-69 years"	"65-69"	722
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"70-74 years"	"70-74"	583
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"75-79 years"	"75-79"	539
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"80-84 years"	"80-84"	456
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	"Female"	"F"	"85+ years"	"85+"	391
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"25-29 years"	"25-29"	28
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"30-34 years"	"30-34"	60
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"35-39 years"	"35-39"	92
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"40-44 years"	"40-44"	112
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"45-49 years"	"45-49"	101
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"50-54 years"	"50-54"	92
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"55-59 years"	"55-59"	108
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"60-64 years "	"60-64"	83
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"65-69 years"	"65-69"	61
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"70-74 years"	"70-74"	42
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"75-79 years"	"75-79"	49
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"80-84 years"	"80-84"	36
+	"2006"	"2006"	"Cervix Uteri"	"27010"	"Female"	"F"	"85+ years"	"85+"	26
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"35-39 years"	"35-39"	49
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"40-44 years"	"40-44"	106
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"45-49 years"	"45-49"	192
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"50-54 years"	"50-54"	339
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"55-59 years"	"55-59"	555
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"60-64 years "	"60-64"	511
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"65-69 years"	"65-69"	436
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"70-74 years"	"70-74"	351
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"75-79 years"	"75-79"	274
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"80-84 years"	"80-84"	207
+	"2006"	"2006"	"Corpus Uteri"	"27020"	"Female"	"F"	"85+ years"	"85+"	162
+	"2006"	"2006"	"Uterus, NOS"	"27030"	"Female"	"F"	"85+ years"	"85+"	21
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"25-29 years"	"25-29"	16
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"30-34 years"	"30-34"	16
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"35-39 years"	"35-39"	38
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"40-44 years"	"40-44"	72
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"45-49 years"	"45-49"	136
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"50-54 years"	"50-54"	158
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"55-59 years"	"55-59"	188
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"60-64 years "	"60-64"	171
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"65-69 years"	"65-69"	164
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"70-74 years"	"70-74"	141
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"75-79 years"	"75-79"	144
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"80-84 years"	"80-84"	139
+	"2006"	"2006"	"Ovary"	"27040"	"Female"	"F"	"85+ years"	"85+"	123
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"45-49 years"	"45-49"	16
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"50-54 years"	"50-54"	16
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"55-59 years"	"55-59"	32
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"60-64 years "	"60-64"	19
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"65-69 years"	"65-69"	27
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"70-74 years"	"70-74"	24
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"75-79 years"	"75-79"	42
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"80-84 years"	"80-84"	45
+	"2006"	"2006"	"Vulva"	"27060"	"Female"	"F"	"85+ years"	"85+"	43
+	"2006"	"2006"	"Other Female Genital Organs"	"27070"	"Female"	"F"	"60-64 years "	"60-64"	16
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"15-19 years"	"15-19"	17
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"20-24 years"	"20-24"	61
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"25-29 years"	"25-29"	81
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"30-34 years"	"30-34"	101
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"35-39 years"	"35-39"	87
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"40-44 years"	"40-44"	170
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"45-49 years"	"45-49"	413
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"50-54 years"	"50-54"	1060
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"55-59 years"	"55-59"	2201
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"60-64 years "	"60-64"	2761
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"65-69 years"	"65-69"	3014
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"70-74 years"	"70-74"	2743
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"75-79 years"	"75-79"	2113
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"80-84 years"	"80-84"	1171
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	"Male"	"M"	"85+ years"	"85+"	719
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"40-44 years"	"40-44"	114
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"45-49 years"	"45-49"	343
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"50-54 years"	"50-54"	1019
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"55-59 years"	"55-59"	2172
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"60-64 years "	"60-64"	2746
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"65-69 years"	"65-69"	3001
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"70-74 years"	"70-74"	2724
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"75-79 years"	"75-79"	2103
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"80-84 years"	"80-84"	1160
+	"2006"	"2006"	"Prostate"	"28010"	"Male"	"M"	"85+ years"	"85+"	710
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"15-19 years"	"15-19"	17
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"20-24 years"	"20-24"	61
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"25-29 years"	"25-29"	79
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"30-34 years"	"30-34"	97
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"35-39 years"	"35-39"	81
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"40-44 years"	"40-44"	49
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"45-49 years"	"45-49"	60
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"50-54 years"	"50-54"	31
+	"2006"	"2006"	"Testis"	"28020"	"Male"	"M"	"55-59 years"	"55-59"	18
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"35-39 years"	"35-39"	25
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"40-44 years"	"40-44"	64
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"45-49 years"	"45-49"	111
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"50-54 years"	"50-54"	159
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"55-59 years"	"55-59"	247
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"60-64 years "	"60-64"	267
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"65-69 years"	"65-69"	294
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"70-74 years"	"70-74"	363
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"75-79 years"	"75-79"	369
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"80-84 years"	"80-84"	317
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Female"	"F"	"85+ years"	"85+"	340
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"30-34 years"	"30-34"	22
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"35-39 years"	"35-39"	67
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"40-44 years"	"40-44"	126
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"45-49 years"	"45-49"	251
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"50-54 years"	"50-54"	396
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"55-59 years"	"55-59"	562
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"60-64 years "	"60-64"	692
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"65-69 years"	"65-69"	753
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"70-74 years"	"70-74"	773
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"75-79 years"	"75-79"	895
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"80-84 years"	"80-84"	747
+	"2006"	"2006"	"Urinary System"	"29010-29040"	"Male"	"M"	"85+ years"	"85+"	583
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"40-44 years"	"40-44"	20
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"45-49 years"	"45-49"	39
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"50-54 years"	"50-54"	57
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"55-59 years"	"55-59"	105
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"60-64 years "	"60-64"	137
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"65-69 years"	"65-69"	147
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"70-74 years"	"70-74"	172
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"75-79 years"	"75-79"	208
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"80-84 years"	"80-84"	186
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	"85+ years"	"85+"	214
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"35-39 years"	"35-39"	29
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"40-44 years"	"40-44"	40
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"45-49 years"	"45-49"	100
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"50-54 years"	"50-54"	173
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"55-59 years"	"55-59"	307
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"60-64 years "	"60-64"	400
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"65-69 years"	"65-69"	450
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"70-74 years"	"70-74"	493
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"75-79 years"	"75-79"	649
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"80-84 years"	"80-84"	551
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	"85+ years"	"85+"	463
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"35-39 years"	"35-39"	18
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"40-44 years"	"40-44"	44
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"45-49 years"	"45-49"	70
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"50-54 years"	"50-54"	100
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"55-59 years"	"55-59"	136
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"60-64 years "	"60-64"	122
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"65-69 years"	"65-69"	141
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"70-74 years"	"70-74"	178
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"75-79 years"	"75-79"	147
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"80-84 years"	"80-84"	119
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	"85+ years"	"85+"	114
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"30-34 years"	"30-34"	17
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"35-39 years"	"35-39"	37
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"40-44 years"	"40-44"	84
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"45-49 years"	"45-49"	145
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"50-54 years"	"50-54"	219
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"55-59 years"	"55-59"	250
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"60-64 years "	"60-64"	285
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"65-69 years"	"65-69"	288
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"70-74 years"	"70-74"	256
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"75-79 years"	"75-79"	218
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"80-84 years"	"80-84"	178
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	"85+ years"	"85+"	104
+	"2006"	"2006"	"Ureter"	"29030"	"Male"	"M"	"70-74 years"	"70-74"	18
+	"2006"	"2006"	"Ureter"	"29030"	"Male"	"M"	"75-79 years"	"75-79"	18
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"5-9 years"	"5-9"	18
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"15-19 years"	"15-19"	24
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"30-34 years"	"30-34"	26
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"35-39 years"	"35-39"	22
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"40-44 years"	"40-44"	26
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"45-49 years"	"45-49"	36
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"50-54 years"	"50-54"	32
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"55-59 years"	"55-59"	50
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"60-64 years "	"60-64"	47
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"65-69 years"	"65-69"	58
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"70-74 years"	"70-74"	52
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"75-79 years"	"75-79"	54
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"80-84 years"	"80-84"	46
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	"85+ years"	"85+"	48
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"1-4 years"	"1-4"	20
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"5-9 years"	"5-9"	29
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"10-14 years"	"10-14"	24
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"15-19 years"	"15-19"	30
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"25-29 years"	"25-29"	18
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"30-34 years"	"30-34"	25
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"35-39 years"	"35-39"	34
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"40-44 years"	"40-44"	31
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"45-49 years"	"45-49"	62
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"50-54 years"	"50-54"	45
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"55-59 years"	"55-59"	94
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"60-64 years "	"60-64"	68
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"65-69 years"	"65-69"	69
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"70-74 years"	"70-74"	66
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"75-79 years"	"75-79"	61
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"80-84 years"	"80-84"	41
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	"85+ years"	"85+"	22
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"5-9 years"	"5-9"	18
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"15-19 years"	"15-19"	24
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"30-34 years"	"30-34"	24
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"35-39 years"	"35-39"	19
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"40-44 years"	"40-44"	22
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"45-49 years"	"45-49"	31
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"50-54 years"	"50-54"	28
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"55-59 years"	"55-59"	50
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"60-64 years "	"60-64"	44
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"65-69 years"	"65-69"	58
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"70-74 years"	"70-74"	44
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"75-79 years"	"75-79"	50
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"80-84 years"	"80-84"	44
+	"2006"	"2006"	"Brain"	"31010"	"Female"	"F"	"85+ years"	"85+"	42
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"1-4 years"	"1-4"	16
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"5-9 years"	"5-9"	27
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"10-14 years"	"10-14"	23
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"15-19 years"	"15-19"	26
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"25-29 years"	"25-29"	16
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"30-34 years"	"30-34"	23
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"35-39 years"	"35-39"	29
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"40-44 years"	"40-44"	28
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"45-49 years"	"45-49"	59
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"50-54 years"	"50-54"	44
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"55-59 years"	"55-59"	85
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"60-64 years "	"60-64"	65
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"65-69 years"	"65-69"	66
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"70-74 years"	"70-74"	63
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"75-79 years"	"75-79"	59
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"80-84 years"	"80-84"	38
+	"2006"	"2006"	"Brain"	"31010"	"Male"	"M"	"85+ years"	"85+"	22
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"15-19 years"	"15-19"	28
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"20-24 years"	"20-24"	67
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"25-29 years"	"25-29"	104
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"30-34 years"	"30-34"	160
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"35-39 years"	"35-39"	210
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"40-44 years"	"40-44"	230
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"45-49 years"	"45-49"	271
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"50-54 years"	"50-54"	249
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"55-59 years"	"55-59"	213
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"60-64 years "	"60-64"	170
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"65-69 years"	"65-69"	133
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"70-74 years"	"70-74"	100
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"75-79 years"	"75-79"	84
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"80-84 years"	"80-84"	49
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Female"	"F"	"85+ years"	"85+"	40
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"25-29 years"	"25-29"	27
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"30-34 years"	"30-34"	44
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"35-39 years"	"35-39"	50
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"40-44 years"	"40-44"	69
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"45-49 years"	"45-49"	64
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"50-54 years"	"50-54"	96
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"55-59 years"	"55-59"	94
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"60-64 years "	"60-64"	77
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"65-69 years"	"65-69"	49
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"70-74 years"	"70-74"	59
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"75-79 years"	"75-79"	34
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	"Male"	"M"	"80-84 years"	"80-84"	18
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"15-19 years"	"15-19"	27
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"20-24 years"	"20-24"	64
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"25-29 years"	"25-29"	103
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"30-34 years"	"30-34"	160
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"35-39 years"	"35-39"	203
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"40-44 years"	"40-44"	226
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"45-49 years"	"45-49"	268
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"50-54 years"	"50-54"	240
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"55-59 years"	"55-59"	203
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"60-64 years "	"60-64"	154
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"65-69 years"	"65-69"	119
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"70-74 years"	"70-74"	94
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"75-79 years"	"75-79"	72
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"80-84 years"	"80-84"	46
+	"2006"	"2006"	"Thyroid"	"32010"	"Female"	"F"	"85+ years"	"85+"	36
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"25-29 years"	"25-29"	24
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"30-34 years"	"30-34"	38
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"35-39 years"	"35-39"	48
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"40-44 years"	"40-44"	64
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"45-49 years"	"45-49"	59
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"50-54 years"	"50-54"	89
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"55-59 years"	"55-59"	86
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"60-64 years "	"60-64"	68
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"65-69 years"	"65-69"	42
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"70-74 years"	"70-74"	50
+	"2006"	"2006"	"Thyroid"	"32010"	"Male"	"M"	"75-79 years"	"75-79"	30
+	"2006"	"2006"	"Other Endocrine including Thymus"	"32020"	"Female"	"F"	"60-64 years "	"60-64"	16
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"10-14 years"	"10-14"	16
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"15-19 years"	"15-19"	35
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"20-24 years"	"20-24"	50
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"25-29 years"	"25-29"	61
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"30-34 years"	"30-34"	48
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"35-39 years"	"35-39"	70
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"40-44 years"	"40-44"	97
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"45-49 years"	"45-49"	128
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"50-54 years"	"50-54"	165
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"55-59 years"	"55-59"	214
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"60-64 years "	"60-64"	217
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"65-69 years"	"65-69"	219
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"70-74 years"	"70-74"	246
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"75-79 years"	"75-79"	280
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"80-84 years"	"80-84"	296
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Female"	"F"	"85+ years"	"85+"	247
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"5-9 years"	"5-9"	17
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"10-14 years"	"10-14"	22
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"15-19 years"	"15-19"	47
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"20-24 years"	"20-24"	59
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"25-29 years"	"25-29"	74
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"30-34 years"	"30-34"	63
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"35-39 years"	"35-39"	105
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"40-44 years"	"40-44"	153
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"45-49 years"	"45-49"	208
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"50-54 years"	"50-54"	204
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"55-59 years"	"55-59"	262
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"60-64 years "	"60-64"	267
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"65-69 years"	"65-69"	290
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"70-74 years"	"70-74"	295
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"75-79 years"	"75-79"	273
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"80-84 years"	"80-84"	244
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	"Male"	"M"	"85+ years"	"85+"	126
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"15-19 years"	"15-19"	24
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"20-24 years"	"20-24"	32
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"25-29 years"	"25-29"	37
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"30-34 years"	"30-34"	23
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"35-39 years"	"35-39"	25
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"40-44 years"	"40-44"	16
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"55-59 years"	"55-59"	19
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"60-64 years "	"60-64"	20
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	"75-79 years"	"75-79"	21
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"15-19 years"	"15-19"	21
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"20-24 years"	"20-24"	39
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"25-29 years"	"25-29"	36
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"30-34 years"	"30-34"	23
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"35-39 years"	"35-39"	36
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"40-44 years"	"40-44"	37
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"45-49 years"	"45-49"	32
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"50-54 years"	"50-54"	27
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"55-59 years"	"55-59"	24
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"60-64 years "	"60-64"	16
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	"65-69 years"	"65-69"	20
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"15-19 years"	"15-19"	23
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"20-24 years"	"20-24"	30
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"25-29 years"	"25-29"	36
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"30-34 years"	"30-34"	22
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"35-39 years"	"35-39"	25
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"40-44 years"	"40-44"	16
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"55-59 years"	"55-59"	17
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"60-64 years "	"60-64"	20
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	"75-79 years"	"75-79"	18
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"15-19 years"	"15-19"	21
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"20-24 years"	"20-24"	37
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"25-29 years"	"25-29"	34
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"30-34 years"	"30-34"	21
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"35-39 years"	"35-39"	34
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"40-44 years"	"40-44"	34
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"45-49 years"	"45-49"	30
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"50-54 years"	"50-54"	25
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"55-59 years"	"55-59"	24
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	"65-69 years"	"65-69"	19
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"20-24 years"	"20-24"	18
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"25-29 years"	"25-29"	24
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"30-34 years"	"30-34"	25
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"35-39 years"	"35-39"	45
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"40-44 years"	"40-44"	81
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"45-49 years"	"45-49"	116
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"50-54 years"	"50-54"	152
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"55-59 years"	"55-59"	195
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"60-64 years "	"60-64"	197
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"65-69 years"	"65-69"	211
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"70-74 years"	"70-74"	238
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"75-79 years"	"75-79"	259
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"80-84 years"	"80-84"	286
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	"85+ years"	"85+"	240
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"15-19 years"	"15-19"	26
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"20-24 years"	"20-24"	20
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"25-29 years"	"25-29"	38
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"30-34 years"	"30-34"	40
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"35-39 years"	"35-39"	69
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"40-44 years"	"40-44"	116
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"45-49 years"	"45-49"	176
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"50-54 years"	"50-54"	177
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"55-59 years"	"55-59"	238
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"60-64 years "	"60-64"	251
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"65-69 years"	"65-69"	270
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"70-74 years"	"70-74"	282
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"75-79 years"	"75-79"	260
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"80-84 years"	"80-84"	236
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	"85+ years"	"85+"	125
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"35-39 years"	"35-39"	27
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"40-44 years"	"40-44"	47
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"45-49 years"	"45-49"	72
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"50-54 years"	"50-54"	106
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"55-59 years"	"55-59"	129
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"60-64 years "	"60-64"	121
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"65-69 years"	"65-69"	135
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"70-74 years"	"70-74"	145
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"75-79 years"	"75-79"	181
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"80-84 years"	"80-84"	189
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Female"	"F"	"85+ years"	"85+"	156
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"15-19 years"	"15-19"	18
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"25-29 years"	"25-29"	29
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"30-34 years"	"30-34"	23
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"35-39 years"	"35-39"	42
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"40-44 years"	"40-44"	81
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"45-49 years"	"45-49"	117
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"50-54 years"	"50-54"	114
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"55-59 years"	"55-59"	158
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"60-64 years "	"60-64"	166
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"65-69 years"	"65-69"	183
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"70-74 years"	"70-74"	193
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"75-79 years"	"75-79"	168
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"80-84 years"	"80-84"	148
+	"2006"	"2006"	"NHL - Nodal"	"33041"	"Male"	"M"	"85+ years"	"85+"	77
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"35-39 years"	"35-39"	18
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"40-44 years"	"40-44"	34
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"45-49 years"	"45-49"	44
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"50-54 years"	"50-54"	46
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"55-59 years"	"55-59"	66
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"60-64 years "	"60-64"	76
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"65-69 years"	"65-69"	76
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"70-74 years"	"70-74"	93
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"75-79 years"	"75-79"	78
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"80-84 years"	"80-84"	97
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Female"	"F"	"85+ years"	"85+"	84
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"30-34 years"	"30-34"	17
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"35-39 years"	"35-39"	27
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"40-44 years"	"40-44"	35
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"45-49 years"	"45-49"	59
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"50-54 years"	"50-54"	63
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"55-59 years"	"55-59"	80
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"60-64 years "	"60-64"	85
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"65-69 years"	"65-69"	87
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"70-74 years"	"70-74"	89
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"75-79 years"	"75-79"	92
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"80-84 years"	"80-84"	88
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	"Male"	"M"	"85+ years"	"85+"	48
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"45-49 years"	"45-49"	19
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"50-54 years"	"50-54"	46
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"55-59 years"	"55-59"	58
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"60-64 years "	"60-64"	72
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"65-69 years"	"65-69"	76
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"70-74 years"	"70-74"	100
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"75-79 years"	"75-79"	101
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"80-84 years"	"80-84"	105
+	"2006"	"2006"	"Myeloma"	"34000"	"Female"	"F"	"85+ years"	"85+"	87
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"40-44 years"	"40-44"	20
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"45-49 years"	"45-49"	28
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"50-54 years"	"50-54"	62
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"55-59 years"	"55-59"	84
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"60-64 years "	"60-64"	96
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"65-69 years"	"65-69"	103
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"70-74 years"	"70-74"	102
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"75-79 years"	"75-79"	121
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"80-84 years"	"80-84"	85
+	"2006"	"2006"	"Myeloma"	"34000"	"Male"	"M"	"85+ years"	"85+"	53
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"1-4 years"	"1-4"	33
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"5-9 years"	"5-9"	20
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"10-14 years"	"10-14"	18
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"15-19 years"	"15-19"	17
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"20-24 years"	"20-24"	20
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"25-29 years"	"25-29"	16
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"35-39 years"	"35-39"	19
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"40-44 years"	"40-44"	43
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"45-49 years"	"45-49"	45
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"50-54 years"	"50-54"	73
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"55-59 years"	"55-59"	91
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"60-64 years "	"60-64"	93
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"65-69 years"	"65-69"	103
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"70-74 years"	"70-74"	107
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"75-79 years"	"75-79"	184
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"80-84 years"	"80-84"	154
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Female"	"F"	"85+ years"	"85+"	203
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"1-4 years"	"1-4"	52
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"10-14 years"	"10-14"	20
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"15-19 years"	"15-19"	24
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"20-24 years"	"20-24"	28
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"25-29 years"	"25-29"	19
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"30-34 years"	"30-34"	23
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"35-39 years"	"35-39"	39
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"40-44 years"	"40-44"	55
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"45-49 years"	"45-49"	76
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"50-54 years"	"50-54"	110
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"55-59 years"	"55-59"	131
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"60-64 years "	"60-64"	135
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"65-69 years"	"65-69"	194
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"70-74 years"	"70-74"	184
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"75-79 years"	"75-79"	226
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"80-84 years"	"80-84"	182
+	"2006"	"2006"	"Leukemias"	"35011-35043"	"Male"	"M"	"85+ years"	"85+"	156
+	"2006"	"2006"	"Acute Lymphocytic Leukemia"	"35011"	"Female"	"F"	"1-4 years"	"1-4"	27
+	"2006"	"2006"	"Acute Lymphocytic Leukemia"	"35011"	"Male"	"M"	"1-4 years"	"1-4"	43
+	"2006"	"2006"	"Acute Lymphocytic Leukemia"	"35011"	"Male"	"M"	"20-24 years"	"20-24"	17
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"45-49 years"	"45-49"	20
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"50-54 years"	"50-54"	31
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"55-59 years"	"55-59"	32
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"60-64 years "	"60-64"	42
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"65-69 years"	"65-69"	50
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"70-74 years"	"70-74"	48
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"75-79 years"	"75-79"	82
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"80-84 years"	"80-84"	74
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	"85+ years"	"85+"	95
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"45-49 years"	"45-49"	31
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"50-54 years"	"50-54"	44
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"55-59 years"	"55-59"	64
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"60-64 years "	"60-64"	78
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"65-69 years"	"65-69"	98
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"70-74 years"	"70-74"	91
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"75-79 years"	"75-79"	110
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"80-84 years"	"80-84"	82
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	"85+ years"	"85+"	75
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"45-49 years"	"45-49"	18
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"50-54 years"	"50-54"	17
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"55-59 years"	"55-59"	24
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"60-64 years "	"60-64"	22
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"65-69 years"	"65-69"	26
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"70-74 years"	"70-74"	36
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"75-79 years"	"75-79"	62
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"80-84 years"	"80-84"	47
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	"85+ years"	"85+"	56
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"35-39 years"	"35-39"	20
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"40-44 years"	"40-44"	21
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"50-54 years"	"50-54"	24
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"55-59 years"	"55-59"	28
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"60-64 years "	"60-64"	21
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"65-69 years"	"65-69"	47
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"70-74 years"	"70-74"	50
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"75-79 years"	"75-79"	63
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"80-84 years"	"80-84"	55
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	"85+ years"	"85+"	34
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"55-59 years"	"55-59"	20
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"60-64 years "	"60-64"	18
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	"75-79 years"	"75-79"	21
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"65-69 years"	"65-69"	21
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"70-74 years"	"70-74"	20
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"75-79 years"	"75-79"	23
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"80-84 years"	"80-84"	16
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	"85+ years"	"85+"	19
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Female"	"F"	"85+ years"	"85+"	36
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"50-54 years"	"50-54"	22
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"55-59 years"	"55-59"	22
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"60-64 years "	"60-64"	16
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"65-69 years"	"65-69"	22
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"70-74 years"	"70-74"	20
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"75-79 years"	"75-79"	24
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"80-84 years"	"80-84"	24
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	"Male"	"M"	"85+ years"	"85+"	23
+	"2006"	"2006"	"Mesothelioma"	"36010"	"Male"	"M"	"65-69 years"	"65-69"	21
+	"2006"	"2006"	"Mesothelioma"	"36010"	"Male"	"M"	"70-74 years"	"70-74"	20
+	"2006"	"2006"	"Mesothelioma"	"36010"	"Male"	"M"	"80-84 years"	"80-84"	35
+	"2006"	"2006"	"Mesothelioma"	"36010"	"Male"	"M"	"85+ years"	"85+"	20
+	"2006"	"2006"	"Kaposi Sarcoma"	"36020"	"Male"	"M"	"30-34 years"	"30-34"	17
+	"2006"	"2006"	"Kaposi Sarcoma"	"36020"	"Male"	"M"	"35-39 years"	"35-39"	29
+	"2006"	"2006"	"Kaposi Sarcoma"	"36020"	"Male"	"M"	"40-44 years"	"40-44"	24
+	"2006"	"2006"	"Kaposi Sarcoma"	"36020"	"Male"	"M"	"45-49 years"	"45-49"	22
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"35-39 years"	"35-39"	26
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"40-44 years"	"40-44"	26
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"45-49 years"	"45-49"	72
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"50-54 years"	"50-54"	98
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"55-59 years"	"55-59"	106
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"60-64 years "	"60-64"	166
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"65-69 years"	"65-69"	193
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"70-74 years"	"70-74"	236
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"75-79 years"	"75-79"	299
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"80-84 years"	"80-84"	365
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Female"	"F"	"85+ years"	"85+"	576
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"35-39 years"	"35-39"	28
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"40-44 years"	"40-44"	41
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"45-49 years"	"45-49"	82
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"50-54 years"	"50-54"	112
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"55-59 years"	"55-59"	155
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"60-64 years "	"60-64"	194
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"65-69 years"	"65-69"	224
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"70-74 years"	"70-74"	231
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"75-79 years"	"75-79"	331
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"80-84 years"	"80-84"	325
+	"2006"	"2006"	"Miscellaneous"	"37000"	"Male"	"M"	"85+ years"	"85+"	279
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"30-34 years"	"30-34"	33
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"35-39 years"	"35-39"	117
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"40-44 years"	"40-44"	401
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"45-49 years"	"45-49"	710
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"50-54 years"	"50-54"	600
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"55-59 years"	"55-59"	563
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"60-64 years "	"60-64"	494
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"65-69 years"	"65-69"	445
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"70-74 years"	"70-74"	322
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"75-79 years"	"75-79"	286
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"80-84 years"	"80-84"	164
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	"85+ years"	"85+"	80
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"30-34 years"	"30-34"	33
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"35-39 years"	"35-39"	117
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"40-44 years"	"40-44"	401
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"45-49 years"	"45-49"	710
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"50-54 years"	"50-54"	600
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"55-59 years"	"55-59"	563
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"60-64 years "	"60-64"	494
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"65-69 years"	"65-69"	445
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"70-74 years"	"70-74"	322
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"75-79 years"	"75-79"	286
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"80-84 years"	"80-84"	164
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	"85+ years"	"85+"	80
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2015 Incidence"
+"Query Parameters:"
+"States and Puerto Rico: New York (36)"
+"Year: 2006"
+"Group By: Year; Cancer Sites; Sex; Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2015.html for more information."
+"---"
+"Query Date: Aug 28, 2019 11:51:44 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2015 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2018. Accessed at"
+"http://wonder.cdc.gov/cancer-v2015.html on Aug 28, 2019 11:51:44 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Illinois, Kansas,"
+"Kentucky, New Jersey, and New York; 2) Asian or Pacific Islander data are suppressed at the state level for Delaware, Kansas,"
+"and Kentucky; 3) Hispanic data are supressed at the state level for Delaware, Kentucky, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
