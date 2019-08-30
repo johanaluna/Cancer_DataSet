@@ -1,0 +1,1806 @@
+"Notes"	"Year"	"Year Code"	"Cancer Sites"	"Cancer Sites Code"	Count
+	"1999"	"1999"	"All Invasive Cancer Sites Combined"	"0"	1290692
+	"1999"	"1999"	"Oral Cavity and Pharynx"	"20010-20100"	29091
+	"1999"	"1999"	"Lip"	"20010"	2548
+	"1999"	"1999"	"Tongue"	"20020"	6986
+	"1999"	"1999"	"Salivary Gland"	"20030"	3164
+	"1999"	"1999"	"Floor of Mouth"	"20040"	2203
+	"1999"	"1999"	"Gum and Other Mouth"	"20050"	4619
+	"1999"	"1999"	"Nasopharynx"	"20060"	1551
+	"1999"	"1999"	"Tonsil"	"20070"	3613
+	"1999"	"1999"	"Oropharynx"	"20080"	1057
+	"1999"	"1999"	"Hypopharynx"	"20090"	2344
+	"1999"	"1999"	"Other Oral Cavity and Pharynx"	"20100"	1006
+	"1999"	"1999"	"Digestive System"	"21010-21130"	243610
+	"1999"	"1999"	"Esophagus"	"21010"	13320
+	"1999"	"1999"	"Stomach"	"21020"	20230
+	"1999"	"1999"	"Small Intestine"	"21030"	4516
+	"1999"	"1999"	"Colon and Rectum"	"21041-21052"	150014
+	"1999"	"1999"	"Colon excluding Rectum"	"21041-21049"	109529
+	"1999"	"1999"	"Cecum"	"21041"	23595
+	"1999"	"1999"	"Appendix"	"21042"	1334
+	"1999"	"1999"	"Ascending Colon"	"21043"	18340
+	"1999"	"1999"	"Hepatic Flexure"	"21044"	5639
+	"1999"	"1999"	"Transverse Colon"	"21045"	9400
+	"1999"	"1999"	"Splenic Flexure"	"21046"	3678
+	"1999"	"1999"	"Descending Colon"	"21047"	6401
+	"1999"	"1999"	"Sigmoid Colon"	"21048"	31509
+	"1999"	"1999"	"Large Intestine, NOS"	"21049"	9633
+	"1999"	"1999"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40485
+	"1999"	"1999"	"Rectosigmoid Junction"	"21051"	12902
+	"1999"	"1999"	"Rectum"	"21052"	27583
+	"1999"	"1999"	"Anus, Anal Canal and Anorectum"	"21060"	3649
+	"1999"	"1999"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	12993
+	"1999"	"1999"	"Liver"	"21071"	10922
+	"1999"	"1999"	"Intrahepatic Bile Duct"	"21072"	2071
+	"1999"	"1999"	"Gallbladder"	"21080"	3221
+	"1999"	"1999"	"Other Biliary"	"21090"	3482
+	"1999"	"1999"	"Pancreas"	"21100"	29231
+	"1999"	"1999"	"Retroperitoneum"	"21110"	1035
+	"1999"	"1999"	"Peritoneum, Omentum and Mesentery"	"21120"	1139
+	"1999"	"1999"	"Other Digestive Organs"	"21130"	780
+	"1999"	"1999"	"Respiratory System"	"22010-22060"	204409
+	"1999"	"1999"	"Nose, Nasal Cavity and Middle Ear"	"22010"	1904
+	"1999"	"1999"	"Larynx"	"22020"	12455
+	"1999"	"1999"	"Lung and Bronchus"	"22030"	189353
+	"1999"	"1999"	"Pleura"	"22050"	107
+	"1999"	"1999"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	590
+	"1999"	"1999"	"Bones and Joints"	"23000"	2585
+	"1999"	"1999"	"Soft Tissue including Heart"	"24000"	7727
+	"1999"	"1999"	"Skin excluding Basal and Squamous"	"25010-25020"	44288
+	"1999"	"1999"	"Melanoma of the Skin"	"25010"	40777
+	"1999"	"1999"	"Other Non-Epithelial Skin"	"25020"	3511
+	"1999"	"1999"	"Male and Female Breast"	"26000"	198046
+	"1999"	"1999"	"Female Breast"	"26000-Female"	196535
+	"1999"	"1999"	"Male Breast"	"26000-Male"	1511
+	"1999"	"1999"	"Female Genital System"	"27010-27070"	75177
+	"1999"	"1999"	"Cervix Uteri"	"27010"	13752
+	"1999"	"1999"	"Corpus Uteri"	"27020"	33874
+	"1999"	"1999"	"Uterus, NOS"	"27030"	1160
+	"1999"	"1999"	"Ovary"	"27040"	20831
+	"1999"	"1999"	"Vagina"	"27050"	1110
+	"1999"	"1999"	"Vulva"	"27060"	3558
+	"1999"	"1999"	"Other Female Genital Organs"	"27070"	892
+	"1999"	"1999"	"Male Genital System"	"28010-28040"	204995
+	"1999"	"1999"	"Prostate"	"28010"	196349
+	"1999"	"1999"	"Testis"	"28020"	7302
+	"1999"	"1999"	"Penis"	"28030"	1067
+	"1999"	"1999"	"Other Male Genital Organs"	"28040"	277
+	"1999"	"1999"	"Urinary System"	"29010-29040"	93518
+	"1999"	"1999"	"Urinary Bladder, invasive and in situ"	"29010"	58466
+	"1999"	"1999"	"Kidney and Renal Pelvis"	"29020"	32656
+	"1999"	"1999"	"Ureter"	"29030"	1649
+	"1999"	"1999"	"Other Urinary Organs"	"29040"	747
+	"1999"	"1999"	"Eye and Orbit"	"30000"	2278
+	"1999"	"1999"	"Brain and Other Nervous System"	"31010-31040"	18562
+	"1999"	"1999"	"Brain"	"31010"	17328
+	"1999"	"1999"	"Cranial Nerves Other Nervous System"	"31040"	1234
+	"1999"	"1999"	"Endocrine System"	"32010-32020"	20128
+	"1999"	"1999"	"Thyroid"	"32010"	18342
+	"1999"	"1999"	"Other Endocrine including Thymus"	"32020"	1786
+	"1999"	"1999"	"Lymphomas"	"33011-33042"	59143
+	"1999"	"1999"	"Hodgkin Lymphoma"	"33011-33012"	7670
+	"1999"	"1999"	"Hodgkin - Nodal"	"33011"	7410
+	"1999"	"1999"	"Hodgkin - Extranodal"	"33012"	260
+	"1999"	"1999"	"Non-Hodgkin Lymphoma"	"33041-33042"	51473
+	"1999"	"1999"	"NHL - Nodal"	"33041"	36048
+	"1999"	"1999"	"NHL - Extranodal"	"33042"	15425
+	"1999"	"1999"	"Myeloma"	"34000"	14864
+	"1999"	"1999"	"Leukemias"	"35011-35043"	33997
+	"1999"	"1999"	"Acute Lymphocytic Leukemia"	"35011"	3830
+	"1999"	"1999"	"Chronic Lymphocytic Leukemia"	"35012"	10946
+	"1999"	"1999"	"Acute Myeloid Leukemia"	"35021"	9927
+	"1999"	"1999"	"Chronic Myeloid Leukemia"	"35022"	4272
+	"1999"	"1999"	"Other Leukemias"	"35041-35043"	5022
+	"1999"	"1999"	"Other Lymphocytic Leukemia"	"35013"	1235
+	"1999"	"1999"	"Acute Monocytic Leukemia"	"35031"	549
+	"1999"	"1999"	"Other Acute Leukemia"	"35041"	1381
+	"1999"	"1999"	"Aleukemic, Subleukemic and NOS"	"35043"	1362
+	"1999"	"1999"	"Other Myeloid/Monocytic Leukemia"	"35023"	495
+	"1999"	"1999"	"Mesothelioma"	"36010"	2952
+	"1999"	"1999"	"Kaposi Sarcoma"	"36020"	1454
+	"1999"	"1999"	"Miscellaneous"	"37000"	33868
+	"1999"	"1999"	"Male and Female Breast, In Situ"	"Breast-InSitu"	39930
+	"1999"	"1999"	"Female Breast, In Situ"	"Breast-InSitu-Female"	39771
+	"1999"	"1999"	"Male Breast, In Situ"	"Breast-InSitu-Male"	159
+	"2000"	"2000"	"All Invasive Cancer Sites Combined"	"0"	1317653
+	"2000"	"2000"	"Oral Cavity and Pharynx"	"20010-20100"	29597
+	"2000"	"2000"	"Lip"	"20010"	2497
+	"2000"	"2000"	"Tongue"	"20020"	7262
+	"2000"	"2000"	"Salivary Gland"	"20030"	3320
+	"2000"	"2000"	"Floor of Mouth"	"20040"	2173
+	"2000"	"2000"	"Gum and Other Mouth"	"20050"	4451
+	"2000"	"2000"	"Nasopharynx"	"20060"	1596
+	"2000"	"2000"	"Tonsil"	"20070"	3831
+	"2000"	"2000"	"Oropharynx"	"20080"	1134
+	"2000"	"2000"	"Hypopharynx"	"20090"	2286
+	"2000"	"2000"	"Other Oral Cavity and Pharynx"	"20100"	1047
+	"2000"	"2000"	"Digestive System"	"21010-21130"	247781
+	"2000"	"2000"	"Esophagus"	"21010"	13655
+	"2000"	"2000"	"Stomach"	"21020"	20101
+	"2000"	"2000"	"Small Intestine"	"21030"	4564
+	"2000"	"2000"	"Colon and Rectum"	"21041-21052"	151661
+	"2000"	"2000"	"Colon excluding Rectum"	"21041-21049"	110863
+	"2000"	"2000"	"Cecum"	"21041"	23921
+	"2000"	"2000"	"Appendix"	"21042"	1385
+	"2000"	"2000"	"Ascending Colon"	"21043"	18975
+	"2000"	"2000"	"Hepatic Flexure"	"21044"	5726
+	"2000"	"2000"	"Transverse Colon"	"21045"	9457
+	"2000"	"2000"	"Splenic Flexure"	"21046"	3789
+	"2000"	"2000"	"Descending Colon"	"21047"	6251
+	"2000"	"2000"	"Sigmoid Colon"	"21048"	31633
+	"2000"	"2000"	"Large Intestine, NOS"	"21049"	9726
+	"2000"	"2000"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40798
+	"2000"	"2000"	"Rectosigmoid Junction"	"21051"	12287
+	"2000"	"2000"	"Rectum"	"21052"	28511
+	"2000"	"2000"	"Anus, Anal Canal and Anorectum"	"21060"	3746
+	"2000"	"2000"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	13999
+	"2000"	"2000"	"Liver"	"21071"	11832
+	"2000"	"2000"	"Intrahepatic Bile Duct"	"21072"	2167
+	"2000"	"2000"	"Gallbladder"	"21080"	3132
+	"2000"	"2000"	"Other Biliary"	"21090"	3669
+	"2000"	"2000"	"Pancreas"	"21100"	30108
+	"2000"	"2000"	"Retroperitoneum"	"21110"	1014
+	"2000"	"2000"	"Peritoneum, Omentum and Mesentery"	"21120"	1246
+	"2000"	"2000"	"Other Digestive Organs"	"21130"	886
+	"2000"	"2000"	"Respiratory System"	"22010-22060"	205404
+	"2000"	"2000"	"Nose, Nasal Cavity and Middle Ear"	"22010"	1897
+	"2000"	"2000"	"Larynx"	"22020"	12291
+	"2000"	"2000"	"Lung and Bronchus"	"22030"	190526
+	"2000"	"2000"	"Pleura"	"22050"	107
+	"2000"	"2000"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	583
+	"2000"	"2000"	"Bones and Joints"	"23000"	2599
+	"2000"	"2000"	"Soft Tissue including Heart"	"24000"	8098
+	"2000"	"2000"	"Skin excluding Basal and Squamous"	"25010-25020"	47936
+	"2000"	"2000"	"Melanoma of the Skin"	"25010"	44064
+	"2000"	"2000"	"Other Non-Epithelial Skin"	"25020"	3872
+	"2000"	"2000"	"Male and Female Breast"	"26000"	198131
+	"2000"	"2000"	"Female Breast"	"26000-Female"	196625
+	"2000"	"2000"	"Male Breast"	"26000-Male"	1506
+	"2000"	"2000"	"Female Genital System"	"27010-27070"	76079
+	"2000"	"2000"	"Cervix Uteri"	"27010"	13730
+	"2000"	"2000"	"Corpus Uteri"	"27020"	34030
+	"2000"	"2000"	"Uterus, NOS"	"27030"	1220
+	"2000"	"2000"	"Ovary"	"27040"	21434
+	"2000"	"2000"	"Vagina"	"27050"	1150
+	"2000"	"2000"	"Vulva"	"27060"	3528
+	"2000"	"2000"	"Other Female Genital Organs"	"27070"	987
+	"2000"	"2000"	"Male Genital System"	"28010-28040"	211524
+	"2000"	"2000"	"Prostate"	"28010"	202737
+	"2000"	"2000"	"Testis"	"28020"	7443
+	"2000"	"2000"	"Penis"	"28030"	1055
+	"2000"	"2000"	"Other Male Genital Organs"	"28040"	289
+	"2000"	"2000"	"Urinary System"	"29010-29040"	96701
+	"2000"	"2000"	"Urinary Bladder, invasive and in situ"	"29010"	59723
+	"2000"	"2000"	"Kidney and Renal Pelvis"	"29020"	34625
+	"2000"	"2000"	"Ureter"	"29030"	1621
+	"2000"	"2000"	"Other Urinary Organs"	"29040"	732
+	"2000"	"2000"	"Eye and Orbit"	"30000"	2392
+	"2000"	"2000"	"Brain and Other Nervous System"	"31010-31040"	18762
+	"2000"	"2000"	"Brain"	"31010"	17455
+	"2000"	"2000"	"Cranial Nerves Other Nervous System"	"31040"	1307
+	"2000"	"2000"	"Endocrine System"	"32010-32020"	22311
+	"2000"	"2000"	"Thyroid"	"32010"	20464
+	"2000"	"2000"	"Other Endocrine including Thymus"	"32020"	1847
+	"2000"	"2000"	"Lymphomas"	"33011-33042"	59997
+	"2000"	"2000"	"Hodgkin Lymphoma"	"33011-33012"	7849
+	"2000"	"2000"	"Hodgkin - Nodal"	"33011"	7572
+	"2000"	"2000"	"Hodgkin - Extranodal"	"33012"	277
+	"2000"	"2000"	"Non-Hodgkin Lymphoma"	"33041-33042"	52148
+	"2000"	"2000"	"NHL - Nodal"	"33041"	36547
+	"2000"	"2000"	"NHL - Extranodal"	"33042"	15601
+	"2000"	"2000"	"Myeloma"	"34000"	15655
+	"2000"	"2000"	"Leukemias"	"35011-35043"	36268
+	"2000"	"2000"	"Acute Lymphocytic Leukemia"	"35011"	4021
+	"2000"	"2000"	"Chronic Lymphocytic Leukemia"	"35012"	12114
+	"2000"	"2000"	"Acute Myeloid Leukemia"	"35021"	10554
+	"2000"	"2000"	"Chronic Myeloid Leukemia"	"35022"	4534
+	"2000"	"2000"	"Other Leukemias"	"35041-35043"	5045
+	"2000"	"2000"	"Other Lymphocytic Leukemia"	"35013"	1305
+	"2000"	"2000"	"Acute Monocytic Leukemia"	"35031"	584
+	"2000"	"2000"	"Other Acute Leukemia"	"35041"	1279
+	"2000"	"2000"	"Aleukemic, Subleukemic and NOS"	"35043"	1389
+	"2000"	"2000"	"Other Myeloid/Monocytic Leukemia"	"35023"	488
+	"2000"	"2000"	"Mesothelioma"	"36010"	3037
+	"2000"	"2000"	"Kaposi Sarcoma"	"36020"	1458
+	"2000"	"2000"	"Miscellaneous"	"37000"	33923
+	"2000"	"2000"	"Male and Female Breast, In Situ"	"Breast-InSitu"	41691
+	"2000"	"2000"	"Female Breast, In Situ"	"Breast-InSitu-Female"	41513
+	"2000"	"2000"	"Male Breast, In Situ"	"Breast-InSitu-Male"	178
+	"2001"	"2001"	"All Invasive Cancer Sites Combined"	"0"	1375112
+	"2001"	"2001"	"Oral Cavity and Pharynx"	"20010-20100"	30278
+	"2001"	"2001"	"Lip"	"20010"	2446
+	"2001"	"2001"	"Tongue"	"20020"	7530
+	"2001"	"2001"	"Salivary Gland"	"20030"	3397
+	"2001"	"2001"	"Floor of Mouth"	"20040"	2238
+	"2001"	"2001"	"Gum and Other Mouth"	"20050"	4633
+	"2001"	"2001"	"Nasopharynx"	"20060"	1500
+	"2001"	"2001"	"Tonsil"	"20070"	4101
+	"2001"	"2001"	"Oropharynx"	"20080"	1182
+	"2001"	"2001"	"Hypopharynx"	"20090"	2253
+	"2001"	"2001"	"Other Oral Cavity and Pharynx"	"20100"	998
+	"2001"	"2001"	"Digestive System"	"21010-21130"	253070
+	"2001"	"2001"	"Esophagus"	"21010"	13905
+	"2001"	"2001"	"Stomach"	"21020"	20272
+	"2001"	"2001"	"Small Intestine"	"21030"	4930
+	"2001"	"2001"	"Colon and Rectum"	"21041-21052"	153539
+	"2001"	"2001"	"Colon excluding Rectum"	"21041-21049"	112363
+	"2001"	"2001"	"Cecum"	"21041"	24541
+	"2001"	"2001"	"Appendix"	"21042"	1546
+	"2001"	"2001"	"Ascending Colon"	"21043"	19523
+	"2001"	"2001"	"Hepatic Flexure"	"21044"	5870
+	"2001"	"2001"	"Transverse Colon"	"21045"	9883
+	"2001"	"2001"	"Splenic Flexure"	"21046"	3614
+	"2001"	"2001"	"Descending Colon"	"21047"	6370
+	"2001"	"2001"	"Sigmoid Colon"	"21048"	31697
+	"2001"	"2001"	"Large Intestine, NOS"	"21049"	9319
+	"2001"	"2001"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41176
+	"2001"	"2001"	"Rectosigmoid Junction"	"21051"	12310
+	"2001"	"2001"	"Rectum"	"21052"	28866
+	"2001"	"2001"	"Anus, Anal Canal and Anorectum"	"21060"	3881
+	"2001"	"2001"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	14145
+	"2001"	"2001"	"Liver"	"21071"	12650
+	"2001"	"2001"	"Intrahepatic Bile Duct"	"21072"	1495
+	"2001"	"2001"	"Gallbladder"	"21080"	3307
+	"2001"	"2001"	"Other Biliary"	"21090"	4455
+	"2001"	"2001"	"Pancreas"	"21100"	31024
+	"2001"	"2001"	"Retroperitoneum"	"21110"	1109
+	"2001"	"2001"	"Peritoneum, Omentum and Mesentery"	"21120"	1485
+	"2001"	"2001"	"Other Digestive Organs"	"21130"	1018
+	"2001"	"2001"	"Respiratory System"	"22010-22060"	210656
+	"2001"	"2001"	"Nose, Nasal Cavity and Middle Ear"	"22010"	1881
+	"2001"	"2001"	"Larynx"	"22020"	12278
+	"2001"	"2001"	"Lung and Bronchus"	"22030"	195887
+	"2001"	"2001"	"Pleura"	"22050"	84
+	"2001"	"2001"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	526
+	"2001"	"2001"	"Bones and Joints"	"23000"	2776
+	"2001"	"2001"	"Soft Tissue including Heart"	"24000"	8355
+	"2001"	"2001"	"Skin excluding Basal and Squamous"	"25010-25020"	52079
+	"2001"	"2001"	"Melanoma of the Skin"	"25010"	47931
+	"2001"	"2001"	"Other Non-Epithelial Skin"	"25020"	4148
+	"2001"	"2001"	"Male and Female Breast"	"26000"	202539
+	"2001"	"2001"	"Female Breast"	"26000-Female"	201058
+	"2001"	"2001"	"Male Breast"	"26000-Male"	1481
+	"2001"	"2001"	"Female Genital System"	"27010-27070"	77805
+	"2001"	"2001"	"Cervix Uteri"	"27010"	13261
+	"2001"	"2001"	"Corpus Uteri"	"27020"	35820
+	"2001"	"2001"	"Uterus, NOS"	"27030"	1242
+	"2001"	"2001"	"Ovary"	"27040"	21626
+	"2001"	"2001"	"Vagina"	"27050"	1153
+	"2001"	"2001"	"Vulva"	"27060"	3709
+	"2001"	"2001"	"Other Female Genital Organs"	"27070"	994
+	"2001"	"2001"	"Male Genital System"	"28010-28040"	221089
+	"2001"	"2001"	"Prostate"	"28010"	212159
+	"2001"	"2001"	"Testis"	"28020"	7579
+	"2001"	"2001"	"Penis"	"28030"	1064
+	"2001"	"2001"	"Other Male Genital Organs"	"28040"	287
+	"2001"	"2001"	"Urinary System"	"29010-29040"	100300
+	"2001"	"2001"	"Urinary Bladder, invasive and in situ"	"29010"	60753
+	"2001"	"2001"	"Kidney and Renal Pelvis"	"29020"	37135
+	"2001"	"2001"	"Ureter"	"29030"	1654
+	"2001"	"2001"	"Other Urinary Organs"	"29040"	758
+	"2001"	"2001"	"Eye and Orbit"	"30000"	2440
+	"2001"	"2001"	"Brain and Other Nervous System"	"31010-31040"	18911
+	"2001"	"2001"	"Brain"	"31010"	17600
+	"2001"	"2001"	"Cranial Nerves Other Nervous System"	"31040"	1311
+	"2001"	"2001"	"Endocrine System"	"32010-32020"	23981
+	"2001"	"2001"	"Thyroid"	"32010"	22017
+	"2001"	"2001"	"Other Endocrine including Thymus"	"32020"	1964
+	"2001"	"2001"	"Lymphomas"	"33011-33042"	61822
+	"2001"	"2001"	"Hodgkin Lymphoma"	"33011-33012"	7832
+	"2001"	"2001"	"Hodgkin - Nodal"	"33011"	7538
+	"2001"	"2001"	"Hodgkin - Extranodal"	"33012"	294
+	"2001"	"2001"	"Non-Hodgkin Lymphoma"	"33041-33042"	53990
+	"2001"	"2001"	"NHL - Nodal"	"33041"	37314
+	"2001"	"2001"	"NHL - Extranodal"	"33042"	16676
+	"2001"	"2001"	"Myeloma"	"34000"	16256
+	"2001"	"2001"	"Leukemias"	"35011-35043"	37568
+	"2001"	"2001"	"Acute Lymphocytic Leukemia"	"35011"	4172
+	"2001"	"2001"	"Chronic Lymphocytic Leukemia"	"35012"	12922
+	"2001"	"2001"	"Acute Myeloid Leukemia"	"35021"	10815
+	"2001"	"2001"	"Chronic Myeloid Leukemia"	"35022"	4588
+	"2001"	"2001"	"Other Leukemias"	"35041-35043"	5071
+	"2001"	"2001"	"Other Lymphocytic Leukemia"	"35013"	1336
+	"2001"	"2001"	"Acute Monocytic Leukemia"	"35031"	697
+	"2001"	"2001"	"Other Acute Leukemia"	"35041"	1147
+	"2001"	"2001"	"Aleukemic, Subleukemic and NOS"	"35043"	1369
+	"2001"	"2001"	"Other Myeloid/Monocytic Leukemia"	"35023"	522
+	"2001"	"2001"	"Mesothelioma"	"36010"	3046
+	"2001"	"2001"	"Kaposi Sarcoma"	"36020"	1461
+	"2001"	"2001"	"Miscellaneous"	"37000"	50680
+	"2001"	"2001"	"Male and Female Breast, In Situ"	"Breast-InSitu"	43822
+	"2001"	"2001"	"Female Breast, In Situ"	"Breast-InSitu-Female"	43639
+	"2001"	"2001"	"Male Breast, In Situ"	"Breast-InSitu-Male"	183
+	"2002"	"2002"	"All Invasive Cancer Sites Combined"	"0"	1392214
+	"2002"	"2002"	"Oral Cavity and Pharynx"	"20010-20100"	31034
+	"2002"	"2002"	"Lip"	"20010"	2519
+	"2002"	"2002"	"Tongue"	"20020"	8027
+	"2002"	"2002"	"Salivary Gland"	"20030"	3418
+	"2002"	"2002"	"Floor of Mouth"	"20040"	2174
+	"2002"	"2002"	"Gum and Other Mouth"	"20050"	4544
+	"2002"	"2002"	"Nasopharynx"	"20060"	1631
+	"2002"	"2002"	"Tonsil"	"20070"	4353
+	"2002"	"2002"	"Oropharynx"	"20080"	1213
+	"2002"	"2002"	"Hypopharynx"	"20090"	2219
+	"2002"	"2002"	"Other Oral Cavity and Pharynx"	"20100"	936
+	"2002"	"2002"	"Digestive System"	"21010-21130"	254605
+	"2002"	"2002"	"Esophagus"	"21010"	14004
+	"2002"	"2002"	"Stomach"	"21020"	20548
+	"2002"	"2002"	"Small Intestine"	"21030"	5221
+	"2002"	"2002"	"Colon and Rectum"	"21041-21052"	152519
+	"2002"	"2002"	"Colon excluding Rectum"	"21041-21049"	111636
+	"2002"	"2002"	"Cecum"	"21041"	24170
+	"2002"	"2002"	"Appendix"	"21042"	1747
+	"2002"	"2002"	"Ascending Colon"	"21043"	19710
+	"2002"	"2002"	"Hepatic Flexure"	"21044"	5855
+	"2002"	"2002"	"Transverse Colon"	"21045"	9575
+	"2002"	"2002"	"Splenic Flexure"	"21046"	3731
+	"2002"	"2002"	"Descending Colon"	"21047"	6406
+	"2002"	"2002"	"Sigmoid Colon"	"21048"	31065
+	"2002"	"2002"	"Large Intestine, NOS"	"21049"	9377
+	"2002"	"2002"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40883
+	"2002"	"2002"	"Rectosigmoid Junction"	"21051"	11940
+	"2002"	"2002"	"Rectum"	"21052"	28943
+	"2002"	"2002"	"Anus, Anal Canal and Anorectum"	"21060"	4067
+	"2002"	"2002"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	15144
+	"2002"	"2002"	"Liver"	"21071"	13592
+	"2002"	"2002"	"Intrahepatic Bile Duct"	"21072"	1552
+	"2002"	"2002"	"Gallbladder"	"21080"	3134
+	"2002"	"2002"	"Other Biliary"	"21090"	4644
+	"2002"	"2002"	"Pancreas"	"21100"	31597
+	"2002"	"2002"	"Retroperitoneum"	"21110"	1124
+	"2002"	"2002"	"Peritoneum, Omentum and Mesentery"	"21120"	1570
+	"2002"	"2002"	"Other Digestive Organs"	"21130"	1033
+	"2002"	"2002"	"Respiratory System"	"22010-22060"	213481
+	"2002"	"2002"	"Nose, Nasal Cavity and Middle Ear"	"22010"	1997
+	"2002"	"2002"	"Larynx"	"22020"	11957
+	"2002"	"2002"	"Lung and Bronchus"	"22030"	198884
+	"2002"	"2002"	"Pleura"	"22050"	104
+	"2002"	"2002"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	539
+	"2002"	"2002"	"Bones and Joints"	"23000"	2793
+	"2002"	"2002"	"Soft Tissue including Heart"	"24000"	8591
+	"2002"	"2002"	"Skin excluding Basal and Squamous"	"25010-25020"	53961
+	"2002"	"2002"	"Melanoma of the Skin"	"25010"	49756
+	"2002"	"2002"	"Other Non-Epithelial Skin"	"25020"	4205
+	"2002"	"2002"	"Male and Female Breast"	"26000"	201824
+	"2002"	"2002"	"Female Breast"	"26000-Female"	200286
+	"2002"	"2002"	"Male Breast"	"26000-Male"	1538
+	"2002"	"2002"	"Female Genital System"	"27010-27070"	77655
+	"2002"	"2002"	"Cervix Uteri"	"27010"	12903
+	"2002"	"2002"	"Corpus Uteri"	"27020"	35969
+	"2002"	"2002"	"Uterus, NOS"	"27030"	1307
+	"2002"	"2002"	"Ovary"	"27040"	21485
+	"2002"	"2002"	"Vagina"	"27050"	1190
+	"2002"	"2002"	"Vulva"	"27060"	3746
+	"2002"	"2002"	"Other Female Genital Organs"	"27070"	1055
+	"2002"	"2002"	"Male Genital System"	"28010-28040"	223629
+	"2002"	"2002"	"Prostate"	"28010"	214847
+	"2002"	"2002"	"Testis"	"28020"	7410
+	"2002"	"2002"	"Penis"	"28030"	1100
+	"2002"	"2002"	"Other Male Genital Organs"	"28040"	272
+	"2002"	"2002"	"Urinary System"	"29010-29040"	103480
+	"2002"	"2002"	"Urinary Bladder, invasive and in situ"	"29010"	62023
+	"2002"	"2002"	"Kidney and Renal Pelvis"	"29020"	39091
+	"2002"	"2002"	"Ureter"	"29030"	1684
+	"2002"	"2002"	"Other Urinary Organs"	"29040"	682
+	"2002"	"2002"	"Eye and Orbit"	"30000"	2379
+	"2002"	"2002"	"Brain and Other Nervous System"	"31010-31040"	19483
+	"2002"	"2002"	"Brain"	"31010"	18175
+	"2002"	"2002"	"Cranial Nerves Other Nervous System"	"31040"	1308
+	"2002"	"2002"	"Endocrine System"	"32010-32020"	25993
+	"2002"	"2002"	"Thyroid"	"32010"	24016
+	"2002"	"2002"	"Other Endocrine including Thymus"	"32020"	1977
+	"2002"	"2002"	"Lymphomas"	"33011-33042"	63610
+	"2002"	"2002"	"Hodgkin Lymphoma"	"33011-33012"	8231
+	"2002"	"2002"	"Hodgkin - Nodal"	"33011"	7924
+	"2002"	"2002"	"Hodgkin - Extranodal"	"33012"	307
+	"2002"	"2002"	"Non-Hodgkin Lymphoma"	"33041-33042"	55379
+	"2002"	"2002"	"NHL - Nodal"	"33041"	38206
+	"2002"	"2002"	"NHL - Extranodal"	"33042"	17173
+	"2002"	"2002"	"Myeloma"	"34000"	16657
+	"2002"	"2002"	"Leukemias"	"35011-35043"	37056
+	"2002"	"2002"	"Acute Lymphocytic Leukemia"	"35011"	4140
+	"2002"	"2002"	"Chronic Lymphocytic Leukemia"	"35012"	13057
+	"2002"	"2002"	"Acute Myeloid Leukemia"	"35021"	10488
+	"2002"	"2002"	"Chronic Myeloid Leukemia"	"35022"	4380
+	"2002"	"2002"	"Other Leukemias"	"35041-35043"	4991
+	"2002"	"2002"	"Other Lymphocytic Leukemia"	"35013"	1300
+	"2002"	"2002"	"Acute Monocytic Leukemia"	"35031"	705
+	"2002"	"2002"	"Other Acute Leukemia"	"35041"	1056
+	"2002"	"2002"	"Aleukemic, Subleukemic and NOS"	"35043"	1395
+	"2002"	"2002"	"Other Myeloid/Monocytic Leukemia"	"35023"	535
+	"2002"	"2002"	"Mesothelioma"	"36010"	3095
+	"2002"	"2002"	"Kaposi Sarcoma"	"36020"	1368
+	"2002"	"2002"	"Miscellaneous"	"37000"	51520
+	"2002"	"2002"	"Male and Female Breast, In Situ"	"Breast-InSitu"	44565
+	"2002"	"2002"	"Female Breast, In Situ"	"Breast-InSitu-Female"	44367
+	"2002"	"2002"	"Male Breast, In Situ"	"Breast-InSitu-Male"	198
+	"2003"	"2003"	"All Invasive Cancer Sites Combined"	"0"	1405683
+	"2003"	"2003"	"Oral Cavity and Pharynx"	"20010-20100"	32141
+	"2003"	"2003"	"Lip"	"20010"	2216
+	"2003"	"2003"	"Tongue"	"20020"	8430
+	"2003"	"2003"	"Salivary Gland"	"20030"	3577
+	"2003"	"2003"	"Floor of Mouth"	"20040"	2101
+	"2003"	"2003"	"Gum and Other Mouth"	"20050"	4777
+	"2003"	"2003"	"Nasopharynx"	"20060"	1749
+	"2003"	"2003"	"Tonsil"	"20070"	4709
+	"2003"	"2003"	"Oropharynx"	"20080"	1401
+	"2003"	"2003"	"Hypopharynx"	"20090"	2379
+	"2003"	"2003"	"Other Oral Cavity and Pharynx"	"20100"	802
+	"2003"	"2003"	"Digestive System"	"21010-21130"	261748
+	"2003"	"2003"	"Esophagus"	"21010"	14703
+	"2003"	"2003"	"Stomach"	"21020"	21167
+	"2003"	"2003"	"Small Intestine"	"21030"	5492
+	"2003"	"2003"	"Colon and Rectum"	"21041-21052"	153870
+	"2003"	"2003"	"Colon excluding Rectum"	"21041-21049"	112483
+	"2003"	"2003"	"Cecum"	"21041"	24044
+	"2003"	"2003"	"Appendix"	"21042"	1738
+	"2003"	"2003"	"Ascending Colon"	"21043"	20769
+	"2003"	"2003"	"Hepatic Flexure"	"21044"	5764
+	"2003"	"2003"	"Transverse Colon"	"21045"	9782
+	"2003"	"2003"	"Splenic Flexure"	"21046"	3712
+	"2003"	"2003"	"Descending Colon"	"21047"	6397
+	"2003"	"2003"	"Sigmoid Colon"	"21048"	30731
+	"2003"	"2003"	"Large Intestine, NOS"	"21049"	9546
+	"2003"	"2003"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41387
+	"2003"	"2003"	"Rectosigmoid Junction"	"21051"	11844
+	"2003"	"2003"	"Rectum"	"21052"	29543
+	"2003"	"2003"	"Anus, Anal Canal and Anorectum"	"21060"	4512
+	"2003"	"2003"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	16284
+	"2003"	"2003"	"Liver"	"21071"	14677
+	"2003"	"2003"	"Intrahepatic Bile Duct"	"21072"	1607
+	"2003"	"2003"	"Gallbladder"	"21080"	3331
+	"2003"	"2003"	"Other Biliary"	"21090"	4841
+	"2003"	"2003"	"Pancreas"	"21100"	33530
+	"2003"	"2003"	"Retroperitoneum"	"21110"	1127
+	"2003"	"2003"	"Peritoneum, Omentum and Mesentery"	"21120"	1780
+	"2003"	"2003"	"Other Digestive Organs"	"21130"	1111
+	"2003"	"2003"	"Respiratory System"	"22010-22060"	220042
+	"2003"	"2003"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2001
+	"2003"	"2003"	"Larynx"	"22020"	12298
+	"2003"	"2003"	"Lung and Bronchus"	"22030"	205063
+	"2003"	"2003"	"Pleura"	"22050"	96
+	"2003"	"2003"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	584
+	"2003"	"2003"	"Bones and Joints"	"23000"	2747
+	"2003"	"2003"	"Soft Tissue including Heart"	"24000"	9047
+	"2003"	"2003"	"Skin excluding Basal and Squamous"	"25010-25020"	54620
+	"2003"	"2003"	"Melanoma of the Skin"	"25010"	50283
+	"2003"	"2003"	"Other Non-Epithelial Skin"	"25020"	4337
+	"2003"	"2003"	"Male and Female Breast"	"26000"	196854
+	"2003"	"2003"	"Female Breast"	"26000-Female"	195191
+	"2003"	"2003"	"Male Breast"	"26000-Male"	1663
+	"2003"	"2003"	"Female Genital System"	"27010-27070"	77591
+	"2003"	"2003"	"Cervix Uteri"	"27010"	12696
+	"2003"	"2003"	"Corpus Uteri"	"27020"	35784
+	"2003"	"2003"	"Uterus, NOS"	"27030"	1323
+	"2003"	"2003"	"Ovary"	"27040"	21759
+	"2003"	"2003"	"Vagina"	"27050"	1153
+	"2003"	"2003"	"Vulva"	"27060"	3822
+	"2003"	"2003"	"Other Female Genital Organs"	"27070"	1054
+	"2003"	"2003"	"Male Genital System"	"28010-28040"	213051
+	"2003"	"2003"	"Prostate"	"28010"	203848
+	"2003"	"2003"	"Testis"	"28020"	7762
+	"2003"	"2003"	"Penis"	"28030"	1141
+	"2003"	"2003"	"Other Male Genital Organs"	"28040"	300
+	"2003"	"2003"	"Urinary System"	"29010-29040"	108070
+	"2003"	"2003"	"Urinary Bladder, invasive and in situ"	"29010"	63713
+	"2003"	"2003"	"Kidney and Renal Pelvis"	"29020"	41921
+	"2003"	"2003"	"Ureter"	"29030"	1685
+	"2003"	"2003"	"Other Urinary Organs"	"29040"	751
+	"2003"	"2003"	"Eye and Orbit"	"30000"	2588
+	"2003"	"2003"	"Brain and Other Nervous System"	"31010-31040"	19906
+	"2003"	"2003"	"Brain"	"31010"	18424
+	"2003"	"2003"	"Cranial Nerves Other Nervous System"	"31040"	1482
+	"2003"	"2003"	"Endocrine System"	"32010-32020"	27882
+	"2003"	"2003"	"Thyroid"	"32010"	25756
+	"2003"	"2003"	"Other Endocrine including Thymus"	"32020"	2126
+	"2003"	"2003"	"Lymphomas"	"33011-33042"	65629
+	"2003"	"2003"	"Hodgkin Lymphoma"	"33011-33012"	8230
+	"2003"	"2003"	"Hodgkin - Nodal"	"33011"	7939
+	"2003"	"2003"	"Hodgkin - Extranodal"	"33012"	291
+	"2003"	"2003"	"Non-Hodgkin Lymphoma"	"33041-33042"	57399
+	"2003"	"2003"	"NHL - Nodal"	"33041"	39311
+	"2003"	"2003"	"NHL - Extranodal"	"33042"	18088
+	"2003"	"2003"	"Myeloma"	"34000"	17265
+	"2003"	"2003"	"Leukemias"	"35011-35043"	38974
+	"2003"	"2003"	"Acute Lymphocytic Leukemia"	"35011"	4246
+	"2003"	"2003"	"Chronic Lymphocytic Leukemia"	"35012"	13857
+	"2003"	"2003"	"Acute Myeloid Leukemia"	"35021"	10901
+	"2003"	"2003"	"Chronic Myeloid Leukemia"	"35022"	4682
+	"2003"	"2003"	"Other Leukemias"	"35041-35043"	5288
+	"2003"	"2003"	"Other Lymphocytic Leukemia"	"35013"	1415
+	"2003"	"2003"	"Acute Monocytic Leukemia"	"35031"	767
+	"2003"	"2003"	"Other Acute Leukemia"	"35041"	970
+	"2003"	"2003"	"Aleukemic, Subleukemic and NOS"	"35043"	1493
+	"2003"	"2003"	"Other Myeloid/Monocytic Leukemia"	"35023"	643
+	"2003"	"2003"	"Mesothelioma"	"36010"	3138
+	"2003"	"2003"	"Kaposi Sarcoma"	"36020"	1427
+	"2003"	"2003"	"Miscellaneous"	"37000"	52963
+	"2003"	"2003"	"Male and Female Breast, In Situ"	"Breast-InSitu"	45315
+	"2003"	"2003"	"Female Breast, In Situ"	"Breast-InSitu-Female"	45102
+	"2003"	"2003"	"Male Breast, In Situ"	"Breast-InSitu-Male"	213
+	"2004"	"2004"	"All Invasive Cancer Sites Combined"	"0"	1428206
+	"2004"	"2004"	"Oral Cavity and Pharynx"	"20010-20100"	32599
+	"2004"	"2004"	"Lip"	"20010"	2124
+	"2004"	"2004"	"Tongue"	"20020"	8779
+	"2004"	"2004"	"Salivary Gland"	"20030"	3627
+	"2004"	"2004"	"Floor of Mouth"	"20040"	2093
+	"2004"	"2004"	"Gum and Other Mouth"	"20050"	4714
+	"2004"	"2004"	"Nasopharynx"	"20060"	1664
+	"2004"	"2004"	"Tonsil"	"20070"	5015
+	"2004"	"2004"	"Oropharynx"	"20080"	1423
+	"2004"	"2004"	"Hypopharynx"	"20090"	2355
+	"2004"	"2004"	"Other Oral Cavity and Pharynx"	"20100"	805
+	"2004"	"2004"	"Digestive System"	"21010-21130"	263392
+	"2004"	"2004"	"Esophagus"	"21010"	15300
+	"2004"	"2004"	"Stomach"	"21020"	21075
+	"2004"	"2004"	"Small Intestine"	"21030"	5852
+	"2004"	"2004"	"Colon and Rectum"	"21041-21052"	152044
+	"2004"	"2004"	"Colon excluding Rectum"	"21041-21049"	110768
+	"2004"	"2004"	"Cecum"	"21041"	23750
+	"2004"	"2004"	"Appendix"	"21042"	1881
+	"2004"	"2004"	"Ascending Colon"	"21043"	20806
+	"2004"	"2004"	"Hepatic Flexure"	"21044"	5583
+	"2004"	"2004"	"Transverse Colon"	"21045"	9558
+	"2004"	"2004"	"Splenic Flexure"	"21046"	3670
+	"2004"	"2004"	"Descending Colon"	"21047"	6435
+	"2004"	"2004"	"Sigmoid Colon"	"21048"	30313
+	"2004"	"2004"	"Large Intestine, NOS"	"21049"	8772
+	"2004"	"2004"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41276
+	"2004"	"2004"	"Rectosigmoid Junction"	"21051"	11696
+	"2004"	"2004"	"Rectum"	"21052"	29580
+	"2004"	"2004"	"Anus, Anal Canal and Anorectum"	"21060"	4676
+	"2004"	"2004"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	17599
+	"2004"	"2004"	"Liver"	"21071"	15925
+	"2004"	"2004"	"Intrahepatic Bile Duct"	"21072"	1674
+	"2004"	"2004"	"Gallbladder"	"21080"	3355
+	"2004"	"2004"	"Other Biliary"	"21090"	4952
+	"2004"	"2004"	"Pancreas"	"21100"	34360
+	"2004"	"2004"	"Retroperitoneum"	"21110"	1134
+	"2004"	"2004"	"Peritoneum, Omentum and Mesentery"	"21120"	1927
+	"2004"	"2004"	"Other Digestive Organs"	"21130"	1118
+	"2004"	"2004"	"Respiratory System"	"22010-22060"	221657
+	"2004"	"2004"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2100
+	"2004"	"2004"	"Larynx"	"22020"	12606
+	"2004"	"2004"	"Lung and Bronchus"	"22030"	206228
+	"2004"	"2004"	"Pleura"	"22050"	103
+	"2004"	"2004"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	620
+	"2004"	"2004"	"Bones and Joints"	"23000"	2855
+	"2004"	"2004"	"Soft Tissue including Heart"	"24000"	9487
+	"2004"	"2004"	"Skin excluding Basal and Squamous"	"25010-25020"	58612
+	"2004"	"2004"	"Melanoma of the Skin"	"25010"	54111
+	"2004"	"2004"	"Other Non-Epithelial Skin"	"25020"	4501
+	"2004"	"2004"	"Male and Female Breast"	"26000"	197955
+	"2004"	"2004"	"Female Breast"	"26000-Female"	196264
+	"2004"	"2004"	"Male Breast"	"26000-Male"	1691
+	"2004"	"2004"	"Female Genital System"	"27010-27070"	78618
+	"2004"	"2004"	"Cervix Uteri"	"27010"	12489
+	"2004"	"2004"	"Corpus Uteri"	"27020"	37334
+	"2004"	"2004"	"Uterus, NOS"	"27030"	1256
+	"2004"	"2004"	"Ovary"	"27040"	21355
+	"2004"	"2004"	"Vagina"	"27050"	1193
+	"2004"	"2004"	"Vulva"	"27060"	3882
+	"2004"	"2004"	"Other Female Genital Organs"	"27070"	1109
+	"2004"	"2004"	"Male Genital System"	"28010-28040"	212551
+	"2004"	"2004"	"Prostate"	"28010"	203300
+	"2004"	"2004"	"Testis"	"28020"	7888
+	"2004"	"2004"	"Penis"	"28030"	1074
+	"2004"	"2004"	"Other Male Genital Organs"	"28040"	289
+	"2004"	"2004"	"Urinary System"	"29010-29040"	112007
+	"2004"	"2004"	"Urinary Bladder, invasive and in situ"	"29010"	65450
+	"2004"	"2004"	"Kidney and Renal Pelvis"	"29020"	44072
+	"2004"	"2004"	"Ureter"	"29030"	1718
+	"2004"	"2004"	"Other Urinary Organs"	"29040"	767
+	"2004"	"2004"	"Eye and Orbit"	"30000"	2628
+	"2004"	"2004"	"Brain and Other Nervous System"	"31010-31040"	20505
+	"2004"	"2004"	"Brain"	"31010"	19018
+	"2004"	"2004"	"Cranial Nerves Other Nervous System"	"31040"	1487
+	"2004"	"2004"	"Endocrine System"	"32010-32020"	30524
+	"2004"	"2004"	"Thyroid"	"32010"	28248
+	"2004"	"2004"	"Other Endocrine including Thymus"	"32020"	2276
+	"2004"	"2004"	"Lymphomas"	"33011-33042"	67812
+	"2004"	"2004"	"Hodgkin Lymphoma"	"33011-33012"	8360
+	"2004"	"2004"	"Hodgkin - Nodal"	"33011"	8075
+	"2004"	"2004"	"Hodgkin - Extranodal"	"33012"	285
+	"2004"	"2004"	"Non-Hodgkin Lymphoma"	"33041-33042"	59452
+	"2004"	"2004"	"NHL - Nodal"	"33041"	41222
+	"2004"	"2004"	"NHL - Extranodal"	"33042"	18230
+	"2004"	"2004"	"Myeloma"	"34000"	18087
+	"2004"	"2004"	"Leukemias"	"35011-35043"	39870
+	"2004"	"2004"	"Acute Lymphocytic Leukemia"	"35011"	4456
+	"2004"	"2004"	"Chronic Lymphocytic Leukemia"	"35012"	14499
+	"2004"	"2004"	"Acute Myeloid Leukemia"	"35021"	10965
+	"2004"	"2004"	"Chronic Myeloid Leukemia"	"35022"	4789
+	"2004"	"2004"	"Other Leukemias"	"35041-35043"	5161
+	"2004"	"2004"	"Other Lymphocytic Leukemia"	"35013"	1409
+	"2004"	"2004"	"Acute Monocytic Leukemia"	"35031"	783
+	"2004"	"2004"	"Other Acute Leukemia"	"35041"	934
+	"2004"	"2004"	"Aleukemic, Subleukemic and NOS"	"35043"	1491
+	"2004"	"2004"	"Other Myeloid/Monocytic Leukemia"	"35023"	544
+	"2004"	"2004"	"Mesothelioma"	"36010"	3195
+	"2004"	"2004"	"Kaposi Sarcoma"	"36020"	1398
+	"2004"	"2004"	"Miscellaneous"	"37000"	54454
+	"2004"	"2004"	"Male and Female Breast, In Situ"	"Breast-InSitu"	46381
+	"2004"	"2004"	"Female Breast, In Situ"	"Breast-InSitu-Female"	46193
+	"2004"	"2004"	"Male Breast, In Situ"	"Breast-InSitu-Male"	188
+	"2005"	"2005"	"All Invasive Cancer Sites Combined"	"0"	1468216
+	"2005"	"2005"	"Oral Cavity and Pharynx"	"20010-20100"	33483
+	"2005"	"2005"	"Lip"	"20010"	2062
+	"2005"	"2005"	"Tongue"	"20020"	9098
+	"2005"	"2005"	"Salivary Gland"	"20030"	3807
+	"2005"	"2005"	"Floor of Mouth"	"20040"	2040
+	"2005"	"2005"	"Gum and Other Mouth"	"20050"	4823
+	"2005"	"2005"	"Nasopharynx"	"20060"	1775
+	"2005"	"2005"	"Tonsil"	"20070"	5258
+	"2005"	"2005"	"Oropharynx"	"20080"	1460
+	"2005"	"2005"	"Hypopharynx"	"20090"	2351
+	"2005"	"2005"	"Other Oral Cavity and Pharynx"	"20100"	809
+	"2005"	"2005"	"Digestive System"	"21010-21130"	267569
+	"2005"	"2005"	"Esophagus"	"21010"	15400
+	"2005"	"2005"	"Stomach"	"21020"	21184
+	"2005"	"2005"	"Small Intestine"	"21030"	6101
+	"2005"	"2005"	"Colon and Rectum"	"21041-21052"	152431
+	"2005"	"2005"	"Colon excluding Rectum"	"21041-21049"	110576
+	"2005"	"2005"	"Cecum"	"21041"	23783
+	"2005"	"2005"	"Appendix"	"21042"	2009
+	"2005"	"2005"	"Ascending Colon"	"21043"	20947
+	"2005"	"2005"	"Hepatic Flexure"	"21044"	5394
+	"2005"	"2005"	"Transverse Colon"	"21045"	9642
+	"2005"	"2005"	"Splenic Flexure"	"21046"	3581
+	"2005"	"2005"	"Descending Colon"	"21047"	6308
+	"2005"	"2005"	"Sigmoid Colon"	"21048"	29747
+	"2005"	"2005"	"Large Intestine, NOS"	"21049"	9165
+	"2005"	"2005"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41855
+	"2005"	"2005"	"Rectosigmoid Junction"	"21051"	11671
+	"2005"	"2005"	"Rectum"	"21052"	30184
+	"2005"	"2005"	"Anus, Anal Canal and Anorectum"	"21060"	4940
+	"2005"	"2005"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	18924
+	"2005"	"2005"	"Liver"	"21071"	17202
+	"2005"	"2005"	"Intrahepatic Bile Duct"	"21072"	1722
+	"2005"	"2005"	"Gallbladder"	"21080"	3473
+	"2005"	"2005"	"Other Biliary"	"21090"	5020
+	"2005"	"2005"	"Pancreas"	"21100"	35791
+	"2005"	"2005"	"Retroperitoneum"	"21110"	1195
+	"2005"	"2005"	"Peritoneum, Omentum and Mesentery"	"21120"	1939
+	"2005"	"2005"	"Other Digestive Organs"	"21130"	1171
+	"2005"	"2005"	"Respiratory System"	"22010-22060"	226903
+	"2005"	"2005"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2193
+	"2005"	"2005"	"Larynx"	"22020"	12720
+	"2005"	"2005"	"Lung and Bronchus"	"22030"	211275
+	"2005"	"2005"	"Pleura"	"22050"	108
+	"2005"	"2005"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	607
+	"2005"	"2005"	"Bones and Joints"	"23000"	3013
+	"2005"	"2005"	"Soft Tissue including Heart"	"24000"	9868
+	"2005"	"2005"	"Skin excluding Basal and Squamous"	"25010-25020"	63456
+	"2005"	"2005"	"Melanoma of the Skin"	"25010"	58761
+	"2005"	"2005"	"Other Non-Epithelial Skin"	"25020"	4695
+	"2005"	"2005"	"Male and Female Breast"	"26000"	202704
+	"2005"	"2005"	"Female Breast"	"26000-Female"	201030
+	"2005"	"2005"	"Male Breast"	"26000-Male"	1674
+	"2005"	"2005"	"Female Genital System"	"27010-27070"	81319
+	"2005"	"2005"	"Cervix Uteri"	"27010"	12981
+	"2005"	"2005"	"Corpus Uteri"	"27020"	38834
+	"2005"	"2005"	"Uterus, NOS"	"27030"	1315
+	"2005"	"2005"	"Ovary"	"27040"	21815
+	"2005"	"2005"	"Vagina"	"27050"	1138
+	"2005"	"2005"	"Vulva"	"27060"	4063
+	"2005"	"2005"	"Other Female Genital Organs"	"27070"	1173
+	"2005"	"2005"	"Male Genital System"	"28010-28040"	217860
+	"2005"	"2005"	"Prostate"	"28010"	208226
+	"2005"	"2005"	"Testis"	"28020"	8182
+	"2005"	"2005"	"Penis"	"28030"	1136
+	"2005"	"2005"	"Other Male Genital Organs"	"28040"	316
+	"2005"	"2005"	"Urinary System"	"29010-29040"	116108
+	"2005"	"2005"	"Urinary Bladder, invasive and in situ"	"29010"	66869
+	"2005"	"2005"	"Kidney and Renal Pelvis"	"29020"	46662
+	"2005"	"2005"	"Ureter"	"29030"	1767
+	"2005"	"2005"	"Other Urinary Organs"	"29040"	810
+	"2005"	"2005"	"Eye and Orbit"	"30000"	2658
+	"2005"	"2005"	"Brain and Other Nervous System"	"31010-31040"	20746
+	"2005"	"2005"	"Brain"	"31010"	19269
+	"2005"	"2005"	"Cranial Nerves Other Nervous System"	"31040"	1477
+	"2005"	"2005"	"Endocrine System"	"32010-32020"	33714
+	"2005"	"2005"	"Thyroid"	"32010"	31440
+	"2005"	"2005"	"Other Endocrine including Thymus"	"32020"	2274
+	"2005"	"2005"	"Lymphomas"	"33011-33042"	69390
+	"2005"	"2005"	"Hodgkin Lymphoma"	"33011-33012"	8699
+	"2005"	"2005"	"Hodgkin - Nodal"	"33011"	8349
+	"2005"	"2005"	"Hodgkin - Extranodal"	"33012"	350
+	"2005"	"2005"	"Non-Hodgkin Lymphoma"	"33041-33042"	60691
+	"2005"	"2005"	"NHL - Nodal"	"33041"	41869
+	"2005"	"2005"	"NHL - Extranodal"	"33042"	18822
+	"2005"	"2005"	"Myeloma"	"34000"	18575
+	"2005"	"2005"	"Leukemias"	"35011-35043"	40336
+	"2005"	"2005"	"Acute Lymphocytic Leukemia"	"35011"	4414
+	"2005"	"2005"	"Chronic Lymphocytic Leukemia"	"35012"	15008
+	"2005"	"2005"	"Acute Myeloid Leukemia"	"35021"	10866
+	"2005"	"2005"	"Chronic Myeloid Leukemia"	"35022"	4758
+	"2005"	"2005"	"Other Leukemias"	"35041-35043"	5290
+	"2005"	"2005"	"Other Lymphocytic Leukemia"	"35013"	1440
+	"2005"	"2005"	"Acute Monocytic Leukemia"	"35031"	773
+	"2005"	"2005"	"Other Acute Leukemia"	"35041"	938
+	"2005"	"2005"	"Aleukemic, Subleukemic and NOS"	"35043"	1571
+	"2005"	"2005"	"Other Myeloid/Monocytic Leukemia"	"35023"	568
+	"2005"	"2005"	"Mesothelioma"	"36010"	3297
+	"2005"	"2005"	"Kaposi Sarcoma"	"36020"	1454
+	"2005"	"2005"	"Miscellaneous"	"37000"	55763
+	"2005"	"2005"	"Male and Female Breast, In Situ"	"Breast-InSitu"	47278
+	"2005"	"2005"	"Female Breast, In Situ"	"Breast-InSitu-Female"	47072
+	"2005"	"2005"	"Male Breast, In Situ"	"Breast-InSitu-Male"	206
+	"2006"	"2006"	"All Invasive Cancer Sites Combined"	"0"	1503929
+	"2006"	"2006"	"Oral Cavity and Pharynx"	"20010-20100"	34575
+	"2006"	"2006"	"Lip"	"20010"	2089
+	"2006"	"2006"	"Tongue"	"20020"	9555
+	"2006"	"2006"	"Salivary Gland"	"20030"	3950
+	"2006"	"2006"	"Floor of Mouth"	"20040"	2146
+	"2006"	"2006"	"Gum and Other Mouth"	"20050"	4849
+	"2006"	"2006"	"Nasopharynx"	"20060"	1717
+	"2006"	"2006"	"Tonsil"	"20070"	5598
+	"2006"	"2006"	"Oropharynx"	"20080"	1577
+	"2006"	"2006"	"Hypopharynx"	"20090"	2282
+	"2006"	"2006"	"Other Oral Cavity and Pharynx"	"20100"	812
+	"2006"	"2006"	"Digestive System"	"21010-21130"	269751
+	"2006"	"2006"	"Esophagus"	"21010"	15875
+	"2006"	"2006"	"Stomach"	"21020"	21333
+	"2006"	"2006"	"Small Intestine"	"21030"	6547
+	"2006"	"2006"	"Colon and Rectum"	"21041-21052"	150675
+	"2006"	"2006"	"Colon excluding Rectum"	"21041-21049"	109502
+	"2006"	"2006"	"Cecum"	"21041"	23594
+	"2006"	"2006"	"Appendix"	"21042"	2243
+	"2006"	"2006"	"Ascending Colon"	"21043"	20562
+	"2006"	"2006"	"Hepatic Flexure"	"21044"	5621
+	"2006"	"2006"	"Transverse Colon"	"21045"	9602
+	"2006"	"2006"	"Splenic Flexure"	"21046"	3447
+	"2006"	"2006"	"Descending Colon"	"21047"	6242
+	"2006"	"2006"	"Sigmoid Colon"	"21048"	29392
+	"2006"	"2006"	"Large Intestine, NOS"	"21049"	8799
+	"2006"	"2006"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41173
+	"2006"	"2006"	"Rectosigmoid Junction"	"21051"	11201
+	"2006"	"2006"	"Rectum"	"21052"	29972
+	"2006"	"2006"	"Anus, Anal Canal and Anorectum"	"21060"	4972
+	"2006"	"2006"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	20130
+	"2006"	"2006"	"Liver"	"21071"	18319
+	"2006"	"2006"	"Intrahepatic Bile Duct"	"21072"	1811
+	"2006"	"2006"	"Gallbladder"	"21080"	3533
+	"2006"	"2006"	"Other Biliary"	"21090"	5220
+	"2006"	"2006"	"Pancreas"	"21100"	37097
+	"2006"	"2006"	"Retroperitoneum"	"21110"	1176
+	"2006"	"2006"	"Peritoneum, Omentum and Mesentery"	"21120"	1876
+	"2006"	"2006"	"Other Digestive Organs"	"21130"	1317
+	"2006"	"2006"	"Respiratory System"	"22010-22060"	227869
+	"2006"	"2006"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2167
+	"2006"	"2006"	"Larynx"	"22020"	12712
+	"2006"	"2006"	"Lung and Bronchus"	"22030"	212304
+	"2006"	"2006"	"Pleura"	"22050"	95
+	"2006"	"2006"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	591
+	"2006"	"2006"	"Bones and Joints"	"23000"	2933
+	"2006"	"2006"	"Soft Tissue including Heart"	"24000"	9731
+	"2006"	"2006"	"Skin excluding Basal and Squamous"	"25010-25020"	63838
+	"2006"	"2006"	"Melanoma of the Skin"	"25010"	59109
+	"2006"	"2006"	"Other Non-Epithelial Skin"	"25020"	4729
+	"2006"	"2006"	"Male and Female Breast"	"26000"	207113
+	"2006"	"2006"	"Female Breast"	"26000-Female"	205404
+	"2006"	"2006"	"Male Breast"	"26000-Male"	1709
+	"2006"	"2006"	"Female Genital System"	"27010-27070"	82624
+	"2006"	"2006"	"Cervix Uteri"	"27010"	12901
+	"2006"	"2006"	"Corpus Uteri"	"27020"	39975
+	"2006"	"2006"	"Uterus, NOS"	"27030"	1284
+	"2006"	"2006"	"Ovary"	"27040"	21944
+	"2006"	"2006"	"Vagina"	"27050"	1193
+	"2006"	"2006"	"Vulva"	"27060"	4140
+	"2006"	"2006"	"Other Female Genital Organs"	"27070"	1187
+	"2006"	"2006"	"Male Genital System"	"28010-28040"	236858
+	"2006"	"2006"	"Prostate"	"28010"	227433
+	"2006"	"2006"	"Testis"	"28020"	7933
+	"2006"	"2006"	"Penis"	"28030"	1166
+	"2006"	"2006"	"Other Male Genital Organs"	"28040"	326
+	"2006"	"2006"	"Urinary System"	"29010-29040"	117831
+	"2006"	"2006"	"Urinary Bladder, invasive and in situ"	"29010"	65996
+	"2006"	"2006"	"Kidney and Renal Pelvis"	"29020"	49119
+	"2006"	"2006"	"Ureter"	"29030"	1871
+	"2006"	"2006"	"Other Urinary Organs"	"29040"	845
+	"2006"	"2006"	"Eye and Orbit"	"30000"	2715
+	"2006"	"2006"	"Brain and Other Nervous System"	"31010-31040"	20965
+	"2006"	"2006"	"Brain"	"31010"	19610
+	"2006"	"2006"	"Cranial Nerves Other Nervous System"	"31040"	1355
+	"2006"	"2006"	"Endocrine System"	"32010-32020"	36280
+	"2006"	"2006"	"Thyroid"	"32010"	33976
+	"2006"	"2006"	"Other Endocrine including Thymus"	"32020"	2304
+	"2006"	"2006"	"Lymphomas"	"33011-33042"	69649
+	"2006"	"2006"	"Hodgkin Lymphoma"	"33011-33012"	8598
+	"2006"	"2006"	"Hodgkin - Nodal"	"33011"	8286
+	"2006"	"2006"	"Hodgkin - Extranodal"	"33012"	312
+	"2006"	"2006"	"Non-Hodgkin Lymphoma"	"33041-33042"	61051
+	"2006"	"2006"	"NHL - Nodal"	"33041"	42128
+	"2006"	"2006"	"NHL - Extranodal"	"33042"	18923
+	"2006"	"2006"	"Myeloma"	"34000"	18792
+	"2006"	"2006"	"Leukemias"	"35011-35043"	41466
+	"2006"	"2006"	"Acute Lymphocytic Leukemia"	"35011"	4613
+	"2006"	"2006"	"Chronic Lymphocytic Leukemia"	"35012"	15325
+	"2006"	"2006"	"Acute Myeloid Leukemia"	"35021"	11188
+	"2006"	"2006"	"Chronic Myeloid Leukemia"	"35022"	5085
+	"2006"	"2006"	"Other Leukemias"	"35041-35043"	5255
+	"2006"	"2006"	"Other Lymphocytic Leukemia"	"35013"	1389
+	"2006"	"2006"	"Acute Monocytic Leukemia"	"35031"	773
+	"2006"	"2006"	"Other Acute Leukemia"	"35041"	879
+	"2006"	"2006"	"Aleukemic, Subleukemic and NOS"	"35043"	1618
+	"2006"	"2006"	"Other Myeloid/Monocytic Leukemia"	"35023"	596
+	"2006"	"2006"	"Mesothelioma"	"36010"	3213
+	"2006"	"2006"	"Kaposi Sarcoma"	"36020"	1346
+	"2006"	"2006"	"Miscellaneous"	"37000"	56380
+	"2006"	"2006"	"Male and Female Breast, In Situ"	"Breast-InSitu"	49231
+	"2006"	"2006"	"Female Breast, In Situ"	"Breast-InSitu-Female"	49032
+	"2006"	"2006"	"Male Breast, In Situ"	"Breast-InSitu-Male"	199
+	"2007"	"2007"	"All Invasive Cancer Sites Combined"	"0"	1549324
+	"2007"	"2007"	"Oral Cavity and Pharynx"	"20010-20100"	36242
+	"2007"	"2007"	"Lip"	"20010"	2074
+	"2007"	"2007"	"Tongue"	"20020"	10329
+	"2007"	"2007"	"Salivary Gland"	"20030"	4000
+	"2007"	"2007"	"Floor of Mouth"	"20040"	2113
+	"2007"	"2007"	"Gum and Other Mouth"	"20050"	5076
+	"2007"	"2007"	"Nasopharynx"	"20060"	1867
+	"2007"	"2007"	"Tonsil"	"20070"	5890
+	"2007"	"2007"	"Oropharynx"	"20080"	1588
+	"2007"	"2007"	"Hypopharynx"	"20090"	2391
+	"2007"	"2007"	"Other Oral Cavity and Pharynx"	"20100"	914
+	"2007"	"2007"	"Digestive System"	"21010-21130"	273302
+	"2007"	"2007"	"Esophagus"	"21010"	15913
+	"2007"	"2007"	"Stomach"	"21020"	21720
+	"2007"	"2007"	"Small Intestine"	"21030"	6792
+	"2007"	"2007"	"Colon and Rectum"	"21041-21052"	150174
+	"2007"	"2007"	"Colon excluding Rectum"	"21041-21049"	108739
+	"2007"	"2007"	"Cecum"	"21041"	23445
+	"2007"	"2007"	"Appendix"	"21042"	2271
+	"2007"	"2007"	"Ascending Colon"	"21043"	20650
+	"2007"	"2007"	"Hepatic Flexure"	"21044"	5379
+	"2007"	"2007"	"Transverse Colon"	"21045"	9781
+	"2007"	"2007"	"Splenic Flexure"	"21046"	3456
+	"2007"	"2007"	"Descending Colon"	"21047"	6268
+	"2007"	"2007"	"Sigmoid Colon"	"21048"	29051
+	"2007"	"2007"	"Large Intestine, NOS"	"21049"	8438
+	"2007"	"2007"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41435
+	"2007"	"2007"	"Rectosigmoid Junction"	"21051"	11157
+	"2007"	"2007"	"Rectum"	"21052"	30278
+	"2007"	"2007"	"Anus, Anal Canal and Anorectum"	"21060"	5467
+	"2007"	"2007"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	21871
+	"2007"	"2007"	"Liver"	"21071"	19950
+	"2007"	"2007"	"Intrahepatic Bile Duct"	"21072"	1921
+	"2007"	"2007"	"Gallbladder"	"21080"	3590
+	"2007"	"2007"	"Other Biliary"	"21090"	5244
+	"2007"	"2007"	"Pancreas"	"21100"	38034
+	"2007"	"2007"	"Retroperitoneum"	"21110"	1203
+	"2007"	"2007"	"Peritoneum, Omentum and Mesentery"	"21120"	2005
+	"2007"	"2007"	"Other Digestive Organs"	"21130"	1289
+	"2007"	"2007"	"Respiratory System"	"22010-22060"	229879
+	"2007"	"2007"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2303
+	"2007"	"2007"	"Larynx"	"22020"	12833
+	"2007"	"2007"	"Lung and Bronchus"	"22030"	214026
+	"2007"	"2007"	"Pleura"	"22050"	105
+	"2007"	"2007"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	612
+	"2007"	"2007"	"Bones and Joints"	"23000"	3031
+	"2007"	"2007"	"Soft Tissue including Heart"	"24000"	10305
+	"2007"	"2007"	"Skin excluding Basal and Squamous"	"25010-25020"	66627
+	"2007"	"2007"	"Melanoma of the Skin"	"25010"	61549
+	"2007"	"2007"	"Other Non-Epithelial Skin"	"25020"	5078
+	"2007"	"2007"	"Male and Female Breast"	"26000"	213762
+	"2007"	"2007"	"Female Breast"	"26000-Female"	211939
+	"2007"	"2007"	"Male Breast"	"26000-Male"	1823
+	"2007"	"2007"	"Female Genital System"	"27010-27070"	84589
+	"2007"	"2007"	"Cervix Uteri"	"27010"	12923
+	"2007"	"2007"	"Corpus Uteri"	"27020"	41419
+	"2007"	"2007"	"Uterus, NOS"	"27030"	1300
+	"2007"	"2007"	"Ovary"	"27040"	21955
+	"2007"	"2007"	"Vagina"	"27050"	1222
+	"2007"	"2007"	"Vulva"	"27060"	4389
+	"2007"	"2007"	"Other Female Genital Organs"	"27070"	1381
+	"2007"	"2007"	"Male Genital System"	"28010-28040"	251112
+	"2007"	"2007"	"Prostate"	"28010"	241424
+	"2007"	"2007"	"Testis"	"28020"	8123
+	"2007"	"2007"	"Penis"	"28030"	1260
+	"2007"	"2007"	"Other Male Genital Organs"	"28040"	305
+	"2007"	"2007"	"Urinary System"	"29010-29040"	121924
+	"2007"	"2007"	"Urinary Bladder, invasive and in situ"	"29010"	68061
+	"2007"	"2007"	"Kidney and Renal Pelvis"	"29020"	51149
+	"2007"	"2007"	"Ureter"	"29030"	1802
+	"2007"	"2007"	"Other Urinary Organs"	"29040"	912
+	"2007"	"2007"	"Eye and Orbit"	"30000"	2804
+	"2007"	"2007"	"Brain and Other Nervous System"	"31010-31040"	21451
+	"2007"	"2007"	"Brain"	"31010"	19995
+	"2007"	"2007"	"Cranial Nerves Other Nervous System"	"31040"	1456
+	"2007"	"2007"	"Endocrine System"	"32010-32020"	39524
+	"2007"	"2007"	"Thyroid"	"32010"	37140
+	"2007"	"2007"	"Other Endocrine including Thymus"	"32020"	2384
+	"2007"	"2007"	"Lymphomas"	"33011-33042"	71243
+	"2007"	"2007"	"Hodgkin Lymphoma"	"33011-33012"	8727
+	"2007"	"2007"	"Hodgkin - Nodal"	"33011"	8417
+	"2007"	"2007"	"Hodgkin - Extranodal"	"33012"	310
+	"2007"	"2007"	"Non-Hodgkin Lymphoma"	"33041-33042"	62516
+	"2007"	"2007"	"NHL - Nodal"	"33041"	43297
+	"2007"	"2007"	"NHL - Extranodal"	"33042"	19219
+	"2007"	"2007"	"Myeloma"	"34000"	19055
+	"2007"	"2007"	"Leukemias"	"35011-35043"	41833
+	"2007"	"2007"	"Acute Lymphocytic Leukemia"	"35011"	4757
+	"2007"	"2007"	"Chronic Lymphocytic Leukemia"	"35012"	15003
+	"2007"	"2007"	"Acute Myeloid Leukemia"	"35021"	11336
+	"2007"	"2007"	"Chronic Myeloid Leukemia"	"35022"	5130
+	"2007"	"2007"	"Other Leukemias"	"35041-35043"	5607
+	"2007"	"2007"	"Other Lymphocytic Leukemia"	"35013"	1403
+	"2007"	"2007"	"Acute Monocytic Leukemia"	"35031"	937
+	"2007"	"2007"	"Other Acute Leukemia"	"35041"	872
+	"2007"	"2007"	"Aleukemic, Subleukemic and NOS"	"35043"	1811
+	"2007"	"2007"	"Other Myeloid/Monocytic Leukemia"	"35023"	584
+	"2007"	"2007"	"Mesothelioma"	"36010"	3198
+	"2007"	"2007"	"Kaposi Sarcoma"	"36020"	1395
+	"2007"	"2007"	"Miscellaneous"	"37000"	58048
+	"2007"	"2007"	"Male and Female Breast, In Situ"	"Breast-InSitu"	52596
+	"2007"	"2007"	"Female Breast, In Situ"	"Breast-InSitu-Female"	52345
+	"2007"	"2007"	"Male Breast, In Situ"	"Breast-InSitu-Male"	251
+	"2008"	"2008"	"All Invasive Cancer Sites Combined"	"0"	1569045
+	"2008"	"2008"	"Oral Cavity and Pharynx"	"20010-20100"	37832
+	"2008"	"2008"	"Lip"	"20010"	2059
+	"2008"	"2008"	"Tongue"	"20020"	11121
+	"2008"	"2008"	"Salivary Gland"	"20030"	4108
+	"2008"	"2008"	"Floor of Mouth"	"20040"	2139
+	"2008"	"2008"	"Gum and Other Mouth"	"20050"	5312
+	"2008"	"2008"	"Nasopharynx"	"20060"	1877
+	"2008"	"2008"	"Tonsil"	"20070"	6340
+	"2008"	"2008"	"Oropharynx"	"20080"	1667
+	"2008"	"2008"	"Hypopharynx"	"20090"	2318
+	"2008"	"2008"	"Other Oral Cavity and Pharynx"	"20100"	891
+	"2008"	"2008"	"Digestive System"	"21010-21130"	277190
+	"2008"	"2008"	"Esophagus"	"21010"	16520
+	"2008"	"2008"	"Stomach"	"21020"	21562
+	"2008"	"2008"	"Small Intestine"	"21030"	7174
+	"2008"	"2008"	"Colon and Rectum"	"21041-21052"	149217
+	"2008"	"2008"	"Colon excluding Rectum"	"21041-21049"	108107
+	"2008"	"2008"	"Cecum"	"21041"	23012
+	"2008"	"2008"	"Appendix"	"21042"	2445
+	"2008"	"2008"	"Ascending Colon"	"21043"	20828
+	"2008"	"2008"	"Hepatic Flexure"	"21044"	5330
+	"2008"	"2008"	"Transverse Colon"	"21045"	9744
+	"2008"	"2008"	"Splenic Flexure"	"21046"	3272
+	"2008"	"2008"	"Descending Colon"	"21047"	6252
+	"2008"	"2008"	"Sigmoid Colon"	"21048"	28537
+	"2008"	"2008"	"Large Intestine, NOS"	"21049"	8687
+	"2008"	"2008"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41110
+	"2008"	"2008"	"Rectosigmoid Junction"	"21051"	10827
+	"2008"	"2008"	"Rectum"	"21052"	30283
+	"2008"	"2008"	"Anus, Anal Canal and Anorectum"	"21060"	5728
+	"2008"	"2008"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	23300
+	"2008"	"2008"	"Liver"	"21071"	21119
+	"2008"	"2008"	"Intrahepatic Bile Duct"	"21072"	2181
+	"2008"	"2008"	"Gallbladder"	"21080"	3611
+	"2008"	"2008"	"Other Biliary"	"21090"	5559
+	"2008"	"2008"	"Pancreas"	"21100"	39815
+	"2008"	"2008"	"Retroperitoneum"	"21110"	1250
+	"2008"	"2008"	"Peritoneum, Omentum and Mesentery"	"21120"	2138
+	"2008"	"2008"	"Other Digestive Organs"	"21130"	1316
+	"2008"	"2008"	"Respiratory System"	"22010-22060"	232703
+	"2008"	"2008"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2301
+	"2008"	"2008"	"Larynx"	"22020"	12770
+	"2008"	"2008"	"Lung and Bronchus"	"22030"	216882
+	"2008"	"2008"	"Pleura"	"22050"	109
+	"2008"	"2008"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	641
+	"2008"	"2008"	"Bones and Joints"	"23000"	2979
+	"2008"	"2008"	"Soft Tissue including Heart"	"24000"	10467
+	"2008"	"2008"	"Skin excluding Basal and Squamous"	"25010-25020"	68936
+	"2008"	"2008"	"Melanoma of the Skin"	"25010"	63566
+	"2008"	"2008"	"Other Non-Epithelial Skin"	"25020"	5370
+	"2008"	"2008"	"Male and Female Breast"	"26000"	219522
+	"2008"	"2008"	"Female Breast"	"26000-Female"	217562
+	"2008"	"2008"	"Male Breast"	"26000-Male"	1960
+	"2008"	"2008"	"Female Genital System"	"27010-27070"	86843
+	"2008"	"2008"	"Cervix Uteri"	"27010"	12940
+	"2008"	"2008"	"Corpus Uteri"	"27020"	42978
+	"2008"	"2008"	"Uterus, NOS"	"27030"	1471
+	"2008"	"2008"	"Ovary"	"27040"	22248
+	"2008"	"2008"	"Vagina"	"27050"	1272
+	"2008"	"2008"	"Vulva"	"27060"	4422
+	"2008"	"2008"	"Other Female Genital Organs"	"27070"	1512
+	"2008"	"2008"	"Male Genital System"	"28010-28040"	240519
+	"2008"	"2008"	"Prostate"	"28010"	230469
+	"2008"	"2008"	"Testis"	"28020"	8313
+	"2008"	"2008"	"Penis"	"28030"	1370
+	"2008"	"2008"	"Other Male Genital Organs"	"28040"	367
+	"2008"	"2008"	"Urinary System"	"29010-29040"	125188
+	"2008"	"2008"	"Urinary Bladder, invasive and in situ"	"29010"	69096
+	"2008"	"2008"	"Kidney and Renal Pelvis"	"29020"	53132
+	"2008"	"2008"	"Ureter"	"29030"	1862
+	"2008"	"2008"	"Other Urinary Organs"	"29040"	1098
+	"2008"	"2008"	"Eye and Orbit"	"30000"	2801
+	"2008"	"2008"	"Brain and Other Nervous System"	"31010-31040"	21844
+	"2008"	"2008"	"Brain"	"31010"	20382
+	"2008"	"2008"	"Cranial Nerves Other Nervous System"	"31040"	1462
+	"2008"	"2008"	"Endocrine System"	"32010-32020"	43132
+	"2008"	"2008"	"Thyroid"	"32010"	40615
+	"2008"	"2008"	"Other Endocrine including Thymus"	"32020"	2517
+	"2008"	"2008"	"Lymphomas"	"33011-33042"	72630
+	"2008"	"2008"	"Hodgkin Lymphoma"	"33011-33012"	9030
+	"2008"	"2008"	"Hodgkin - Nodal"	"33011"	8694
+	"2008"	"2008"	"Hodgkin - Extranodal"	"33012"	336
+	"2008"	"2008"	"Non-Hodgkin Lymphoma"	"33041-33042"	63600
+	"2008"	"2008"	"NHL - Nodal"	"33041"	43818
+	"2008"	"2008"	"NHL - Extranodal"	"33042"	19782
+	"2008"	"2008"	"Myeloma"	"34000"	20228
+	"2008"	"2008"	"Leukemias"	"35011-35043"	42865
+	"2008"	"2008"	"Acute Lymphocytic Leukemia"	"35011"	4969
+	"2008"	"2008"	"Chronic Lymphocytic Leukemia"	"35012"	15452
+	"2008"	"2008"	"Acute Myeloid Leukemia"	"35021"	11748
+	"2008"	"2008"	"Chronic Myeloid Leukemia"	"35022"	5267
+	"2008"	"2008"	"Other Leukemias"	"35041-35043"	5429
+	"2008"	"2008"	"Other Lymphocytic Leukemia"	"35013"	1367
+	"2008"	"2008"	"Acute Monocytic Leukemia"	"35031"	827
+	"2008"	"2008"	"Other Acute Leukemia"	"35041"	934
+	"2008"	"2008"	"Aleukemic, Subleukemic and NOS"	"35043"	1733
+	"2008"	"2008"	"Other Myeloid/Monocytic Leukemia"	"35023"	568
+	"2008"	"2008"	"Mesothelioma"	"36010"	3262
+	"2008"	"2008"	"Kaposi Sarcoma"	"36020"	1300
+	"2008"	"2008"	"Miscellaneous"	"37000"	58804
+	"2008"	"2008"	"Male and Female Breast, In Situ"	"Breast-InSitu"	55179
+	"2008"	"2008"	"Female Breast, In Situ"	"Breast-InSitu-Female"	54930
+	"2008"	"2008"	"Male Breast, In Situ"	"Breast-InSitu-Male"	249
+	"2009"	"2009"	"All Invasive Cancer Sites Combined"	"0"	1587168
+	"2009"	"2009"	"Oral Cavity and Pharynx"	"20010-20100"	38436
+	"2009"	"2009"	"Lip"	"20010"	2028
+	"2009"	"2009"	"Tongue"	"20020"	11275
+	"2009"	"2009"	"Salivary Gland"	"20030"	4190
+	"2009"	"2009"	"Floor of Mouth"	"20040"	2133
+	"2009"	"2009"	"Gum and Other Mouth"	"20050"	5219
+	"2009"	"2009"	"Nasopharynx"	"20060"	1756
+	"2009"	"2009"	"Tonsil"	"20070"	6945
+	"2009"	"2009"	"Oropharynx"	"20080"	1645
+	"2009"	"2009"	"Hypopharynx"	"20090"	2380
+	"2009"	"2009"	"Other Oral Cavity and Pharynx"	"20100"	865
+	"2009"	"2009"	"Digestive System"	"21010-21130"	277740
+	"2009"	"2009"	"Esophagus"	"21010"	16753
+	"2009"	"2009"	"Stomach"	"21020"	22045
+	"2009"	"2009"	"Small Intestine"	"21030"	7427
+	"2009"	"2009"	"Colon and Rectum"	"21041-21052"	145356
+	"2009"	"2009"	"Colon excluding Rectum"	"21041-21049"	104408
+	"2009"	"2009"	"Cecum"	"21041"	22054
+	"2009"	"2009"	"Appendix"	"21042"	2479
+	"2009"	"2009"	"Ascending Colon"	"21043"	20451
+	"2009"	"2009"	"Hepatic Flexure"	"21044"	4984
+	"2009"	"2009"	"Transverse Colon"	"21045"	9684
+	"2009"	"2009"	"Splenic Flexure"	"21046"	3186
+	"2009"	"2009"	"Descending Colon"	"21047"	5864
+	"2009"	"2009"	"Sigmoid Colon"	"21048"	27322
+	"2009"	"2009"	"Large Intestine, NOS"	"21049"	8384
+	"2009"	"2009"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40948
+	"2009"	"2009"	"Rectosigmoid Junction"	"21051"	10508
+	"2009"	"2009"	"Rectum"	"21052"	30440
+	"2009"	"2009"	"Anus, Anal Canal and Anorectum"	"21060"	6211
+	"2009"	"2009"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	25354
+	"2009"	"2009"	"Liver"	"21071"	23008
+	"2009"	"2009"	"Intrahepatic Bile Duct"	"21072"	2346
+	"2009"	"2009"	"Gallbladder"	"21080"	3834
+	"2009"	"2009"	"Other Biliary"	"21090"	5807
+	"2009"	"2009"	"Pancreas"	"21100"	40382
+	"2009"	"2009"	"Retroperitoneum"	"21110"	1234
+	"2009"	"2009"	"Peritoneum, Omentum and Mesentery"	"21120"	1983
+	"2009"	"2009"	"Other Digestive Organs"	"21130"	1354
+	"2009"	"2009"	"Respiratory System"	"22010-22060"	233756
+	"2009"	"2009"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2311
+	"2009"	"2009"	"Larynx"	"22020"	12867
+	"2009"	"2009"	"Lung and Bronchus"	"22030"	217852
+	"2009"	"2009"	"Pleura"	"22050"	117
+	"2009"	"2009"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	609
+	"2009"	"2009"	"Bones and Joints"	"23000"	3090
+	"2009"	"2009"	"Soft Tissue including Heart"	"24000"	10703
+	"2009"	"2009"	"Skin excluding Basal and Squamous"	"25010-25020"	71560
+	"2009"	"2009"	"Melanoma of the Skin"	"25010"	65917
+	"2009"	"2009"	"Other Non-Epithelial Skin"	"25020"	5643
+	"2009"	"2009"	"Male and Female Breast"	"26000"	225202
+	"2009"	"2009"	"Female Breast"	"26000-Female"	223296
+	"2009"	"2009"	"Male Breast"	"26000-Male"	1906
+	"2009"	"2009"	"Female Genital System"	"27010-27070"	89105
+	"2009"	"2009"	"Cervix Uteri"	"27010"	13144
+	"2009"	"2009"	"Corpus Uteri"	"27020"	44889
+	"2009"	"2009"	"Uterus, NOS"	"27030"	1546
+	"2009"	"2009"	"Ovary"	"27040"	21939
+	"2009"	"2009"	"Vagina"	"27050"	1285
+	"2009"	"2009"	"Vulva"	"27060"	4660
+	"2009"	"2009"	"Other Female Genital Organs"	"27070"	1642
+	"2009"	"2009"	"Male Genital System"	"28010-28040"	236302
+	"2009"	"2009"	"Prostate"	"28010"	226482
+	"2009"	"2009"	"Testis"	"28020"	8254
+	"2009"	"2009"	"Penis"	"28030"	1234
+	"2009"	"2009"	"Other Male Genital Organs"	"28040"	332
+	"2009"	"2009"	"Urinary System"	"29010-29040"	127394
+	"2009"	"2009"	"Urinary Bladder, invasive and in situ"	"29010"	70233
+	"2009"	"2009"	"Kidney and Renal Pelvis"	"29020"	54320
+	"2009"	"2009"	"Ureter"	"29030"	1870
+	"2009"	"2009"	"Other Urinary Organs"	"29040"	971
+	"2009"	"2009"	"Eye and Orbit"	"30000"	2791
+	"2009"	"2009"	"Brain and Other Nervous System"	"31010-31040"	22104
+	"2009"	"2009"	"Brain"	"31010"	20586
+	"2009"	"2009"	"Cranial Nerves Other Nervous System"	"31040"	1518
+	"2009"	"2009"	"Endocrine System"	"32010-32020"	45999
+	"2009"	"2009"	"Thyroid"	"32010"	43596
+	"2009"	"2009"	"Other Endocrine including Thymus"	"32020"	2403
+	"2009"	"2009"	"Lymphomas"	"33011-33042"	73973
+	"2009"	"2009"	"Hodgkin Lymphoma"	"33011-33012"	8777
+	"2009"	"2009"	"Hodgkin - Nodal"	"33011"	8465
+	"2009"	"2009"	"Hodgkin - Extranodal"	"33012"	312
+	"2009"	"2009"	"Non-Hodgkin Lymphoma"	"33041-33042"	65196
+	"2009"	"2009"	"NHL - Nodal"	"33041"	44549
+	"2009"	"2009"	"NHL - Extranodal"	"33042"	20647
+	"2009"	"2009"	"Myeloma"	"34000"	21176
+	"2009"	"2009"	"Leukemias"	"35011-35043"	43907
+	"2009"	"2009"	"Acute Lymphocytic Leukemia"	"35011"	4873
+	"2009"	"2009"	"Chronic Lymphocytic Leukemia"	"35012"	15762
+	"2009"	"2009"	"Acute Myeloid Leukemia"	"35021"	11950
+	"2009"	"2009"	"Chronic Myeloid Leukemia"	"35022"	5644
+	"2009"	"2009"	"Other Leukemias"	"35041-35043"	5678
+	"2009"	"2009"	"Other Lymphocytic Leukemia"	"35013"	1442
+	"2009"	"2009"	"Acute Monocytic Leukemia"	"35031"	804
+	"2009"	"2009"	"Other Acute Leukemia"	"35041"	944
+	"2009"	"2009"	"Aleukemic, Subleukemic and NOS"	"35043"	1784
+	"2009"	"2009"	"Other Myeloid/Monocytic Leukemia"	"35023"	704
+	"2009"	"2009"	"Mesothelioma"	"36010"	3291
+	"2009"	"2009"	"Kaposi Sarcoma"	"36020"	1273
+	"2009"	"2009"	"Miscellaneous"	"37000"	59366
+	"2009"	"2009"	"Male and Female Breast, In Situ"	"Breast-InSitu"	57435
+	"2009"	"2009"	"Female Breast, In Situ"	"Breast-InSitu-Female"	57178
+	"2009"	"2009"	"Male Breast, In Situ"	"Breast-InSitu-Male"	257
+	"2010"	"2010"	"All Invasive Cancer Sites Combined"	"0"	1581184
+	"2010"	"2010"	"Oral Cavity and Pharynx"	"20010-20100"	39358
+	"2010"	"2010"	"Lip"	"20010"	2145
+	"2010"	"2010"	"Tongue"	"20020"	11444
+	"2010"	"2010"	"Salivary Gland"	"20030"	4219
+	"2010"	"2010"	"Floor of Mouth"	"20040"	2149
+	"2010"	"2010"	"Gum and Other Mouth"	"20050"	5361
+	"2010"	"2010"	"Nasopharynx"	"20060"	1831
+	"2010"	"2010"	"Tonsil"	"20070"	7077
+	"2010"	"2010"	"Oropharynx"	"20080"	1842
+	"2010"	"2010"	"Hypopharynx"	"20090"	2301
+	"2010"	"2010"	"Other Oral Cavity and Pharynx"	"20100"	989
+	"2010"	"2010"	"Digestive System"	"21010-21130"	277205
+	"2010"	"2010"	"Esophagus"	"21010"	16072
+	"2010"	"2010"	"Stomach"	"21020"	23075
+	"2010"	"2010"	"Small Intestine"	"21030"	7956
+	"2010"	"2010"	"Colon and Rectum"	"21041-21052"	141628
+	"2010"	"2010"	"Colon excluding Rectum"	"21041-21049"	101515
+	"2010"	"2010"	"Cecum"	"21041"	21721
+	"2010"	"2010"	"Appendix"	"21042"	2863
+	"2010"	"2010"	"Ascending Colon"	"21043"	19837
+	"2010"	"2010"	"Hepatic Flexure"	"21044"	4684
+	"2010"	"2010"	"Transverse Colon"	"21045"	9350
+	"2010"	"2010"	"Splenic Flexure"	"21046"	3054
+	"2010"	"2010"	"Descending Colon"	"21047"	5890
+	"2010"	"2010"	"Sigmoid Colon"	"21048"	25801
+	"2010"	"2010"	"Large Intestine, NOS"	"21049"	8315
+	"2010"	"2010"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40113
+	"2010"	"2010"	"Rectosigmoid Junction"	"21051"	10197
+	"2010"	"2010"	"Rectum"	"21052"	29916
+	"2010"	"2010"	"Anus, Anal Canal and Anorectum"	"21060"	6075
+	"2010"	"2010"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	26253
+	"2010"	"2010"	"Liver"	"21071"	23297
+	"2010"	"2010"	"Intrahepatic Bile Duct"	"21072"	2956
+	"2010"	"2010"	"Gallbladder"	"21080"	3859
+	"2010"	"2010"	"Other Biliary"	"21090"	5933
+	"2010"	"2010"	"Pancreas"	"21100"	41690
+	"2010"	"2010"	"Retroperitoneum"	"21110"	1247
+	"2010"	"2010"	"Peritoneum, Omentum and Mesentery"	"21120"	1971
+	"2010"	"2010"	"Other Digestive Organs"	"21130"	1446
+	"2010"	"2010"	"Respiratory System"	"22010-22060"	231001
+	"2010"	"2010"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2217
+	"2010"	"2010"	"Larynx"	"22020"	13014
+	"2010"	"2010"	"Lung and Bronchus"	"22030"	215023
+	"2010"	"2010"	"Pleura"	"22050"	107
+	"2010"	"2010"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	640
+	"2010"	"2010"	"Bones and Joints"	"23000"	3005
+	"2010"	"2010"	"Soft Tissue including Heart"	"24000"	10968
+	"2010"	"2010"	"Skin excluding Basal and Squamous"	"25010-25020"	71461
+	"2010"	"2010"	"Melanoma of the Skin"	"25010"	66108
+	"2010"	"2010"	"Other Non-Epithelial Skin"	"25020"	5353
+	"2010"	"2010"	"Male and Female Breast"	"26000"	222051
+	"2010"	"2010"	"Female Breast"	"26000-Female"	220061
+	"2010"	"2010"	"Male Breast"	"26000-Male"	1990
+	"2010"	"2010"	"Female Genital System"	"27010-27070"	89740
+	"2010"	"2010"	"Cervix Uteri"	"27010"	12753
+	"2010"	"2010"	"Corpus Uteri"	"27020"	46027
+	"2010"	"2010"	"Uterus, NOS"	"27030"	1523
+	"2010"	"2010"	"Ovary"	"27040"	21556
+	"2010"	"2010"	"Vagina"	"27050"	1335
+	"2010"	"2010"	"Vulva"	"27060"	4674
+	"2010"	"2010"	"Other Female Genital Organs"	"27070"	1872
+	"2010"	"2010"	"Male Genital System"	"28010-28040"	228650
+	"2010"	"2010"	"Prostate"	"28010"	218639
+	"2010"	"2010"	"Testis"	"28020"	8357
+	"2010"	"2010"	"Penis"	"28030"	1307
+	"2010"	"2010"	"Other Male Genital Organs"	"28040"	347
+	"2010"	"2010"	"Urinary System"	"29010-29040"	127295
+	"2010"	"2010"	"Urinary Bladder, invasive and in situ"	"29010"	70372
+	"2010"	"2010"	"Kidney and Renal Pelvis"	"29020"	54066
+	"2010"	"2010"	"Ureter"	"29030"	1867
+	"2010"	"2010"	"Other Urinary Organs"	"29040"	990
+	"2010"	"2010"	"Eye and Orbit"	"30000"	2736
+	"2010"	"2010"	"Brain and Other Nervous System"	"31010-31040"	21913
+	"2010"	"2010"	"Brain"	"31010"	20497
+	"2010"	"2010"	"Cranial Nerves Other Nervous System"	"31040"	1416
+	"2010"	"2010"	"Endocrine System"	"32010-32020"	47198
+	"2010"	"2010"	"Thyroid"	"32010"	44703
+	"2010"	"2010"	"Other Endocrine including Thymus"	"32020"	2495
+	"2010"	"2010"	"Lymphomas"	"33011-33042"	74466
+	"2010"	"2010"	"Hodgkin Lymphoma"	"33011-33012"	8845
+	"2010"	"2010"	"Hodgkin - Nodal"	"33011"	8702
+	"2010"	"2010"	"Hodgkin - Extranodal"	"33012"	143
+	"2010"	"2010"	"Non-Hodgkin Lymphoma"	"33041-33042"	65621
+	"2010"	"2010"	"NHL - Nodal"	"33041"	44784
+	"2010"	"2010"	"NHL - Extranodal"	"33042"	20837
+	"2010"	"2010"	"Myeloma"	"34000"	22157
+	"2010"	"2010"	"Leukemias"	"35011-35043"	46900
+	"2010"	"2010"	"Acute Lymphocytic Leukemia"	"35011"	5021
+	"2010"	"2010"	"Chronic Lymphocytic Leukemia"	"35012"	16321
+	"2010"	"2010"	"Acute Myeloid Leukemia"	"35021"	13749
+	"2010"	"2010"	"Chronic Myeloid Leukemia"	"35022"	5970
+	"2010"	"2010"	"Other Leukemias"	"35041-35043"	5839
+	"2010"	"2010"	"Other Lymphocytic Leukemia"	"35013"	1418
+	"2010"	"2010"	"Acute Monocytic Leukemia"	"35031"	832
+	"2010"	"2010"	"Other Acute Leukemia"	"35041"	934
+	"2010"	"2010"	"Aleukemic, Subleukemic and NOS"	"35043"	2018
+	"2010"	"2010"	"Other Myeloid/Monocytic Leukemia"	"35023"	637
+	"2010"	"2010"	"Mesothelioma"	"36010"	3319
+	"2010"	"2010"	"Kaposi Sarcoma"	"36020"	1227
+	"2010"	"2010"	"Miscellaneous"	"37000"	60534
+	"2010"	"2010"	"Male and Female Breast, In Situ"	"Breast-InSitu"	54408
+	"2010"	"2010"	"Female Breast, In Situ"	"Breast-InSitu-Female"	54186
+	"2010"	"2010"	"Male Breast, In Situ"	"Breast-InSitu-Male"	222
+	"2011"	"2011"	"All Invasive Cancer Sites Combined"	"0"	1611084
+	"2011"	"2011"	"Oral Cavity and Pharynx"	"20010-20100"	41010
+	"2011"	"2011"	"Lip"	"20010"	2133
+	"2011"	"2011"	"Tongue"	"20020"	12343
+	"2011"	"2011"	"Salivary Gland"	"20030"	4231
+	"2011"	"2011"	"Floor of Mouth"	"20040"	2053
+	"2011"	"2011"	"Gum and Other Mouth"	"20050"	5490
+	"2011"	"2011"	"Nasopharynx"	"20060"	1816
+	"2011"	"2011"	"Tonsil"	"20070"	7501
+	"2011"	"2011"	"Oropharynx"	"20080"	1897
+	"2011"	"2011"	"Hypopharynx"	"20090"	2397
+	"2011"	"2011"	"Other Oral Cavity and Pharynx"	"20100"	1149
+	"2011"	"2011"	"Digestive System"	"21010-21130"	281755
+	"2011"	"2011"	"Esophagus"	"21010"	16523
+	"2011"	"2011"	"Stomach"	"21020"	23334
+	"2011"	"2011"	"Small Intestine"	"21030"	8085
+	"2011"	"2011"	"Colon and Rectum"	"21041-21052"	141459
+	"2011"	"2011"	"Colon excluding Rectum"	"21041-21049"	101422
+	"2011"	"2011"	"Cecum"	"21041"	21768
+	"2011"	"2011"	"Appendix"	"21042"	3047
+	"2011"	"2011"	"Ascending Colon"	"21043"	19850
+	"2011"	"2011"	"Hepatic Flexure"	"21044"	4696
+	"2011"	"2011"	"Transverse Colon"	"21045"	9125
+	"2011"	"2011"	"Splenic Flexure"	"21046"	2986
+	"2011"	"2011"	"Descending Colon"	"21047"	6063
+	"2011"	"2011"	"Sigmoid Colon"	"21048"	25783
+	"2011"	"2011"	"Large Intestine, NOS"	"21049"	8104
+	"2011"	"2011"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40037
+	"2011"	"2011"	"Rectosigmoid Junction"	"21051"	10087
+	"2011"	"2011"	"Rectum"	"21052"	29950
+	"2011"	"2011"	"Anus, Anal Canal and Anorectum"	"21060"	6372
+	"2011"	"2011"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	27740
+	"2011"	"2011"	"Liver"	"21071"	24620
+	"2011"	"2011"	"Intrahepatic Bile Duct"	"21072"	3120
+	"2011"	"2011"	"Gallbladder"	"21080"	3902
+	"2011"	"2011"	"Other Biliary"	"21090"	6176
+	"2011"	"2011"	"Pancreas"	"21100"	43205
+	"2011"	"2011"	"Retroperitoneum"	"21110"	1333
+	"2011"	"2011"	"Peritoneum, Omentum and Mesentery"	"21120"	2002
+	"2011"	"2011"	"Other Digestive Organs"	"21130"	1624
+	"2011"	"2011"	"Respiratory System"	"22010-22060"	231065
+	"2011"	"2011"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2267
+	"2011"	"2011"	"Larynx"	"22020"	12772
+	"2011"	"2011"	"Lung and Bronchus"	"22030"	215359
+	"2011"	"2011"	"Pleura"	"22050"	101
+	"2011"	"2011"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	566
+	"2011"	"2011"	"Bones and Joints"	"23000"	3063
+	"2011"	"2011"	"Soft Tissue including Heart"	"24000"	10896
+	"2011"	"2011"	"Skin excluding Basal and Squamous"	"25010-25020"	74803
+	"2011"	"2011"	"Melanoma of the Skin"	"25010"	69290
+	"2011"	"2011"	"Other Non-Epithelial Skin"	"25020"	5513
+	"2011"	"2011"	"Male and Female Breast"	"26000"	230028
+	"2011"	"2011"	"Female Breast"	"26000-Female"	228046
+	"2011"	"2011"	"Male Breast"	"26000-Male"	1982
+	"2011"	"2011"	"Female Genital System"	"27010-27070"	91577
+	"2011"	"2011"	"Cervix Uteri"	"27010"	12700
+	"2011"	"2011"	"Corpus Uteri"	"27020"	47396
+	"2011"	"2011"	"Uterus, NOS"	"27030"	1627
+	"2011"	"2011"	"Ovary"	"27040"	21660
+	"2011"	"2011"	"Vagina"	"27050"	1317
+	"2011"	"2011"	"Vulva"	"27060"	4839
+	"2011"	"2011"	"Other Female Genital Organs"	"27070"	2038
+	"2011"	"2011"	"Male Genital System"	"28010-28040"	234091
+	"2011"	"2011"	"Prostate"	"28010"	224098
+	"2011"	"2011"	"Testis"	"28020"	8225
+	"2011"	"2011"	"Penis"	"28030"	1399
+	"2011"	"2011"	"Other Male Genital Organs"	"28040"	369
+	"2011"	"2011"	"Urinary System"	"29010-29040"	130032
+	"2011"	"2011"	"Urinary Bladder, invasive and in situ"	"29010"	71365
+	"2011"	"2011"	"Kidney and Renal Pelvis"	"29020"	55681
+	"2011"	"2011"	"Ureter"	"29030"	1941
+	"2011"	"2011"	"Other Urinary Organs"	"29040"	1045
+	"2011"	"2011"	"Eye and Orbit"	"30000"	2784
+	"2011"	"2011"	"Brain and Other Nervous System"	"31010-31040"	22069
+	"2011"	"2011"	"Brain"	"31010"	20687
+	"2011"	"2011"	"Cranial Nerves Other Nervous System"	"31040"	1382
+	"2011"	"2011"	"Endocrine System"	"32010-32020"	48818
+	"2011"	"2011"	"Thyroid"	"32010"	46427
+	"2011"	"2011"	"Other Endocrine including Thymus"	"32020"	2391
+	"2011"	"2011"	"Lymphomas"	"33011-33042"	74232
+	"2011"	"2011"	"Hodgkin Lymphoma"	"33011-33012"	8728
+	"2011"	"2011"	"Hodgkin - Nodal"	"33011"	8561
+	"2011"	"2011"	"Hodgkin - Extranodal"	"33012"	167
+	"2011"	"2011"	"Non-Hodgkin Lymphoma"	"33041-33042"	65504
+	"2011"	"2011"	"NHL - Nodal"	"33041"	44191
+	"2011"	"2011"	"NHL - Extranodal"	"33042"	21313
+	"2011"	"2011"	"Myeloma"	"34000"	23005
+	"2011"	"2011"	"Leukemias"	"35011-35043"	47653
+	"2011"	"2011"	"Acute Lymphocytic Leukemia"	"35011"	5192
+	"2011"	"2011"	"Chronic Lymphocytic Leukemia"	"35012"	16568
+	"2011"	"2011"	"Acute Myeloid Leukemia"	"35021"	14095
+	"2011"	"2011"	"Chronic Myeloid Leukemia"	"35022"	6113
+	"2011"	"2011"	"Other Leukemias"	"35041-35043"	5685
+	"2011"	"2011"	"Other Lymphocytic Leukemia"	"35013"	1468
+	"2011"	"2011"	"Acute Monocytic Leukemia"	"35031"	747
+	"2011"	"2011"	"Other Acute Leukemia"	"35041"	841
+	"2011"	"2011"	"Aleukemic, Subleukemic and NOS"	"35043"	1966
+	"2011"	"2011"	"Other Myeloid/Monocytic Leukemia"	"35023"	663
+	"2011"	"2011"	"Mesothelioma"	"36010"	3366
+	"2011"	"2011"	"Kaposi Sarcoma"	"36020"	1224
+	"2011"	"2011"	"Miscellaneous"	"37000"	59613
+	"2011"	"2011"	"Male and Female Breast, In Situ"	"Breast-InSitu"	55180
+	"2011"	"2011"	"Female Breast, In Situ"	"Breast-InSitu-Female"	54960
+	"2011"	"2011"	"Male Breast, In Situ"	"Breast-InSitu-Male"	220
+	"2012"	"2012"	"All Invasive Cancer Sites Combined"	"0"	1601243
+	"2012"	"2012"	"Oral Cavity and Pharynx"	"20010-20100"	41568
+	"2012"	"2012"	"Lip"	"20010"	1960
+	"2012"	"2012"	"Tongue"	"20020"	12855
+	"2012"	"2012"	"Salivary Gland"	"20030"	4435
+	"2012"	"2012"	"Floor of Mouth"	"20040"	2027
+	"2012"	"2012"	"Gum and Other Mouth"	"20050"	5562
+	"2012"	"2012"	"Nasopharynx"	"20060"	1836
+	"2012"	"2012"	"Tonsil"	"20070"	7585
+	"2012"	"2012"	"Oropharynx"	"20080"	1812
+	"2012"	"2012"	"Hypopharynx"	"20090"	2343
+	"2012"	"2012"	"Other Oral Cavity and Pharynx"	"20100"	1153
+	"2012"	"2012"	"Digestive System"	"21010-21130"	285210
+	"2012"	"2012"	"Esophagus"	"21010"	16549
+	"2012"	"2012"	"Stomach"	"21020"	23596
+	"2012"	"2012"	"Small Intestine"	"21030"	8232
+	"2012"	"2012"	"Colon and Rectum"	"21041-21052"	140429
+	"2012"	"2012"	"Colon excluding Rectum"	"21041-21049"	100059
+	"2012"	"2012"	"Cecum"	"21041"	21404
+	"2012"	"2012"	"Appendix"	"21042"	3371
+	"2012"	"2012"	"Ascending Colon"	"21043"	19630
+	"2012"	"2012"	"Hepatic Flexure"	"21044"	4349
+	"2012"	"2012"	"Transverse Colon"	"21045"	9186
+	"2012"	"2012"	"Splenic Flexure"	"21046"	2920
+	"2012"	"2012"	"Descending Colon"	"21047"	5786
+	"2012"	"2012"	"Sigmoid Colon"	"21048"	25132
+	"2012"	"2012"	"Large Intestine, NOS"	"21049"	8281
+	"2012"	"2012"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40370
+	"2012"	"2012"	"Rectosigmoid Junction"	"21051"	10127
+	"2012"	"2012"	"Rectum"	"21052"	30243
+	"2012"	"2012"	"Anus, Anal Canal and Anorectum"	"21060"	6627
+	"2012"	"2012"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	29674
+	"2012"	"2012"	"Liver"	"21071"	26221
+	"2012"	"2012"	"Intrahepatic Bile Duct"	"21072"	3453
+	"2012"	"2012"	"Gallbladder"	"21080"	3971
+	"2012"	"2012"	"Other Biliary"	"21090"	6181
+	"2012"	"2012"	"Pancreas"	"21100"	44880
+	"2012"	"2012"	"Retroperitoneum"	"21110"	1368
+	"2012"	"2012"	"Peritoneum, Omentum and Mesentery"	"21120"	1991
+	"2012"	"2012"	"Other Digestive Organs"	"21130"	1712
+	"2012"	"2012"	"Respiratory System"	"22010-22060"	233787
+	"2012"	"2012"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2362
+	"2012"	"2012"	"Larynx"	"22020"	12650
+	"2012"	"2012"	"Lung and Bronchus"	"22030"	218063
+	"2012"	"2012"	"Pleura"	"22050"	112
+	"2012"	"2012"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	600
+	"2012"	"2012"	"Bones and Joints"	"23000"	3110
+	"2012"	"2012"	"Soft Tissue including Heart"	"24000"	11134
+	"2012"	"2012"	"Skin excluding Basal and Squamous"	"25010-25020"	76528
+	"2012"	"2012"	"Melanoma of the Skin"	"25010"	70778
+	"2012"	"2012"	"Other Non-Epithelial Skin"	"25020"	5750
+	"2012"	"2012"	"Male and Female Breast"	"26000"	233600
+	"2012"	"2012"	"Female Breast"	"26000-Female"	231560
+	"2012"	"2012"	"Male Breast"	"26000-Male"	2040
+	"2012"	"2012"	"Female Genital System"	"27010-27070"	93478
+	"2012"	"2012"	"Cervix Uteri"	"27010"	12621
+	"2012"	"2012"	"Corpus Uteri"	"27020"	48902
+	"2012"	"2012"	"Uterus, NOS"	"27030"	1642
+	"2012"	"2012"	"Ovary"	"27040"	21681
+	"2012"	"2012"	"Vagina"	"27050"	1368
+	"2012"	"2012"	"Vulva"	"27060"	5030
+	"2012"	"2012"	"Other Female Genital Organs"	"27070"	2234
+	"2012"	"2012"	"Male Genital System"	"28010-28040"	201583
+	"2012"	"2012"	"Prostate"	"28010"	191391
+	"2012"	"2012"	"Testis"	"28020"	8460
+	"2012"	"2012"	"Penis"	"28030"	1368
+	"2012"	"2012"	"Other Male Genital Organs"	"28040"	364
+	"2012"	"2012"	"Urinary System"	"29010-29040"	133478
+	"2012"	"2012"	"Urinary Bladder, invasive and in situ"	"29010"	73050
+	"2012"	"2012"	"Kidney and Renal Pelvis"	"29020"	57413
+	"2012"	"2012"	"Ureter"	"29030"	1992
+	"2012"	"2012"	"Other Urinary Organs"	"29040"	1023
+	"2012"	"2012"	"Eye and Orbit"	"30000"	2934
+	"2012"	"2012"	"Brain and Other Nervous System"	"31010-31040"	22337
+	"2012"	"2012"	"Brain"	"31010"	20900
+	"2012"	"2012"	"Cranial Nerves Other Nervous System"	"31040"	1437
+	"2012"	"2012"	"Endocrine System"	"32010-32020"	50770
+	"2012"	"2012"	"Thyroid"	"32010"	48306
+	"2012"	"2012"	"Other Endocrine including Thymus"	"32020"	2464
+	"2012"	"2012"	"Lymphomas"	"33011-33042"	74981
+	"2012"	"2012"	"Hodgkin Lymphoma"	"33011-33012"	8569
+	"2012"	"2012"	"Hodgkin - Nodal"	"33011"	8421
+	"2012"	"2012"	"Hodgkin - Extranodal"	"33012"	148
+	"2012"	"2012"	"Non-Hodgkin Lymphoma"	"33041-33042"	66412
+	"2012"	"2012"	"NHL - Nodal"	"33041"	44936
+	"2012"	"2012"	"NHL - Extranodal"	"33042"	21476
+	"2012"	"2012"	"Myeloma"	"34000"	23657
+	"2012"	"2012"	"Leukemias"	"35011-35043"	48313
+	"2012"	"2012"	"Acute Lymphocytic Leukemia"	"35011"	5040
+	"2012"	"2012"	"Chronic Lymphocytic Leukemia"	"35012"	16949
+	"2012"	"2012"	"Acute Myeloid Leukemia"	"35021"	14446
+	"2012"	"2012"	"Chronic Myeloid Leukemia"	"35022"	6138
+	"2012"	"2012"	"Other Leukemias"	"35041-35043"	5740
+	"2012"	"2012"	"Other Lymphocytic Leukemia"	"35013"	1451
+	"2012"	"2012"	"Acute Monocytic Leukemia"	"35031"	706
+	"2012"	"2012"	"Other Acute Leukemia"	"35041"	885
+	"2012"	"2012"	"Aleukemic, Subleukemic and NOS"	"35043"	1998
+	"2012"	"2012"	"Other Myeloid/Monocytic Leukemia"	"35023"	700
+	"2012"	"2012"	"Mesothelioma"	"36010"	3285
+	"2012"	"2012"	"Kaposi Sarcoma"	"36020"	1168
+	"2012"	"2012"	"Miscellaneous"	"37000"	60322
+	"2012"	"2012"	"Male and Female Breast, In Situ"	"Breast-InSitu"	56532
+	"2012"	"2012"	"Female Breast, In Situ"	"Breast-InSitu-Female"	56306
+	"2012"	"2012"	"Male Breast, In Situ"	"Breast-InSitu-Male"	226
+	"2013"	"2013"	"All Invasive Cancer Sites Combined"	"0"	1621635
+	"2013"	"2013"	"Oral Cavity and Pharynx"	"20010-20100"	43245
+	"2013"	"2013"	"Lip"	"20010"	2083
+	"2013"	"2013"	"Tongue"	"20020"	13174
+	"2013"	"2013"	"Salivary Gland"	"20030"	4590
+	"2013"	"2013"	"Floor of Mouth"	"20040"	2057
+	"2013"	"2013"	"Gum and Other Mouth"	"20050"	5661
+	"2013"	"2013"	"Nasopharynx"	"20060"	1883
+	"2013"	"2013"	"Tonsil"	"20070"	8133
+	"2013"	"2013"	"Oropharynx"	"20080"	1998
+	"2013"	"2013"	"Hypopharynx"	"20090"	2412
+	"2013"	"2013"	"Other Oral Cavity and Pharynx"	"20100"	1254
+	"2013"	"2013"	"Digestive System"	"21010-21130"	290293
+	"2013"	"2013"	"Esophagus"	"21010"	16976
+	"2013"	"2013"	"Stomach"	"21020"	23988
+	"2013"	"2013"	"Small Intestine"	"21030"	8496
+	"2013"	"2013"	"Colon and Rectum"	"21041-21052"	141191
+	"2013"	"2013"	"Colon excluding Rectum"	"21041-21049"	100552
+	"2013"	"2013"	"Cecum"	"21041"	21415
+	"2013"	"2013"	"Appendix"	"21042"	3557
+	"2013"	"2013"	"Ascending Colon"	"21043"	19609
+	"2013"	"2013"	"Hepatic Flexure"	"21044"	4513
+	"2013"	"2013"	"Transverse Colon"	"21045"	9406
+	"2013"	"2013"	"Splenic Flexure"	"21046"	2820
+	"2013"	"2013"	"Descending Colon"	"21047"	5862
+	"2013"	"2013"	"Sigmoid Colon"	"21048"	25179
+	"2013"	"2013"	"Large Intestine, NOS"	"21049"	8191
+	"2013"	"2013"	"Rectum and Rectosigmoid Junction"	"21051-21052"	40639
+	"2013"	"2013"	"Rectosigmoid Junction"	"21051"	9915
+	"2013"	"2013"	"Rectum"	"21052"	30724
+	"2013"	"2013"	"Anus, Anal Canal and Anorectum"	"21060"	6833
+	"2013"	"2013"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	31024
+	"2013"	"2013"	"Liver"	"21071"	27328
+	"2013"	"2013"	"Intrahepatic Bile Duct"	"21072"	3696
+	"2013"	"2013"	"Gallbladder"	"21080"	4070
+	"2013"	"2013"	"Other Biliary"	"21090"	6571
+	"2013"	"2013"	"Pancreas"	"21100"	45899
+	"2013"	"2013"	"Retroperitoneum"	"21110"	1280
+	"2013"	"2013"	"Peritoneum, Omentum and Mesentery"	"21120"	2019
+	"2013"	"2013"	"Other Digestive Organs"	"21130"	1946
+	"2013"	"2013"	"Respiratory System"	"22010-22060"	235209
+	"2013"	"2013"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2404
+	"2013"	"2013"	"Larynx"	"22020"	12855
+	"2013"	"2013"	"Lung and Bronchus"	"22030"	219180
+	"2013"	"2013"	"Pleura"	"22050"	111
+	"2013"	"2013"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	659
+	"2013"	"2013"	"Bones and Joints"	"23000"	3160
+	"2013"	"2013"	"Soft Tissue including Heart"	"24000"	11482
+	"2013"	"2013"	"Skin excluding Basal and Squamous"	"25010-25020"	80480
+	"2013"	"2013"	"Melanoma of the Skin"	"25010"	74239
+	"2013"	"2013"	"Other Non-Epithelial Skin"	"25020"	6241
+	"2013"	"2013"	"Male and Female Breast"	"26000"	239801
+	"2013"	"2013"	"Female Breast"	"26000-Female"	237663
+	"2013"	"2013"	"Male Breast"	"26000-Male"	2138
+	"2013"	"2013"	"Female Genital System"	"27010-27070"	94833
+	"2013"	"2013"	"Cervix Uteri"	"27010"	12492
+	"2013"	"2013"	"Corpus Uteri"	"27020"	50209
+	"2013"	"2013"	"Uterus, NOS"	"27030"	1710
+	"2013"	"2013"	"Ovary"	"27040"	21713
+	"2013"	"2013"	"Vagina"	"27050"	1312
+	"2013"	"2013"	"Vulva"	"27060"	5078
+	"2013"	"2013"	"Other Female Genital Organs"	"27070"	2319
+	"2013"	"2013"	"Male Genital System"	"28010-28040"	197456
+	"2013"	"2013"	"Prostate"	"28010"	187033
+	"2013"	"2013"	"Testis"	"28020"	8608
+	"2013"	"2013"	"Penis"	"28030"	1414
+	"2013"	"2013"	"Other Male Genital Organs"	"28040"	401
+	"2013"	"2013"	"Urinary System"	"29010-29040"	135396
+	"2013"	"2013"	"Urinary Bladder, invasive and in situ"	"29010"	73445
+	"2013"	"2013"	"Kidney and Renal Pelvis"	"29020"	58757
+	"2013"	"2013"	"Ureter"	"29030"	1972
+	"2013"	"2013"	"Other Urinary Organs"	"29040"	1222
+	"2013"	"2013"	"Eye and Orbit"	"30000"	2998
+	"2013"	"2013"	"Brain and Other Nervous System"	"31010-31040"	22694
+	"2013"	"2013"	"Brain"	"31010"	21238
+	"2013"	"2013"	"Cranial Nerves Other Nervous System"	"31040"	1456
+	"2013"	"2013"	"Endocrine System"	"32010-32020"	52165
+	"2013"	"2013"	"Thyroid"	"32010"	49660
+	"2013"	"2013"	"Other Endocrine including Thymus"	"32020"	2505
+	"2013"	"2013"	"Lymphomas"	"33011-33042"	75734
+	"2013"	"2013"	"Hodgkin Lymphoma"	"33011-33012"	8452
+	"2013"	"2013"	"Hodgkin - Nodal"	"33011"	8290
+	"2013"	"2013"	"Hodgkin - Extranodal"	"33012"	162
+	"2013"	"2013"	"Non-Hodgkin Lymphoma"	"33041-33042"	67282
+	"2013"	"2013"	"NHL - Nodal"	"33041"	45092
+	"2013"	"2013"	"NHL - Extranodal"	"33042"	22190
+	"2013"	"2013"	"Myeloma"	"34000"	24186
+	"2013"	"2013"	"Leukemias"	"35011-35043"	48586
+	"2013"	"2013"	"Acute Lymphocytic Leukemia"	"35011"	4821
+	"2013"	"2013"	"Chronic Lymphocytic Leukemia"	"35012"	16804
+	"2013"	"2013"	"Acute Myeloid Leukemia"	"35021"	14873
+	"2013"	"2013"	"Chronic Myeloid Leukemia"	"35022"	6502
+	"2013"	"2013"	"Other Leukemias"	"35041-35043"	5586
+	"2013"	"2013"	"Other Lymphocytic Leukemia"	"35013"	1447
+	"2013"	"2013"	"Acute Monocytic Leukemia"	"35031"	677
+	"2013"	"2013"	"Other Acute Leukemia"	"35041"	885
+	"2013"	"2013"	"Aleukemic, Subleukemic and NOS"	"35043"	1968
+	"2013"	"2013"	"Other Myeloid/Monocytic Leukemia"	"35023"	609
+	"2013"	"2013"	"Mesothelioma"	"36010"	3303
+	"2013"	"2013"	"Kaposi Sarcoma"	"36020"	1182
+	"2013"	"2013"	"Miscellaneous"	"37000"	59432
+	"2013"	"2013"	"Male and Female Breast, In Situ"	"Breast-InSitu"	58459
+	"2013"	"2013"	"Female Breast, In Situ"	"Breast-InSitu-Female"	58234
+	"2013"	"2013"	"Male Breast, In Situ"	"Breast-InSitu-Male"	225
+	"2014"	"2014"	"All Invasive Cancer Sites Combined"	"0"	1637573
+	"2014"	"2014"	"Oral Cavity and Pharynx"	"20010-20100"	44434
+	"2014"	"2014"	"Lip"	"20010"	2039
+	"2014"	"2014"	"Tongue"	"20020"	13837
+	"2014"	"2014"	"Salivary Gland"	"20030"	4628
+	"2014"	"2014"	"Floor of Mouth"	"20040"	1991
+	"2014"	"2014"	"Gum and Other Mouth"	"20050"	5921
+	"2014"	"2014"	"Nasopharynx"	"20060"	1814
+	"2014"	"2014"	"Tonsil"	"20070"	8486
+	"2014"	"2014"	"Oropharynx"	"20080"	2156
+	"2014"	"2014"	"Hypopharynx"	"20090"	2290
+	"2014"	"2014"	"Other Oral Cavity and Pharynx"	"20100"	1272
+	"2014"	"2014"	"Digestive System"	"21010-21130"	297592
+	"2014"	"2014"	"Esophagus"	"21010"	17248
+	"2014"	"2014"	"Stomach"	"21020"	24335
+	"2014"	"2014"	"Small Intestine"	"21030"	8780
+	"2014"	"2014"	"Colon and Rectum"	"21041-21052"	143515
+	"2014"	"2014"	"Colon excluding Rectum"	"21041-21049"	101632
+	"2014"	"2014"	"Cecum"	"21041"	21046
+	"2014"	"2014"	"Appendix"	"21042"	4195
+	"2014"	"2014"	"Ascending Colon"	"21043"	19616
+	"2014"	"2014"	"Hepatic Flexure"	"21044"	4437
+	"2014"	"2014"	"Transverse Colon"	"21045"	9604
+	"2014"	"2014"	"Splenic Flexure"	"21046"	2842
+	"2014"	"2014"	"Descending Colon"	"21047"	5973
+	"2014"	"2014"	"Sigmoid Colon"	"21048"	25363
+	"2014"	"2014"	"Large Intestine, NOS"	"21049"	8556
+	"2014"	"2014"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41883
+	"2014"	"2014"	"Rectosigmoid Junction"	"21051"	9956
+	"2014"	"2014"	"Rectum"	"21052"	31927
+	"2014"	"2014"	"Anus, Anal Canal and Anorectum"	"21060"	7190
+	"2014"	"2014"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	32578
+	"2014"	"2014"	"Liver"	"21071"	28449
+	"2014"	"2014"	"Intrahepatic Bile Duct"	"21072"	4129
+	"2014"	"2014"	"Gallbladder"	"21080"	4206
+	"2014"	"2014"	"Other Biliary"	"21090"	6459
+	"2014"	"2014"	"Pancreas"	"21100"	47676
+	"2014"	"2014"	"Retroperitoneum"	"21110"	1346
+	"2014"	"2014"	"Peritoneum, Omentum and Mesentery"	"21120"	1958
+	"2014"	"2014"	"Other Digestive Organs"	"21130"	2301
+	"2014"	"2014"	"Respiratory System"	"22010-22060"	235765
+	"2014"	"2014"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2437
+	"2014"	"2014"	"Larynx"	"22020"	12664
+	"2014"	"2014"	"Lung and Bronchus"	"22030"	219913
+	"2014"	"2014"	"Pleura"	"22050"	112
+	"2014"	"2014"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	639
+	"2014"	"2014"	"Bones and Joints"	"23000"	3234
+	"2014"	"2014"	"Soft Tissue including Heart"	"24000"	11741
+	"2014"	"2014"	"Skin excluding Basal and Squamous"	"25010-25020"	84163
+	"2014"	"2014"	"Melanoma of the Skin"	"25010"	78132
+	"2014"	"2014"	"Other Non-Epithelial Skin"	"25020"	6031
+	"2014"	"2014"	"Male and Female Breast"	"26000"	243232
+	"2014"	"2014"	"Female Breast"	"26000-Female"	241091
+	"2014"	"2014"	"Male Breast"	"26000-Male"	2141
+	"2014"	"2014"	"Female Genital System"	"27010-27070"	97818
+	"2014"	"2014"	"Cervix Uteri"	"27010"	12993
+	"2014"	"2014"	"Corpus Uteri"	"27020"	52150
+	"2014"	"2014"	"Uterus, NOS"	"27030"	1863
+	"2014"	"2014"	"Ovary"	"27040"	21670
+	"2014"	"2014"	"Vagina"	"27050"	1367
+	"2014"	"2014"	"Vulva"	"27060"	5258
+	"2014"	"2014"	"Other Female Genital Organs"	"27070"	2517
+	"2014"	"2014"	"Male Genital System"	"28010-28040"	190137
+	"2014"	"2014"	"Prostate"	"28010"	179434
+	"2014"	"2014"	"Testis"	"28020"	8786
+	"2014"	"2014"	"Penis"	"28030"	1550
+	"2014"	"2014"	"Other Male Genital Organs"	"28040"	367
+	"2014"	"2014"	"Urinary System"	"29010-29040"	138021
+	"2014"	"2014"	"Urinary Bladder, invasive and in situ"	"29010"	74041
+	"2014"	"2014"	"Kidney and Renal Pelvis"	"29020"	60694
+	"2014"	"2014"	"Ureter"	"29030"	2148
+	"2014"	"2014"	"Other Urinary Organs"	"29040"	1138
+	"2014"	"2014"	"Eye and Orbit"	"30000"	2993
+	"2014"	"2014"	"Brain and Other Nervous System"	"31010-31040"	22622
+	"2014"	"2014"	"Brain"	"31010"	21197
+	"2014"	"2014"	"Cranial Nerves Other Nervous System"	"31040"	1425
+	"2014"	"2014"	"Endocrine System"	"32010-32020"	52242
+	"2014"	"2014"	"Thyroid"	"32010"	49684
+	"2014"	"2014"	"Other Endocrine including Thymus"	"32020"	2558
+	"2014"	"2014"	"Lymphomas"	"33011-33042"	77178
+	"2014"	"2014"	"Hodgkin Lymphoma"	"33011-33012"	8789
+	"2014"	"2014"	"Hodgkin - Nodal"	"33011"	8653
+	"2014"	"2014"	"Hodgkin - Extranodal"	"33012"	136
+	"2014"	"2014"	"Non-Hodgkin Lymphoma"	"33041-33042"	68389
+	"2014"	"2014"	"NHL - Nodal"	"33041"	45727
+	"2014"	"2014"	"NHL - Extranodal"	"33042"	22662
+	"2014"	"2014"	"Myeloma"	"34000"	24620
+	"2014"	"2014"	"Leukemias"	"35011-35043"	49165
+	"2014"	"2014"	"Acute Lymphocytic Leukemia"	"35011"	5050
+	"2014"	"2014"	"Chronic Lymphocytic Leukemia"	"35012"	16780
+	"2014"	"2014"	"Acute Myeloid Leukemia"	"35021"	15308
+	"2014"	"2014"	"Chronic Myeloid Leukemia"	"35022"	6529
+	"2014"	"2014"	"Other Leukemias"	"35041-35043"	5498
+	"2014"	"2014"	"Other Lymphocytic Leukemia"	"35013"	1416
+	"2014"	"2014"	"Acute Monocytic Leukemia"	"35031"	679
+	"2014"	"2014"	"Other Acute Leukemia"	"35041"	872
+	"2014"	"2014"	"Aleukemic, Subleukemic and NOS"	"35043"	1956
+	"2014"	"2014"	"Other Myeloid/Monocytic Leukemia"	"35023"	575
+	"2014"	"2014"	"Mesothelioma"	"36010"	3294
+	"2014"	"2014"	"Kaposi Sarcoma"	"36020"	1196
+	"2014"	"2014"	"Miscellaneous"	"37000"	58126
+	"2014"	"2014"	"Male and Female Breast, In Situ"	"Breast-InSitu"	58097
+	"2014"	"2014"	"Female Breast, In Situ"	"Breast-InSitu-Female"	57827
+	"2014"	"2014"	"Male Breast, In Situ"	"Breast-InSitu-Male"	270
+	"2015"	"2015"	"All Invasive Cancer Sites Combined"	"0"	1649728
+	"2015"	"2015"	"Oral Cavity and Pharynx"	"20010-20100"	44902
+	"2015"	"2015"	"Lip"	"20010"	2061
+	"2015"	"2015"	"Tongue"	"20020"	14026
+	"2015"	"2015"	"Salivary Gland"	"20030"	4638
+	"2015"	"2015"	"Floor of Mouth"	"20040"	1991
+	"2015"	"2015"	"Gum and Other Mouth"	"20050"	5942
+	"2015"	"2015"	"Nasopharynx"	"20060"	1925
+	"2015"	"2015"	"Tonsil"	"20070"	8521
+	"2015"	"2015"	"Oropharynx"	"20080"	2161
+	"2015"	"2015"	"Hypopharynx"	"20090"	2403
+	"2015"	"2015"	"Other Oral Cavity and Pharynx"	"20100"	1234
+	"2015"	"2015"	"Digestive System"	"21010-21130"	298487
+	"2015"	"2015"	"Esophagus"	"21010"	17423
+	"2015"	"2015"	"Stomach"	"21020"	24067
+	"2015"	"2015"	"Small Intestine"	"21030"	9002
+	"2015"	"2015"	"Colon and Rectum"	"21041-21052"	142705
+	"2015"	"2015"	"Colon excluding Rectum"	"21041-21049"	101148
+	"2015"	"2015"	"Cecum"	"21041"	20685
+	"2015"	"2015"	"Appendix"	"21042"	5382
+	"2015"	"2015"	"Ascending Colon"	"21043"	19574
+	"2015"	"2015"	"Hepatic Flexure"	"21044"	4410
+	"2015"	"2015"	"Transverse Colon"	"21045"	9307
+	"2015"	"2015"	"Splenic Flexure"	"21046"	2863
+	"2015"	"2015"	"Descending Colon"	"21047"	5916
+	"2015"	"2015"	"Sigmoid Colon"	"21048"	24974
+	"2015"	"2015"	"Large Intestine, NOS"	"21049"	8037
+	"2015"	"2015"	"Rectum and Rectosigmoid Junction"	"21051-21052"	41557
+	"2015"	"2015"	"Rectosigmoid Junction"	"21051"	9638
+	"2015"	"2015"	"Rectum"	"21052"	31919
+	"2015"	"2015"	"Anus, Anal Canal and Anorectum"	"21060"	7147
+	"2015"	"2015"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	33299
+	"2015"	"2015"	"Liver"	"21071"	28570
+	"2015"	"2015"	"Intrahepatic Bile Duct"	"21072"	4729
+	"2015"	"2015"	"Gallbladder"	"21080"	4079
+	"2015"	"2015"	"Other Biliary"	"21090"	6413
+	"2015"	"2015"	"Pancreas"	"21100"	48609
+	"2015"	"2015"	"Retroperitoneum"	"21110"	1336
+	"2015"	"2015"	"Peritoneum, Omentum and Mesentery"	"21120"	1936
+	"2015"	"2015"	"Other Digestive Organs"	"21130"	2471
+	"2015"	"2015"	"Respiratory System"	"22010-22060"	234836
+	"2015"	"2015"	"Nose, Nasal Cavity and Middle Ear"	"22010"	2389
+	"2015"	"2015"	"Larynx"	"22020"	12444
+	"2015"	"2015"	"Lung and Bronchus"	"22030"	219316
+	"2015"	"2015"	"Pleura"	"22050"	100
+	"2015"	"2015"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	587
+	"2015"	"2015"	"Bones and Joints"	"23000"	3143
+	"2015"	"2015"	"Soft Tissue including Heart"	"24000"	11457
+	"2015"	"2015"	"Skin excluding Basal and Squamous"	"25010-25020"	86658
+	"2015"	"2015"	"Melanoma of the Skin"	"25010"	80576
+	"2015"	"2015"	"Other Non-Epithelial Skin"	"25020"	6082
+	"2015"	"2015"	"Male and Female Breast"	"26000"	246966
+	"2015"	"2015"	"Female Breast"	"26000-Female"	244660
+	"2015"	"2015"	"Male Breast"	"26000-Male"	2306
+	"2015"	"2015"	"Female Genital System"	"27010-27070"	99125
+	"2015"	"2015"	"Cervix Uteri"	"27010"	13100
+	"2015"	"2015"	"Corpus Uteri"	"27020"	53390
+	"2015"	"2015"	"Uterus, NOS"	"27030"	1884
+	"2015"	"2015"	"Ovary"	"27040"	21618
+	"2015"	"2015"	"Vagina"	"27050"	1263
+	"2015"	"2015"	"Vulva"	"27060"	5120
+	"2015"	"2015"	"Other Female Genital Organs"	"27070"	2750
+	"2015"	"2015"	"Male Genital System"	"28010-28040"	197098
+	"2015"	"2015"	"Prostate"	"28010"	186688
+	"2015"	"2015"	"Testis"	"28020"	8664
+	"2015"	"2015"	"Penis"	"28030"	1385
+	"2015"	"2015"	"Other Male Genital Organs"	"28040"	361
+	"2015"	"2015"	"Urinary System"	"29010-29040"	139146
+	"2015"	"2015"	"Urinary Bladder, invasive and in situ"	"29010"	73539
+	"2015"	"2015"	"Kidney and Renal Pelvis"	"29020"	62224
+	"2015"	"2015"	"Ureter"	"29030"	2080
+	"2015"	"2015"	"Other Urinary Organs"	"29040"	1303
+	"2015"	"2015"	"Eye and Orbit"	"30000"	3055
+	"2015"	"2015"	"Brain and Other Nervous System"	"31010-31040"	22513
+	"2015"	"2015"	"Brain"	"31010"	21179
+	"2015"	"2015"	"Cranial Nerves Other Nervous System"	"31040"	1334
+	"2015"	"2015"	"Endocrine System"	"32010-32020"	52632
+	"2015"	"2015"	"Thyroid"	"32010"	50007
+	"2015"	"2015"	"Other Endocrine including Thymus"	"32020"	2625
+	"2015"	"2015"	"Lymphomas"	"33011-33042"	76608
+	"2015"	"2015"	"Hodgkin Lymphoma"	"33011-33012"	8434
+	"2015"	"2015"	"Hodgkin - Nodal"	"33011"	8311
+	"2015"	"2015"	"Hodgkin - Extranodal"	"33012"	123
+	"2015"	"2015"	"Non-Hodgkin Lymphoma"	"33041-33042"	68174
+	"2015"	"2015"	"NHL - Nodal"	"33041"	46019
+	"2015"	"2015"	"NHL - Extranodal"	"33042"	22155
+	"2015"	"2015"	"Myeloma"	"34000"	24546
+	"2015"	"2015"	"Leukemias"	"35011-35043"	48035
+	"2015"	"2015"	"Acute Lymphocytic Leukemia"	"35011"	5277
+	"2015"	"2015"	"Chronic Lymphocytic Leukemia"	"35012"	16248
+	"2015"	"2015"	"Acute Myeloid Leukemia"	"35021"	14864
+	"2015"	"2015"	"Chronic Myeloid Leukemia"	"35022"	6308
+	"2015"	"2015"	"Other Leukemias"	"35041-35043"	5338
+	"2015"	"2015"	"Other Lymphocytic Leukemia"	"35013"	1380
+	"2015"	"2015"	"Acute Monocytic Leukemia"	"35031"	675
+	"2015"	"2015"	"Other Acute Leukemia"	"35041"	844
+	"2015"	"2015"	"Aleukemic, Subleukemic and NOS"	"35043"	1862
+	"2015"	"2015"	"Other Myeloid/Monocytic Leukemia"	"35023"	577
+	"2015"	"2015"	"Mesothelioma"	"36010"	3217
+	"2015"	"2015"	"Kaposi Sarcoma"	"36020"	1155
+	"2015"	"2015"	"Miscellaneous"	"37000"	56149
+	"2015"	"2015"	"Male and Female Breast, In Situ"	"Breast-InSitu"	57407
+	"2015"	"2015"	"Female Breast, In Situ"	"Breast-InSitu-Female"	57165
+	"2015"	"2015"	"Male Breast, In Situ"	"Breast-InSitu-Male"	242
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2015 Incidence"
+"Query Parameters:"
+"Group By: Year; Cancer Sites"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2015.html for more information."
+"---"
+"Query Date: Aug 30, 2019 5:26:24 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2015 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2018. Accessed at"
+"http://wonder.cdc.gov/cancer-v2015.html on Aug 30, 2019 5:26:24 PM"
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Genital Cancers List."
+"2. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"3. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"4. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
