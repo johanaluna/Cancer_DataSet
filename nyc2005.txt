@@ -1,0 +1,256 @@
+"Notes"	"Year"	"Year Code"	"Cancer Sites"	"Cancer Sites Code"	"Sex"	"Sex Code"	Count
+	"2005"	"2005"	"All Invasive Cancer Sites Combined"	"0"	"Female"	"F"	50587
+	"2005"	"2005"	"All Invasive Cancer Sites Combined"	"0"	"Male"	"M"	51258
+	"2005"	"2005"	"Oral Cavity and Pharynx"	"20010-20100"	"Female"	"F"	661
+	"2005"	"2005"	"Oral Cavity and Pharynx"	"20010-20100"	"Male"	"M"	1317
+	"2005"	"2005"	"Lip"	"20010"	"Female"	"F"	25
+	"2005"	"2005"	"Lip"	"20010"	"Male"	"M"	48
+	"2005"	"2005"	"Tongue"	"20020"	"Female"	"F"	153
+	"2005"	"2005"	"Tongue"	"20020"	"Male"	"M"	334
+	"2005"	"2005"	"Salivary Gland"	"20030"	"Female"	"F"	109
+	"2005"	"2005"	"Salivary Gland"	"20030"	"Male"	"M"	143
+	"2005"	"2005"	"Floor of Mouth"	"20040"	"Female"	"F"	34
+	"2005"	"2005"	"Floor of Mouth"	"20040"	"Male"	"M"	90
+	"2005"	"2005"	"Gum and Other Mouth"	"20050"	"Female"	"F"	145
+	"2005"	"2005"	"Gum and Other Mouth"	"20050"	"Male"	"M"	161
+	"2005"	"2005"	"Nasopharynx"	"20060"	"Female"	"F"	57
+	"2005"	"2005"	"Nasopharynx"	"20060"	"Male"	"M"	114
+	"2005"	"2005"	"Tonsil"	"20070"	"Female"	"F"	62
+	"2005"	"2005"	"Tonsil"	"20070"	"Male"	"M"	233
+	"2005"	"2005"	"Oropharynx"	"20080"	"Female"	"F"	29
+	"2005"	"2005"	"Oropharynx"	"20080"	"Male"	"M"	73
+	"2005"	"2005"	"Hypopharynx"	"20090"	"Female"	"F"	31
+	"2005"	"2005"	"Hypopharynx"	"20090"	"Male"	"M"	104
+	"2005"	"2005"	"Other Oral Cavity and Pharynx"	"20100"	"Female"	"F"	16
+	"2005"	"2005"	"Other Oral Cavity and Pharynx"	"20100"	"Male"	"M"	17
+	"2005"	"2005"	"Digestive System"	"21010-21130"	"Female"	"F"	9193
+	"2005"	"2005"	"Digestive System"	"21010-21130"	"Male"	"M"	10174
+	"2005"	"2005"	"Esophagus"	"21010"	"Female"	"F"	302
+	"2005"	"2005"	"Esophagus"	"21010"	"Male"	"M"	789
+	"2005"	"2005"	"Stomach"	"21020"	"Female"	"F"	810
+	"2005"	"2005"	"Stomach"	"21020"	"Male"	"M"	1119
+	"2005"	"2005"	"Small Intestine"	"21030"	"Female"	"F"	213
+	"2005"	"2005"	"Small Intestine"	"21030"	"Male"	"M"	212
+	"2005"	"2005"	"Colon and Rectum"	"21041-21052"	"Female"	"F"	5233
+	"2005"	"2005"	"Colon and Rectum"	"21041-21052"	"Male"	"M"	5123
+	"2005"	"2005"	"Colon excluding Rectum"	"21041-21049"	"Female"	"F"	3987
+	"2005"	"2005"	"Colon excluding Rectum"	"21041-21049"	"Male"	"M"	3606
+	"2005"	"2005"	"Cecum"	"21041"	"Female"	"F"	959
+	"2005"	"2005"	"Cecum"	"21041"	"Male"	"M"	707
+	"2005"	"2005"	"Appendix"	"21042"	"Female"	"F"	79
+	"2005"	"2005"	"Appendix"	"21042"	"Male"	"M"	57
+	"2005"	"2005"	"Ascending Colon"	"21043"	"Female"	"F"	728
+	"2005"	"2005"	"Ascending Colon"	"21043"	"Male"	"M"	649
+	"2005"	"2005"	"Hepatic Flexure"	"21044"	"Female"	"F"	164
+	"2005"	"2005"	"Hepatic Flexure"	"21044"	"Male"	"M"	158
+	"2005"	"2005"	"Transverse Colon"	"21045"	"Female"	"F"	359
+	"2005"	"2005"	"Transverse Colon"	"21045"	"Male"	"M"	292
+	"2005"	"2005"	"Splenic Flexure"	"21046"	"Female"	"F"	131
+	"2005"	"2005"	"Splenic Flexure"	"21046"	"Male"	"M"	132
+	"2005"	"2005"	"Descending Colon"	"21047"	"Female"	"F"	238
+	"2005"	"2005"	"Descending Colon"	"21047"	"Male"	"M"	236
+	"2005"	"2005"	"Sigmoid Colon"	"21048"	"Female"	"F"	995
+	"2005"	"2005"	"Sigmoid Colon"	"21048"	"Male"	"M"	1072
+	"2005"	"2005"	"Large Intestine, NOS"	"21049"	"Female"	"F"	334
+	"2005"	"2005"	"Large Intestine, NOS"	"21049"	"Male"	"M"	303
+	"2005"	"2005"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Female"	"F"	1246
+	"2005"	"2005"	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Male"	"M"	1517
+	"2005"	"2005"	"Rectosigmoid Junction"	"21051"	"Female"	"F"	397
+	"2005"	"2005"	"Rectosigmoid Junction"	"21051"	"Male"	"M"	472
+	"2005"	"2005"	"Rectum"	"21052"	"Female"	"F"	849
+	"2005"	"2005"	"Rectum"	"21052"	"Male"	"M"	1045
+	"2005"	"2005"	"Anus, Anal Canal and Anorectum"	"21060"	"Female"	"F"	214
+	"2005"	"2005"	"Anus, Anal Canal and Anorectum"	"21060"	"Male"	"M"	156
+	"2005"	"2005"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Female"	"F"	425
+	"2005"	"2005"	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Male"	"M"	1127
+	"2005"	"2005"	"Liver"	"21071"	"Female"	"F"	356
+	"2005"	"2005"	"Liver"	"21071"	"Male"	"M"	1049
+	"2005"	"2005"	"Intrahepatic Bile Duct"	"21072"	"Female"	"F"	69
+	"2005"	"2005"	"Intrahepatic Bile Duct"	"21072"	"Male"	"M"	78
+	"2005"	"2005"	"Gallbladder"	"21080"	"Female"	"F"	216
+	"2005"	"2005"	"Gallbladder"	"21080"	"Male"	"M"	102
+	"2005"	"2005"	"Other Biliary"	"21090"	"Female"	"F"	206
+	"2005"	"2005"	"Other Biliary"	"21090"	"Male"	"M"	194
+	"2005"	"2005"	"Pancreas"	"21100"	"Female"	"F"	1356
+	"2005"	"2005"	"Pancreas"	"21100"	"Male"	"M"	1252
+	"2005"	"2005"	"Retroperitoneum"	"21110"	"Female"	"F"	47
+	"2005"	"2005"	"Retroperitoneum"	"21110"	"Male"	"M"	51
+	"2005"	"2005"	"Peritoneum, Omentum and Mesentery"	"21120"	"Female"	"F"	130
+	"2005"	"2005"	"Other Digestive Organs"	"21130"	"Female"	"F"	41
+	"2005"	"2005"	"Other Digestive Organs"	"21130"	"Male"	"M"	39
+	"2005"	"2005"	"Respiratory System"	"22010-22060"	"Female"	"F"	6567
+	"2005"	"2005"	"Respiratory System"	"22010-22060"	"Male"	"M"	7632
+	"2005"	"2005"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"Female"	"F"	54
+	"2005"	"2005"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"Male"	"M"	56
+	"2005"	"2005"	"Larynx"	"22020"	"Female"	"F"	190
+	"2005"	"2005"	"Larynx"	"22020"	"Male"	"M"	672
+	"2005"	"2005"	"Lung and Bronchus"	"22030"	"Female"	"F"	6310
+	"2005"	"2005"	"Lung and Bronchus"	"22030"	"Male"	"M"	6876
+	"2005"	"2005"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"Male"	"M"	23
+	"2005"	"2005"	"Bones and Joints"	"23000"	"Female"	"F"	85
+	"2005"	"2005"	"Bones and Joints"	"23000"	"Male"	"M"	125
+	"2005"	"2005"	"Soft Tissue including Heart"	"24000"	"Female"	"F"	278
+	"2005"	"2005"	"Soft Tissue including Heart"	"24000"	"Male"	"M"	326
+	"2005"	"2005"	"Skin excluding Basal and Squamous"	"25010-25020"	"Female"	"F"	1534
+	"2005"	"2005"	"Skin excluding Basal and Squamous"	"25010-25020"	"Male"	"M"	2010
+	"2005"	"2005"	"Melanoma of the Skin"	"25010"	"Female"	"F"	1399
+	"2005"	"2005"	"Melanoma of the Skin"	"25010"	"Male"	"M"	1830
+	"2005"	"2005"	"Other Non-Epithelial Skin"	"25020"	"Female"	"F"	135
+	"2005"	"2005"	"Other Non-Epithelial Skin"	"25020"	"Male"	"M"	180
+	"2005"	"2005"	"Male and Female Breast"	"26000"	"Female"	"F"	13913
+	"2005"	"2005"	"Male and Female Breast"	"26000"	"Male"	"M"	113
+	"2005"	"2005"	"Female Breast"	"26000-Female"	"Female"	"F"	13913
+	"2005"	"2005"	"Female Breast"	"26000-Female"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Male Breast"	"26000-Male"	"Female"	"F"	Not Applicable
+	"2005"	"2005"	"Male Breast"	"26000-Male"	"Male"	"M"	113
+	"2005"	"2005"	"Female Genital System"	"27010-27070"	"Female"	"F"	6211
+	"2005"	"2005"	"Female Genital System"	"27010-27070"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Cervix Uteri"	"27010"	"Female"	"F"	957
+	"2005"	"2005"	"Cervix Uteri"	"27010"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Corpus Uteri"	"27020"	"Female"	"F"	3207
+	"2005"	"2005"	"Corpus Uteri"	"27020"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Uterus, NOS"	"27030"	"Female"	"F"	106
+	"2005"	"2005"	"Uterus, NOS"	"27030"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Ovary"	"27040"	"Female"	"F"	1506
+	"2005"	"2005"	"Ovary"	"27040"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Vagina"	"27050"	"Female"	"F"	65
+	"2005"	"2005"	"Vagina"	"27050"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Vulva"	"27060"	"Female"	"F"	277
+	"2005"	"2005"	"Vulva"	"27060"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Other Female Genital Organs"	"27070"	"Female"	"F"	93
+	"2005"	"2005"	"Other Female Genital Organs"	"27070"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Male Genital System"	"28010-28040"	"Female"	"F"	Not Applicable
+	"2005"	"2005"	"Male Genital System"	"28010-28040"	"Male"	"M"	15072
+	"2005"	"2005"	"Prostate"	"28010"	"Female"	"F"	Not Applicable
+	"2005"	"2005"	"Prostate"	"28010"	"Male"	"M"	14433
+	"2005"	"2005"	"Testis"	"28020"	"Female"	"F"	Not Applicable
+	"2005"	"2005"	"Testis"	"28020"	"Male"	"M"	537
+	"2005"	"2005"	"Penis"	"28030"	"Female"	"F"	Not Applicable
+	"2005"	"2005"	"Penis"	"28030"	"Male"	"M"	85
+	"2005"	"2005"	"Other Male Genital Organs"	"28040"	"Female"	"F"	Not Applicable
+	"2005"	"2005"	"Other Male Genital Organs"	"28040"	"Male"	"M"	17
+	"2005"	"2005"	"Urinary System"	"29010-29040"	"Female"	"F"	2686
+	"2005"	"2005"	"Urinary System"	"29010-29040"	"Male"	"M"	5649
+	"2005"	"2005"	"Urinary Bladder, invasive and in situ"	"29010"	"Female"	"F"	1399
+	"2005"	"2005"	"Urinary Bladder, invasive and in situ"	"29010"	"Male"	"M"	3679
+	"2005"	"2005"	"Kidney and Renal Pelvis"	"29020"	"Female"	"F"	1212
+	"2005"	"2005"	"Kidney and Renal Pelvis"	"29020"	"Male"	"M"	1842
+	"2005"	"2005"	"Ureter"	"29030"	"Female"	"F"	53
+	"2005"	"2005"	"Ureter"	"29030"	"Male"	"M"	84
+	"2005"	"2005"	"Other Urinary Organs"	"29040"	"Female"	"F"	22
+	"2005"	"2005"	"Other Urinary Organs"	"29040"	"Male"	"M"	44
+	"2005"	"2005"	"Eye and Orbit"	"30000"	"Female"	"F"	93
+	"2005"	"2005"	"Eye and Orbit"	"30000"	"Male"	"M"	106
+	"2005"	"2005"	"Brain and Other Nervous System"	"31010-31040"	"Female"	"F"	598
+	"2005"	"2005"	"Brain and Other Nervous System"	"31010-31040"	"Male"	"M"	784
+	"2005"	"2005"	"Brain"	"31010"	"Female"	"F"	537
+	"2005"	"2005"	"Brain"	"31010"	"Male"	"M"	738
+	"2005"	"2005"	"Cranial Nerves Other Nervous System"	"31040"	"Female"	"F"	61
+	"2005"	"2005"	"Cranial Nerves Other Nervous System"	"31040"	"Male"	"M"	46
+	"2005"	"2005"	"Endocrine System"	"32010-32020"	"Female"	"F"	2063
+	"2005"	"2005"	"Endocrine System"	"32010-32020"	"Male"	"M"	732
+	"2005"	"2005"	"Thyroid"	"32010"	"Female"	"F"	1949
+	"2005"	"2005"	"Thyroid"	"32010"	"Male"	"M"	630
+	"2005"	"2005"	"Other Endocrine including Thymus"	"32020"	"Female"	"F"	114
+	"2005"	"2005"	"Other Endocrine including Thymus"	"32020"	"Male"	"M"	102
+	"2005"	"2005"	"Lymphomas"	"33011-33042"	"Female"	"F"	2391
+	"2005"	"2005"	"Lymphomas"	"33011-33042"	"Male"	"M"	2663
+	"2005"	"2005"	"Hodgkin Lymphoma"	"33011-33012"	"Female"	"F"	297
+	"2005"	"2005"	"Hodgkin Lymphoma"	"33011-33012"	"Male"	"M"	372
+	"2005"	"2005"	"Hodgkin - Nodal"	"33011"	"Female"	"F"	286
+	"2005"	"2005"	"Hodgkin - Nodal"	"33011"	"Male"	"M"	356
+	"2005"	"2005"	"Hodgkin - Extranodal"	"33012"	"Male"	"M"	16
+	"2005"	"2005"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Female"	"F"	2094
+	"2005"	"2005"	"Non-Hodgkin Lymphoma"	"33041-33042"	"Male"	"M"	2291
+	"2005"	"2005"	"NHL - Nodal"	"33041"	"Female"	"F"	1369
+	"2005"	"2005"	"NHL - Nodal"	"33041"	"Male"	"M"	1513
+	"2005"	"2005"	"NHL - Extranodal"	"33042"	"Female"	"F"	725
+	"2005"	"2005"	"NHL - Extranodal"	"33042"	"Male"	"M"	778
+	"2005"	"2005"	"Myeloma"	"34000"	"Female"	"F"	702
+	"2005"	"2005"	"Myeloma"	"34000"	"Male"	"M"	718
+	"2005"	"2005"	"Leukemias"	"35011-35043"	"Female"	"F"	1299
+	"2005"	"2005"	"Leukemias"	"35011-35043"	"Male"	"M"	1601
+	"2005"	"2005"	"Acute Lymphocytic Leukemia"	"35011"	"Female"	"F"	114
+	"2005"	"2005"	"Acute Lymphocytic Leukemia"	"35011"	"Male"	"M"	152
+	"2005"	"2005"	"Chronic Lymphocytic Leukemia"	"35012"	"Female"	"F"	544
+	"2005"	"2005"	"Chronic Lymphocytic Leukemia"	"35012"	"Male"	"M"	639
+	"2005"	"2005"	"Acute Myeloid Leukemia"	"35021"	"Female"	"F"	362
+	"2005"	"2005"	"Acute Myeloid Leukemia"	"35021"	"Male"	"M"	412
+	"2005"	"2005"	"Chronic Myeloid Leukemia"	"35022"	"Female"	"F"	146
+	"2005"	"2005"	"Chronic Myeloid Leukemia"	"35022"	"Male"	"M"	198
+	"2005"	"2005"	"Other Leukemias"	"35041-35043"	"Female"	"F"	133
+	"2005"	"2005"	"Other Leukemias"	"35041-35043"	"Male"	"M"	200
+	"2005"	"2005"	"Other Lymphocytic Leukemia"	"35013"	"Female"	"F"	29
+	"2005"	"2005"	"Other Lymphocytic Leukemia"	"35013"	"Male"	"M"	67
+	"2005"	"2005"	"Acute Monocytic Leukemia"	"35031"	"Female"	"F"	20
+	"2005"	"2005"	"Acute Monocytic Leukemia"	"35031"	"Male"	"M"	28
+	"2005"	"2005"	"Other Acute Leukemia"	"35041"	"Female"	"F"	20
+	"2005"	"2005"	"Other Acute Leukemia"	"35041"	"Male"	"M"	25
+	"2005"	"2005"	"Aleukemic, Subleukemic and NOS"	"35043"	"Female"	"F"	47
+	"2005"	"2005"	"Aleukemic, Subleukemic and NOS"	"35043"	"Male"	"M"	49
+	"2005"	"2005"	"Other Myeloid/Monocytic Leukemia"	"35023"	"Female"	"F"	17
+	"2005"	"2005"	"Other Myeloid/Monocytic Leukemia"	"35023"	"Male"	"M"	31
+	"2005"	"2005"	"Mesothelioma"	"36010"	"Female"	"F"	60
+	"2005"	"2005"	"Mesothelioma"	"36010"	"Male"	"M"	160
+	"2005"	"2005"	"Kaposi Sarcoma"	"36020"	"Female"	"F"	38
+	"2005"	"2005"	"Kaposi Sarcoma"	"36020"	"Male"	"M"	169
+	"2005"	"2005"	"Miscellaneous"	"37000"	"Female"	"F"	2215
+	"2005"	"2005"	"Miscellaneous"	"37000"	"Male"	"M"	1907
+	"2005"	"2005"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Female"	"F"	3929
+	"2005"	"2005"	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Male"	"M"	17
+	"2005"	"2005"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Female"	"F"	3929
+	"2005"	"2005"	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Male"	"M"	Not Applicable
+	"2005"	"2005"	"Male Breast, In Situ"	"Breast-InSitu-Male"	"Female"	"F"	Not Applicable
+	"2005"	"2005"	"Male Breast, In Situ"	"Breast-InSitu-Male"	"Male"	"M"	17
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2015 Incidence"
+"Query Parameters:"
+"States and Puerto Rico: New York (36)"
+"Year: 2005"
+"Group By: Year; Cancer Sites; Sex"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2015.html for more information."
+"---"
+"Query Date: Sep 2, 2019 5:59:29 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2015 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2018. Accessed at"
+"http://wonder.cdc.gov/cancer-v2015.html on Sep 2, 2019 5:59:29 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Illinois, Kansas,"
+"Kentucky, New Jersey, and New York; 2) Asian or Pacific Islander data are suppressed at the state level for Delaware, Kansas,"
+"and Kentucky; 3) Hispanic data are supressed at the state level for Delaware, Kentucky, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"5. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
